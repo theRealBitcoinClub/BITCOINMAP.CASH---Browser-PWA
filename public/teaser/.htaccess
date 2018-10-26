@@ -1,6 +1,10 @@
 #AddType application/x-httpd-php .htm .html
 
-<filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|webp)$">
+<filesMatch ".(js|css)$">
+ Header set Cache-Control "max-age=86400, public"
+</filesMatch>
+
+<filesMatch ".(ico|pdf|jpg|jpeg|png|gif|webp)$">
  Header set Cache-Control "max-age=2592000, public"
 </filesMatch>
 

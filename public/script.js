@@ -39,7 +39,7 @@ function loadIcons() {
         }
     };
 
-    xmlhttp.open("GET", "places6.json", true);
+    xmlhttp.open("GET", "places8.json", true);
     xmlhttp.send();
 }
 
