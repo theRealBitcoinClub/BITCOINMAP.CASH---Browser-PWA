@@ -4,22 +4,54 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://bitcoinmap.world/</loc>
-  <lastmod>2018-10-21T20:57:41+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://bitcoinmap.world/bch-dash-btc/</loc>
-  <lastmod>2018-10-21T21:16:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bitcoinmap.world/teaser/</loc>
-  <lastmod>2018-10-22T22:08:03+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+            <url>
+            <loc>https://bitcoinmap.cash/</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>1.00</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/teaser/</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.80</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=restaurant</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=super</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=food</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=bar</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=hotel</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?category=shop</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?theme=light</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
+            <url>
+            <loc>https://bitcoinmap.cash/?theme=dark</loc>
+            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
+            <priority>0.64</priority>
+            </url>
 </urlset>
