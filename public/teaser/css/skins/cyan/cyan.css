@@ -58,12 +58,12 @@ a:hover,
         border-bottom: 1px solid #29c0d4;
 }
 .logo_small{
-background-size: 377px 48px;
         background: url(../../../img/logo_pattern_colors/cyan/logo.png) no-repeat;
+        background-size: contain;
 }
 .logo_big{
-background-size: 377px 48px;
         background: url(../../../img/logo_pattern_colors/cyan/logo-big.png) no-repeat;
+        background-size: contain;
 }
 .pattern_top{
         background: url(../../../img/logo_pattern_colors/cyan/pattern_top.png) repeat-x;
@@ -87,11 +87,13 @@ background-size: 377px 48px;
          .logo_small {
                  height: 32px;
                  width: 251px;
-             background-size: 251px 32px;
                  background: url(../../../img/logo_32x251.png) no-repeat;
+                 background-size: contain;
          }
         .logo_big{
-            background-size: 251px 32px;
+                height: 32px;
+                width: 251px;
                  background: url(../../../img/logo_32x251.png) no-repeat;
+                 background-size: contain;
         }
 }

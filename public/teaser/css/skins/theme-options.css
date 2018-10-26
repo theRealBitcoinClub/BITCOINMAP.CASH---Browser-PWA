@@ -40,13 +40,13 @@
 	-ms-transition: 0.5s all ease;
 	transition: 0.5s all ease;
 }
-.layout-boxed header, 
+.layout-boxed header,
 .layout-boxed-margin header{
 	position: relative;
 }
-.layout-boxed .camera_wrap, 
+.layout-boxed .camera_wrap,
 .layout-boxed-margin .camera_wrap,
-.layout-boxed .title-section, 
+.layout-boxed .title-section,
 .layout-boxed-margin .title-section{
 	margin-top: 0;
 }
@@ -58,10 +58,10 @@
 }
 
 /* Theme Options ----------------------------------------------*/
-#theme-options {	
-	position:fixed;	
-	z-index: 26;	
-	width: auto;	
+#theme-options {
+	position:fixed;
+	z-index: 26;
+	width: auto;
 	left:0;
 	width: 180px;
 	top: 100px;
@@ -69,7 +69,7 @@
 	border-top: 0;
 	border-left: 0;
 	background: #fff;
-	z-index: 999999;	
+	z-index: 999999;
 	padding-bottom: 10px;
 	-webkit-transition: 0.3s all ease;
 	-moz-transition: 0.3s all ease;
@@ -78,7 +78,7 @@
 	transition: 0.3s all ease;
 }
 #theme-options .title {
-	padding: 10px 5px 10px 10px;	
+	padding: 10px 5px 10px 10px;
 	font-size: 16px;
 	font-weight: 300;
 	color: #fff;
@@ -87,7 +87,7 @@
 	position: relative;
 	margin-bottom: 15px;
 }
-#theme-options .title span{	
+#theme-options .title span{
 	position: absolute;
 	border-left: 0;
 	right: -50px;
@@ -111,8 +111,8 @@
 	font-size: 14px;
 	text-align: left;
 }
-#theme-options ul { 
-	padding: 6px 12px; 
+#theme-options ul {
+	padding: 6px 12px;
 	margin: 0;
 }
 #theme-options ul li {
@@ -124,16 +124,16 @@
 	background-repeat: repeat;
 	cursor: pointer;
 }
-#theme-options ul.backgrounds li:hover { 
-	border-color: #ccc; 
+#theme-options ul.backgrounds li:hover {
+	border-color: #ccc;
 }
-#theme-options ul.backgrounds li.active,#theme-options ul.backgrounds li.active:hover { 
-	border-color: #ff9600; 
+#theme-options ul.backgrounds li.active,#theme-options ul.backgrounds li.active:hover {
+	border-color: #ff9600;
 }
 #theme-options .layout-style li{
 	width: 115px;
 	margin-right: 65px;
-	padding:5px 15px;	
+	padding:5px 15px;
 	display: inline-block;
 	height: auto;
 	font-size: 12px;
@@ -163,10 +163,10 @@
 
 .colorbox { width:100%; height:100%; cursor:pointer; display:block; }
 .green { background-color:#b1e318;}
-.orange { background-color:#f47416;}
+.orange { background-color:#2baab1;}
 .yellow { background-color:#fecb1c;}
 .cyan{ background-color: #2baab1;}
 .magenta{ background-color: #FF114c;}
-.red{ background-color: #e1483f;}	
-.orange-light{ background-color: #FFB43F;}	
-.purple{ background-color: #894997;}	
+.red{ background-color: #e1483f;}
+.orange-light{ background-color: #2baab1;}	
+.purple{ background-color: #894997;}
