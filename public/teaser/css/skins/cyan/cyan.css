@@ -85,10 +85,11 @@ a:hover,
          .logo_small {
                  height: 32px;
                  width: 251px;
+             background-size: 251px 32px;
                  background: url(../../../img/logo_32x251.png) no-repeat;
          }
         .logo_big{
-                background: none;
+            background-size: 251px 32px;
                  background: url(../../../img/logo_32x251.png) no-repeat;
         }
 }
