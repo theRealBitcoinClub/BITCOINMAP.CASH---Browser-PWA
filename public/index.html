@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bitcoin Shopping Merchant Map BCH BTC DASH Cash</title>
+
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#38a2ac"/>
+    <meta property="og:title" content="Bitcoin Shopping Merchant Map BCH BTC DASH Cash">
+    <meta property="og:site_name" content="BITCOINMAP.WORLD">
+    <meta property="og:url" content="https://bitcoinmap.world">
+    <meta property="og:description" content="With our Bitcoin Shopping Map or Bitcoin Map for Android App you can find the most exclusive Restaurants, Bars, Supermarkets, Shops and Hotels to spend your BCH DASH BTC!">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://bitcoinmap.world/logo1200x630.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BarrioBitcoin">
+    <meta name="twitter:title" content="Bitcoin Shopping Merchant Map BCH BTC DASH Cash">
+    <meta name="twitter:description" content="With our Bitcoin Shopping Map or Bitcoin Map for Android App you can find the most exclusive Restaurants, Bars, Supermarkets, Shops and Hotels to spend your BCH DASH BTC!">
+    <meta name="twitter:image" content="https://bitcoinmap.world/logo1200x630.png">
+    <meta name="twitter:site" content="@BarrioBitcoin">
+    <meta name="twitter:app:name:googleplay" content="BITCOINMAP.WORLD">
+    <meta name="twitter:app:id:googleplay" content="club.therealbitcoin.bchmap">
+
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "WebSite",
+      "name": "BITCOINMAP.WORLD",
+      "url": "https://bitcoinmap.world",
+      "description" : "With our Bitcoin Shopping Map or Bitcoin Map for Android App you can find the most exclusive Restaurants, Bars, Supermarkets, Shops and Hotels to spend your BCH DASH BTC!"
+    }
+    </script>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <link rel=”canonical” href=”https://bitcoinmap.world” />
+    <meta name="description" content="With our Bitcoin Shopping Map or Bitcoin Map for Android App you can find the most exclusive Restaurants, Bars, Supermarkets, Shops and Hotels to spend your BCH or DASH! You can search our Bitcoin Cash and DASH Merchant Directory by Categories, Tags or Locations!">
+    <meta name="author" content="@BarrioBitcoin">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <script src="jquery-3.3.1.min.js"></script>
+
+    <script type="text/javascript" >
+        var ua = navigator.userAgent.toLowerCase();
+        var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+        if(isAndroid) {
+          alert('Touch the menu icon on the top right to install the Bitcoin Map Android App!')
+        }
+    </script>
+
+
+       <script src="markerclusterer.js">
+       </script>
+
+       <script src="script.js">
+       </script>
+
+    <style>
+    html, body {height: 99%;width:99%}
+      #map {
+        height: 100%;
+        width: 100%;
+       }
+
+body {
+    position: fixed;
+    overflow-y: scroll;
+  color: #1D1F20;
+  font-family: "Roboto", sans-serif;
+}
+
+.primaryColor {
+      background-color: #36a69e;
+      color: #ffffff;
+}
+
+.primaryDarkColor {
+    background-color: #339c9a;
+    color: #ffffff;
+}
+
+.colorAccent {
+  background-color: #3bb8af;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+#overlay-content {
+  background-color: #339c9a;
+  color: #ffffff;
+}
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0;
+  z-index: 99999;
+  background: rgba(0,0,0,0.90);
+}
+.overlay div {
+  text-align: center;
+  position: relative;
+  top: 10px;
+  left: 5%;
+  width: 90%;
+}
+
+h1 {
+  white-space: nowrap;
+  font-size: 28px;
+  padding-top: 10px;
+  width:80%;
+}
+h2 {
+  font-size: 25px;
+  padding-top: 10px;
+  margin: 0px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+  width: 100%;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.discount {
+  color: #ffff00;
+  font-weight: bold;
+  margin-top:0px;
+  padding-top: 0px;
+}
+
+.batschLeft, .batschRight {
+  width: 113px;
+  height: 34px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.batschLeft {
+  margin-right: 8px;
+}
+
+.batschRight {
+  margin-left: 8px;
+}
+
+@media only screen and (min-width: 380px) {
+  h1 {
+    font-size: 32px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 27px;
+    padding-top: 13px;
+  }
+  h3 {
+    font-size: 21px;
+  }
+  h4 {
+    font-size: 19px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 138px;
+    height: 41px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 12px;
+  }
+
+  .batschRight {
+    margin-left: 12px;
+  }
+}
+
+@media only screen and (min-width: 440px) {
+  h1 {
+    font-size: 36px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 30px;
+    padding-top: 13px;
+  }
+  h3 {
+    font-size: 24px;
+  }
+  h4 {
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 167px;
+    height: 50px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 12px;
+  }
+
+  .batschRight {
+    margin-left: 12px;
+  }
+}
+
+@media only screen and (min-width: 525px) {
+  h1 {
+    font-size: 41px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 35px;
+    padding-top: 13px;
+  }
+  h3 {
+    font-size: 28px;
+  }
+  h4 {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 197px;
+    height: 59px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 12px;
+  }
+
+  .batschRight {
+    margin-left: 12px;
+  }
+}
+
+@media only screen and (min-width: 610px) {
+  h1 {
+    font-size: 46px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 40px;
+    padding-top: 16px;
+  }
+  h3 {
+    font-size: 32px;
+  }
+  h4 {
+    font-size: 28px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 242px;
+    height: 72px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 6px;
+  }
+
+  .batschRight {
+    margin-left: 6px;
+  }
+}
+
+@media only screen and (min-width: 710px) {
+  h1 {
+    font-size: 46px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 40px;
+    padding-top: 16px;
+  }
+  h3 {
+    font-size: 32px;
+  }
+  h4 {
+    font-size: 28px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 262px;
+    height: 78px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 10px;
+  }
+
+  .batschRight {
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (min-width: 810px) {
+  h1 {
+    font-size: 54px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 45px;
+    padding-top: 16px;
+  }
+  h3 {
+    font-size: 36px;
+  }
+  h4 {
+    font-size: 32px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+  }
+
+  .batschLeft, .batschRight {
+    width: 282px;
+    height: 84px;
+    margin-bottom: 25px;
+  }
+
+  .batschLeft {
+    margin-right: 16px;
+  }
+
+  .batschRight {
+    margin-left: 16px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  h1 {
+    font-size: 60px;
+    padding-top: 10px;
+  }
+  h2 {
+    font-size: 50px;
+    padding-top: 20px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+  h4 {
+    font-size: 36px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+
+  .batschLeft {
+    margin-right: 20px;
+    margin-bottom: 30px;
+  }
+
+  .batschRight {
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+}
+
+.overlay-data {
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  visibility: 0s 0.5s;
+  transition: opacity 0.5s, visibility 0s 0.5s;
+}
+.overlay-open {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+
+.actionbar {
+  margin: 0px;
+  padding: 0px;
+}
+
+</style>
+  </head>
+  <body>
+
+    <script> type="text/javascript">
+    $(document).keyup(function(e) {
+         if (e.keyCode == 27) { // escape key maps to keycode `27`
+            imatsch();
+        }
+    });
+    </script>
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark primaryDarkColor text-white">
+         <img class="navbar-brand" src="logo_action_bar.png"  width="200px" alt="BITCOINMAP.WORLD">
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+          Filter by Category
+        </a>
+        <div class="dropdown-menu primaryColor" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-white" id="filter1" href="https://bitcoinmap.world?category=restaurant">Restaurant</a>
+          <a class="dropdown-item text-white" id="filter2" href="https://bitcoinmap.world?category=food">Take-Away-Food</a>
+          <a class="dropdown-item text-white" id="filter3" href="https://bitcoinmap.world?category=bar">Bar-Cafe</a>
+          <a class="dropdown-item text-white" id="filter4" href="https://bitcoinmap.world?category=super">Supermarket</a>
+          <a class="dropdown-item text-white" id="filter5" href="https://bitcoinmap.world?category=shop">Shop</a>
+          <a class="dropdown-item text-white" id="filter6" href="https://bitcoinmap.world?category=hotel">Hotel-Flat</a>
+        </div>
+      </li>
+
+      <script type="text/javascript">
+          if (findGetParameter('theme') != null) {
+            var param = findGetParameter('theme');
+            document.getElementById("filter1").href+="&theme=" + param;
+            document.getElementById("filter2").href+="&theme=" + param;
+            document.getElementById("filter3").href+="&theme=" + param;
+            document.getElementById("filter4").href+="&theme=" + param;
+            document.getElementById("filter5").href+="&theme=" + param;
+            document.getElementById("filter6").href+="&theme=" + param;
+        }
+      </script>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link text-white dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+          Choose Map Color
+        </a>
+        <div class="dropdown-menu primaryColor" aria-labelledby="navbarDropdown2">
+          <a class="dropdown-item text-white" href="https://bitcoinmap.world?theme=dark">Dark Theme</a>
+          <a class="dropdown-item text-white" href="https://bitcoinmap.world">Light Theme</a>
+        </div>
+      </li>
+      <li class="nav-item text-white">
+        <a class="nav-link" href="https://therealbitcoin.club/android">Android App: Bitcoin World Map</a>
+      </li>
+      <li class="nav-item text-white">
+        <a class="nav-link" href="https://bitcoinmap.world/bch-dash-btc">Bitcoin Merchant Directory</a>
+      </li>
+      <li class="nav-item text-white">
+        <a class="nav-link" href="https://bitcoinmap.world/teaser">Teaser: BCH/DASH/BTC Map</a>
+      </li>
+      <li class="nav-item text-white">
+        <a class="nav-link" href="https://therealbitcoin.club">TRBC - The Real Bitcoin Club</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+    <div class="overlay overlay-data">
+      <div id="overlay-content"></div>
+    </div>
+    <div id="map"></div>
+    <div>
+      <h1>Bitcoin Shopping Map</h1>
+      <h2>BCH DASH Merchant Directory</h2>
+      <h3>Bitcoin Cash World Map</h3>
+      <p>On BITCOINMAP.WORLD you can find the most exclusive Restaurants, Bars, Supermarkets, Shops and Hotels to spend your Bitcoins!</p>
+      <p>Spend your Bitcoin today and Inspire the World! Satoshi Nakamoto would be proud of you!</p>
+      <p>#gastabch #spendbch #bchforeveryone #bitcoin #bch #dash #btc</p>
+    </div>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVDl8Ng3iT4xfX2r6Fj1SvJJvndz73JOI&callback=loadIcons">
+    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  </body>
+</html>

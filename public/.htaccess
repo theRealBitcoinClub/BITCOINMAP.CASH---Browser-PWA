@@ -1,0 +1,10 @@
+#FallbackResource index.html
+Options +FollowSymLinks
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#RewriteEngine On
+#RewriteCond %{REQUEST_URI} !bch-dash-btc
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}/bch-dash-btc/$1 [L,R=301]

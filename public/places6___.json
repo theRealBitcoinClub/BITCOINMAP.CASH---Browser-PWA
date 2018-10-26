@@ -1,0 +1,116 @@
+[{"p":"trbc", "x":"41.406595", "y":"2.16655","n":"TRBC - The Real Bitcoin Club", "t":"99","c":"3","s":"5.0", "d":"3", "a":"0,1,2,34", "l":"Barcelona, Spain, Europe"}
+,{"p":"lalima", "x":"41.4059946","y":"2.1567663","n":"La Lima - comedor vegano asociacion","t":"0","c":"9","s":"5.0", "d":"0", "a":"3,5,6,13", "l":"Barcelona, Spain, Europe"}
+,{"p":"pasticceria", "x":"41.4047427","y":"2.1559692","n":"La Pasticceria di Gracia","t":"1","c":"32","s":"4.6", "d":"0", "a":"9,10,12,13", "l":"Barcelona, Spain, Europe"}
+,{"p":"lavermu", "x":"41.4000891","y":"2.1568007","n":"La Vermu - Bar and Tapas","t":"2","c":"335","s":"4.2", "d":"0", "a":"31,32,33,36", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJayYeJpaipBIR8ZbTZO4x7dM", "x":"41.4006901","y":"2.1579717","n":"Gelatology - We make Gelato great again!","t":"1","c":"49","s":"4.9", "d":"1", "a":"18,29,32,33", "l":"Barcelona, Spain, Europe"}
+,{"p":"atabalats", "x":"41.4087684","y":"2.1605199","n":"Atabalats Gastrobar - Cerveza, Tapas y Copas","t":"0","c":"59","s":"4.5", "d":"0", "a":"7,29,31,32", "l":"Barcelona, Spain, Europe"}
+,{"p":"freeAndSweet", "x":"41.4151266","y":"2.1785654","n":"Free & Sweet - Obrador Dulce Saludable","t":"1","c":"2","s":"5.0", "d":"0", "a":"3,5,11,12", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJ89o4J5aipBIRfDm0sBYWJZQ", "x":"41.4009587","y":"2.1580651","n":"La Pizza - Delicios Italy","t":"1","c":"94","s":"4.5", "d":"0", "a":"4,14,43,44", "l":"Barcelona, Spain, Europe"}
+,{"p":"traviesos", "x":"41.3998381","y":"2.1541036","n":"Traviesos - Food Concept Store","t":"1","c":"4","s":"5.0", "d":"1", "a":"8,11,12,17", "l":"Barcelona, Spain, Europe"}
+,{"p":"lapiadina", "x":"41.4050665","y":"2.156782","n":"La Piadina - Para Llevar","t":"1","c":"111","s":"4.2", "d":"0", "a":"29,49,55,56", "l":"Barcelona, Spain, Europe"}
+,{"p":"candelacanela", "x":"41.4021505","y":"2.156743","n":"Candela Canela - Sweet Desserts","t":"1","c":"12","s":"4.8", "d":"0", "a":"4,29,65,66", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJY_ZMtr6ipBIRVC0WRH76Txc", "x":"41.4055998","y":"2.1608664","n":"Cara B - Electronic Live Music","t":"2","c":"190","s":"4.1", "d":"1", "a":"31,32,35,37", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJVxhC87uipBIR4GTcQ-tbzpI", "x":"41.4064263","y":"2.1586036","n":"Bar Laila - Bebida, Comida, Football","t":"2","c":"30","s":"4.2", "d":"1", "a":"8,29,32,56", "l":"Barcelona, Spain, Europe"}
+,{"p":"invisible", "x":"41.3989828","y":"2.1592336","n":"Invisible - Live Concerts","t":"2","c":"31","s":"4.1", "d":"1", "a":"31,32,33,36", "l":"Barcelona, Spain, Europe"}
+,{"p":"chatelet", "x":"41.4040643","y":"2.1582468","n":"Chatelet - Cocktails and Wine","t":"2","c":"383","s":"4.0", "d":"0", "a":"8,29,32,56", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJGZOYjLiipBIRQV03-yVCmew", "x":"41.4081285","y":"2.1635252","n":"Molsa L'Estel - Supermercado Ecologico","t":"3","c":"4","s":"4.4", "d":"0", "a":"3,14,15,17", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJWUDoFJiipBIR4Spi8Jgg6AU", "x":"41.4000915","y":"2.1537013","n":"Eco-Logic - Organic Supermarket","t":"3","c":"14","s":"3.8", "d":"0", "a":"3,14,15,17", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJu_oRvLuipBIRJmTRAnVrbGg", "x":"41.407648","y":"2.1579733","n":"Naturoteca - Supermercado Ecologico y Hierberia","t":"3","c":"9","s":"5.0", "d":"0", "a":"3,5,50,51", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJkcsO_L2ipBIRzzk1Q5JNaxU", "x":"41.4013999","y":"2.1594724","n":"King Kaya - Growshop","t":"4","c":"21","s":"5.0", "d":"0", "a":"39,40,41,42", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJYWoT6byipBIR-6HaCztMc5A", "x":"41.4044523","y":"2.1562822","n":"MIT K - Handbags Upcycled","t":"4","c":"3","s":"5.0", "d":"0", "a":"3,5,20,28", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJ5ynTF5iipBIRSOx9O00QlvI", "x":"41.3999126","y":"2.1540813","n":"VeGala Vegan Beauty","t":"4","c":"9","s":"4.9", "d":"0", "a":"5,21,45,46", "l":"Barcelona, Spain, Europe"}
+,{"p":"amelia", "x":"41.402147","y":"2.157944","n":"Amelia Bakery - Tartas por pedido","t":"1","c":"19","s":"4.6", "d":"0", "a":"9,10,11,12", "l":"Barcelona, Spain, Europe"}
+,{"p":"recup", "x":"41.404653","y":"2.155916","n":"Rekup & Co - Handmade Souvenirs","t":"4","c":"8","s":"4.2", "d":"0", "a":"24,28,53,58", "l":"Barcelona, Spain, Europe"}
+,{"p":"kamoma", "x":"41.4014862","y":"2.1568869","n":"Kamoma - Aperol Spritz Bar","t":"2","c":"19","s":"4.2", "d":"0", "a":"47,31,32,33", "l":"Barcelona, Spain, Europe"}
+,{"p":"akash", "x":"41.4083532","y":"2.1597298","n":"Akash - Perruqueria","t":"4","c":"2","s":"5.0", "d":"0", "a":"91,65,107,58", "l":"Barcelona, Spain, Europe"}
+,{"p":"serveigracia", "x":"41.4080156","y":"2.1593166","n":"Servei Gracia - Car Repair","t":"4","c":"4","s":"4.0", "d":"0", "a":"68,69,104,105", "l":"Barcelona, Spain, Europe"}
+,{"p":"sweetbcn1", "x":"41.4062714","y":"2.1449862","n":"Sweet Flat #1","t":"5","c":"59","s":"4.6", "d":"1", "a":"60,61,62,63", "l":"Barcelona, Spain, Europe"}
+,{"p":"sweetbcn2", "x":"41.3992051","y":"2.1575469","n":"Sweet Flat #2","t":"5","c":"59","s":"4.6", "d":"1", "a":"60,61,62,63", "l":"Barcelona, Spain, Europe"}
+,{"p":"sweetbcn3", "x":"41.3985755","y":"2.1591838","n":"Sweet Flat #3","t":"5","c":"59","s":"4.6", "d":"1", "a":"60,61,62,63", "l":"Barcelona, Spain, Europe"}
+,{"p":"sweetbcn4", "x":"41.398815","y":"2.167693","n":"Sweet House #4","t":"5","c":"59","s":"4.6", "d":"1", "a":"60,61,62,63", "l":"Barcelona, Spain, Europe"}
+,{"p":"sweetbcn5", "x":"41.3968436","y":"2.1660045","n":"Sweet Hostel #5","t":"5","c":"102","s":"4.4", "d":"1", "a":"60,61,62,63", "l":"Barcelona, Spain, Europe"}
+,{"p":"elosopanda", "x":"41.4046786","y":"2.1560378","n":"El Oso Panda - Asiatique Cuisine","t":"0","c":"127","s":"4.3", "d":"0", "a":"15,17,47,48", "l":"Barcelona, Spain, Europe"}
+,{"p":"bonvivant", "x":"41.4017155","y":"2.1591513","n":"Bon Vivant - Coffee and Alimentos","t":"3","c":"8","s":"4.8", "d":"0", "a":"29,31,32,33", "l":"Barcelona, Spain, Europe"}
+,{"p":"nosweat", "x":"41.3990296","y":"2.1548749","n":"NO SWEAT BAR - Kicker - Darts - Drinks","t":"2","c":"117","s":"4.1", "d":"0", "a":"31,32,33,36", "l":"Barcelona, Spain, Europe"}
+,{"p":"ChIJh2A7VL2ipBIRIxR3Ylnot50", "x":"41.4006341","y":"2.155889","n":"Sincronia Yoga","t":"999","c":"18","s":"4.8", "d":"0", "a":"25,26,27,80", "l":"Barcelona, Spain, Europe"}
+,{"p":"polloexpress", "x":"38.5419413","y":"-0.1272807","n":"Pollo Expresss","t":"0","c":"148","s":"4.5", "d":"0", "a":"71,72,73,65", "l":"Benidorm, Spain, Europe"}
+,{"p":"polloexpressgourmet", "x":"38.5372292","y":"-0.1425705","n":"Pollo Expresss Gourmet","t":"0","c":"41","s":"4.2", "d":"0", "a":"71,72,67,18", "l":"Benidorm, Spain, Europe"}
+,{"p":"autoescuelasactual", "x":"38.542009","y":"-0.127293","n":"Autoescuelas Actual Benidorm","t":"4","c":"3","s":"5.0", "d":"0", "a":"65,68,69,70", "l":"Benidorm, Spain, Europe"}
+,{"p":"autoescuelasactual2", "x":"38.5783923","y":"-0.1300543","n":"Autoescuelas Actual La Nuca","t":"4","c":"4","s":"5.0", "d":"0", "a":"65,68,69,70", "l":"Benidorm, Spain, Europe"}
+,{"p":"elolivo", "x":"36.01460","y":"-5.6059","n":"El Olivo - Herbolario, Medicina, Masaje, Gluten Free","t":"3","c":"0","s":"0.0", "d":"0", "a":"3,42,50,45", "l":"Tarifa, Spain, Europe"}
+,{"p":"ecocentersupermercado", "x":"36.0141","y":"-5.6053","n":"Supermercado Ecologico - Eco Center Tarifa","t":"4","c":"226","s":"4.6", "d":"0", "a":"3,4,17,51", "l":"Tarifa, Spain, Europe"}
+,{"p":"ecocenteryoga", "x":"36.0142","y":"-5.6054","n":"Yoga y Meditacion - Eco Center Tarifa","t":"999","c":"226","s":"4.6", "d":"0", "a":"25,26,27,80", "l":"Tarifa, Spain, Europe"}
+,{"p":"ecocenterbar", "x":"36.0143","y":"-5.6055","n":"Bar y Musica - Eco Center Tarifa","t":"2","c":"226","s":"4.6", "d":"0", "a":"31,32,33,47", "l":"Tarifa, Spain, Europe"}
+,{"p":"ecocenterrestaurante", "x":"36.0144","y":"-5.6056","n":"Restaurante Ecologico - Eco Center Tarifa","t":"0","c":"226","s":"4.6", "d":"0", "a":"3,15,16,14", "l":"Tarifa, Spain, Europe"}
+,{"p":"elcuartito", "x":"36.0114734","y":"-5.6078355","n":"El Cuartito Tarifa - Tapas Bar","t":"0","c":"13","s":"4.8", "d":"0", "a":"31,32,15,47", "l":"Tarifa, Spain, Europe"}
+,{"p":"numazukoginza", "x":"35.674296","y":"139.768588","n":"Sushi-Bar Numazuko Ginza 1st","t":"0","c":"146","s":"3.8", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"daikanyama", "x":"35.64827","y":"139.7036586","n":"daikanyama O'KOK","t":"0","c":"16","s":"4.5", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"cafedeperle", "x":"35.669106","y":"139.761887","n":"カフェ・ド・ペルル","t":"2","c":"3","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"twodogstaproom", "x":"35.6626594","y":"139.7352281","n":"Two Dogs Taproom","t":"0","c":"176","s":"4.3", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"thepinkcow", "x":"35.662003","y":"139.734554","n":"The Pink Cow","t":"0","c":"69","s":"4.1", "d":"2", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"fline", "x":"35.6333881","y":"139.6611829","n":"エフライン","t":"4","c":"3","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"kagurazaka", "x":"35.706609","y":"139.731268","n":"Kagurazaka","t":"0","c":"6","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"thepinkcowakasaka", "x":"35.6720966","y":"139.7397304","n":"The Pink Cow Akasaka","t":"0","c":"11","s":"4.6", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"goodheavens", "x":"35.6589099","y":"139.6676123","n":"Good Heavens","t":"0","c":"52","s":"4.4", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"belgianbeer", "x":"35.6721518","y":"139.738658","n":"St. Arnould - Belgian Beer Tokyo","t":"0","c":"0","s":"0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"kandakirari", "x":"35.6930112","y":"139.7731941","n":"輝きらり","t":"0","c":"23","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"greecefood", "x":"35.703482","y":"139.5996612","n":"ギリシャ小町三丁目 - Greece Food","t":"0","c":"3","s":"4.7", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"bargolden", "x":"35.6308575","y":"139.6843618","n":"ゴールデン - Bar Golden","t":"2","c":"1","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"glutenfree", "x":"35.664605","y":"139.736968","n":"Gluten Free 61 - Cafe & Bar","t":"2","c":"8","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"nembar", "x":"35.6597224","y":"139.6953952","n":"Nem Bar - Crypto BAR","t":"2","c":"28","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"rakantokyo", "x":"35.6632748","y":"139.7329313","n":"RAKAN Tokyo - Nightclub","t":"2","c":"0","s":"0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"kawashou", "x":"35.946634","y":"139.831329","n":"Kawashou Unagi","t":"0","c":"94","s":"4.1", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"soulfoodhouse", "x":"35.655364","y":"139.734573","n":"Soul Food House","t":"0","c":"137","s":"4.6", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"lacocinadegaston", "x":"35.6873575","y":"139.7798908","n":"La Cocinca de Gaston","t":"0","c":"7","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"riceplus", "x":"35.6553945","y":"139.694185","n":"ライスプラス - RicePlus","t":"0","c":"5","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"yakinikutamura", "x":"34.700377","y":"135.542964","n":"たむら 蒲生本店 - Yakiniku Tamura","t":"0","c":"69","s":"3.3", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"shochumeigetsu", "x":"34.6761286","y":"135.5144284","n":"明月 (酒店) - Sho Chu Meigetsu","t":"4","c":"0","s":"0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"osarucoffee", "x":"34.6637216","y":"135.4954944","n":"オサル コーヒー Osaru Coffee","t":"2","c":"53","s":"4.4", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"unityface", "x":"34.5321509","y":"135.4955319","n":"喫茶・軽食 ユニティーフェイス","t":"0","c":"4","s":"4.3", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"engaro", "x":"34.702269","y":"135.487596","n":"大阪 梅田 福島区 ｜ORGANIC SALON ENGARO【 美容院 美容室 / カラー 白髪染め / オーガニック ヴィラロドラ ローランドオーウェイ 】","t":"4","c":"3","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"cafebarcoins", "x":"34.6595934","y":"135.5059829","n":"仮想通貨カフェ＆バーＣＯＩＮＳ","t":"2","c":"9","s":"4.6", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"04village", "x":"34.6550227","y":"135.5084907","n":"０４ ｖｉｌｌａｇｅ なんば","t":"5","c":"60","s":"4.3", "d":"0", "a":"60,61,90,98", "l":"Tokyo, Japan, Asia"}
+,{"p":"scrub", "x":"34.7026289","y":"135.4876282","n":"/scrub - Italian Restaurant","t":"0","c":"9","s":"4.0", "d":"0", "a":"14,15,32,103", "l":"Tokyo, Japan, Asia"}
+,{"p":"trianglecoffee", "x":"34.665282","y":"135.505369","n":"TRI⊿NGLE COFFEE トライアングルコーヒー","t":"2","c":"6","s":"5.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"bitcafe", "x":"34.6725595","y":"135.4904279","n":"bit cafe","t":"2","c":"16","s":"4.0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"barpiller", "x":"34.6706541","y":"135.5035323","n":"Bar Piller - 公式","t":"2","c":"0","s":"0", "d":"0", "a":"104,104,104,104", "l":"Tokyo, Japan, Asia"}
+,{"p":"slices", "x":"34.6702486","y":"135.4996966","n":"Slices Pizza Restaurant - スライシーズ","t":"0","c":"77","s":"4.2", "d":"0", "a":"14,15,32,103", "l":"Tokyo, Japan, Asia"}
+,{"p":"perroscalientes", "x":"10.49666","y":"-66.93624","n":"Perros Calientes Cruz de La Vega, the richest hotdogs, burguer and pepitos","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaymultiplaza", "x":"10.4856078","y":"-66.9342997","n":"Subway – Multiplaza Paraíso","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"genesishernandez", "x":"10.49668","y":"-66.93626","n":"Genesis Hernandez – Frutería y Venta de Hortalizas, fruits and vegetables.","t":"3","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"panaderiapasteleria", "x":"10.4966888","y":"-66.9321591","n":"Panaderia Pasteleria y Delicateses Ares C.A.","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"lachipola", "x":"10.5036193","y":"-66.90414799999996","n":"La Chipola – Comida Criolla","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaybellasartes", "x":"10.5006287","y":"-66.89621160000002","n":"Subway – Bellas Artes","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"baricostabarista", "x":"10.50459","y":"-66.88741779999998","n":"BariCosta – Barista (Special Coffee)","t":"2","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"heladeriaefealtamira", "x":"10.5072523","y":"-66.8513772","n":"HELADERIA EFE ALTAMIRA - CORPORACION CARALE 1010 C.A.","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnlospalos", "x":"10.5065673","y":"-66.84244339999998","n":"Pizza Papa John’s – Los Palos Grandes","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaymillennium", "x":"10.495231","y":"-66.832742","n":"Subway – Millennium","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnlosruices", "x":"10.4827433","y":"-66.83127619999999","n":"Pizza Papa John’s – Los Ruices","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"kolash", "x":"10.4627503","y":"-66.81862030000002","n":"Kolash Cakery – Dulces Y Tortas","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaylido", "x":"10.4911492","y":"-66.86255160000002","n":"Subway – Lido","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"wieners", "x":"10.4775527","y":"-66.814898","n":"Wieners - Hot Dogs","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaysanignacio", "x":"10.4880644","y":"-66.86869580000001","n":"Subway – San Ignacio","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"mmqdulce", "x":"10.4855","y":"-66.8863692","n":"MMQDULCE – Dulces Y Tortas","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwayelrosal", "x":"10.48906","y":"-66.86477","n":"Subway – El Rosal","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"majaguabar", "x":"10.4856438","y":"-66.8864","n":"Majagua Bar - Cocteles y Hamburguesas","t":"2","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaylossimbolos", "x":"10.4827691","y":"-66.8963099","n":"Subway – Los Simbolos","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"supergolfeados", "x":"10.4729198","y":"-66.8952299","n":"SUPER GOLFEADOS","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnelrosal", "x":"10.48904","y":"-66.86476","n":"Pizza Papa John’s – El Rosal","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"fatfactory", "x":"10.4763101","y":"-66.89306999999997","n":"Fat Factory - Hamburguesas empacadas al vacio junto a su pan y demas ingredientes para elaborar en casa","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnloschaguaramos", "x":"10.4856438","y":"-66.8862","n":"Pizza Papa John’s – Los Chaguaramos","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"salopastel", "x":"10.4901964","y":"-66.8597792","n":"Salo Pastel - Pasteles, desnudos o decorados por encargo","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnplazalasamericas", "x":"10.4577714","y":"-66.82864440000003","n":"Pizza Papa John’s – Plaza las Americas","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"mastranto", "x":"10.48059","y":"-66.903565","n":"Mastranto Delicias para Picar","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaylatrinidad", "x":"10.4339299","y":"-66.87073429999998","n":"Subway – La Trinidad","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"tentaciones", "x":"10.48065","y":"-66.90358","n":"Dulces Tentaciones y Sabores, cakes and desserts","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"subwaysanantonio", "x":"10.3696393","y":"-66.95710259999998","n":"Subway – San Antonio de los Altos","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"papajohnsanantonio", "x":"10.480495","y":"-66.903595","n":"Pizza Papa John’s – San Antonio de los Altos","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"pedronavaz", "x":"10.48050","y":"-66.90355","n":"PEDRO NAVAZ – DISTRIBUIDORA DE HELADOS - ICE CREAM","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"freka1802", "x":"10.48053","y":"-66.903625","n":"FREKA 1802 - Hamburguesas","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"pinchero", "x":"10.48055","y":"-66.90364","n":"El pinchero - Delicatessen and food sales","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"dulcesdemaita", "x":"10.4805937","y":"-66.9036063","n":"Dulces de Maita","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"relincho", "x":"10.48057","y":"-66.9036063","n":"Cerveceria Artesanal Relincho","t":"3","c":"0","s":"0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"tentacionmm", "x":"10.48059","y":"-66.903655","n":"Tentacion MM, dedicated to the elaboration and distribution of sweets and desserts","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"bartender", "x":"10.48061","y":"-66.90367","n":"BARTENDER TRUCK VENEZUELA - beverage truck, milkshakes,smoothies and cocktails","t":"2","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"gustavomarady", "x":"10.48063","y":"-66.90369","n":"GUSTAVO MARADY – Distribuidor de Helado","t":"1","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}
+,{"p":"navija", "x":"10.4339299","y":"-66.87073429999998","n":"Navija Abi Saab – Cocina Arabe En Casa","t":"0","c":"0","s":"0.0", "d":"5", "a":"104,104,104,104", "l":"Caracas, Venezuela, America"}]
