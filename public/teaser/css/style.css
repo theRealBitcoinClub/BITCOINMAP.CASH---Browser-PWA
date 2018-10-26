@@ -211,7 +211,6 @@ img{
 }
 .logo_small{
         position: absolute;
-    background-size: 377px 48px;
                  height: 48px;
                  width: 377px;
         z-index: 99;

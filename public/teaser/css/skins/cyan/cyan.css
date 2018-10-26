@@ -58,9 +58,11 @@ a:hover,
         border-bottom: 1px solid #29c0d4;
 }
 .logo_small{
+background-size: 377px 48px;
         background: url(../../../img/logo_pattern_colors/cyan/logo.png) no-repeat;
 }
 .logo_big{
+background-size: 377px 48px;
         background: url(../../../img/logo_pattern_colors/cyan/logo-big.png) no-repeat;
 }
 .pattern_top{
