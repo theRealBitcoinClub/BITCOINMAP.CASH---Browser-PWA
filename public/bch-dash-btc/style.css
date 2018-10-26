@@ -1,0 +1,163 @@
+@charset "utf-8";
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.primaryColor {
+      background-color: #36a69e;
+      color: #ffffff;
+}
+
+.primaryDarkColor {
+    background-color: #339c9a;
+    color: #ffffff;
+}
+
+.colorAccent {
+  background-color: #3bb8af;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #478558;
+}
+
+.actionbar {
+  margin: 0px;
+  padding: 0px;
+}
+
+  .discount {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 19px;
+    text-align: center;
+    color: #e91e63;
+  }
+
+  .name {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .secondrow {
+    margin: auto;
+    text-align: center;
+  }
+
+  .reviews, .location {
+    padding-top: 10px;
+    font-size: 12px;
+  }
+
+  .reviews {
+    color: #ffff00aa;
+    padding-left: 10px;
+  }
+
+  .icon {
+    padding: 10px;
+  }
+
+  .tags {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+
+    .pic {
+      text-align: center;
+      margin: auto;
+      height:auto;
+      width:100%;
+    }
+    .batsch {
+      height: auto;
+      width: 48%;
+      padding-top: 10px;
+      padding-left: 2%;
+      margin-bottom: 10px;
+    }
+    .batschcontainer, .piccontainer {
+      text-align: center;
+      margin: auto;
+    }
+
+  @media (min-width: 480px) {
+
+    .name {
+      font-size: 30px;
+    }
+
+    .reviews, .location {
+      font-size: 16px;
+    }
+
+      .discount {
+        font-size: 28px;
+      }
+
+    .tags {
+      font-size: 24px;
+    }
+  }
+
+@media (min-width: 560px) {
+
+  .name {
+    font-size: 36px;
+  }
+
+  .reviews, .location {
+    font-size: 18px;
+  }
+
+    .discount {
+      font-size: 32px;
+    }
+
+  .tags {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 640px) {
+  .pic {
+    height:480px;
+    width:640px;
+  }
+  .batsch {
+    height: 84px;
+    width: 282px;
+  }
+
+    .name {
+      font-size: 42px;
+    }
+
+    .reviews, .location {
+      font-size: 21px;
+    }
+
+      .discount {
+        font-size: 36px;
+      }
+
+    .tags {
+      font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
