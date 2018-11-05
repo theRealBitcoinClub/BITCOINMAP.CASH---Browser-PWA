@@ -60,8 +60,11 @@ function isBrowserMobile() {
                  var bla = new google.maps.Marker({
                   position: coords,
                   map: map,
+                  animation: google.maps.Animation.DROP,
                   zIndex:99999999
                   });
+                  marker.addListener('click', toggleBounce);
+
 
                   var contentString = "You are here!";
 
@@ -73,6 +76,14 @@ function isBrowserMobile() {
 
               setTimeout(function () { infowindow.close(); bla.setMap(null); }, 5000);
             }
+
+      function toggleBounce() {
+        if (marker.getAnimation() !== null) {
+          marker.setAnimation(null);
+        } else {
+          marker.setAnimation(google.maps.Animation.BOUNCE);
+        }
+      }
 
       function initMap(features) {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -142,8 +153,10 @@ function isBrowserMobile() {
               var marker = new google.maps.Marker({
                 position: feature.position,
                 icon: icons[feature.type].icon,
+                animation: google.maps.Animation.DROP,
                 map: map
               });
+              marker.addListener('click', toggleBounce);
 
               allmarker.push(marker);
 
