@@ -27,10 +27,23 @@ workbox.routing.registerRoute(
     plugins: [
       new workbox.expiration.Plugin({
         // Cache only 20 images
-        maxEntries: 20,
-        // Cache for a maximum of a week
-        maxAgeSeconds: 7 * 24 * 60 * 60,
+        maxEntries: 100,
+        // Cache for a maximum of a month
+        maxAgeSeconds: 30 * 24 * 60 * 60,
       })
     ],
   })
 );
+
+workbox.precaching.precacheAndRoute([
+    'jquery-3.3.1.min.js',
+    'taffy-min.js',
+    'markerclusterer.min.js',
+    'script.min.js',
+    'maptilerlayer.js',
+    'popper1.14.3.min.js',
+    'bootstrap4.1.1.min.js',
+    'bootstrap4.1.1.min.css',
+    'styles.css',
+    { url: '/index.html', revision: '383676' },
+]);
