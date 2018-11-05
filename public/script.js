@@ -60,47 +60,19 @@ function isBrowserMobile() {
                  var bla = new google.maps.Marker({
                   position: coords,
                   map: map,
-                  animation: google.maps.Animation.DROP,
+                  animation: google.maps.Animation.BOUNCE,
                   zIndex:99999999
                   });
-                  marker.addListener('click', toggleBounce);
-
-
-                  var contentString = "You are here!";
-
-                  var infowindow = new google.maps.InfoWindow({
-                    content: contentString
-                  });
-
-              infowindow.open(map, bla);
-
-              setTimeout(function () { infowindow.close(); bla.setMap(null); }, 5000);
+                  setTimeout(function () { bla.setMap(null); }, 5000);
             }
-
-      function toggleBounce() {
-        if (marker.getAnimation() !== null) {
-          marker.setAnimation(null);
-        } else {
-          marker.setAnimation(google.maps.Animation.BOUNCE);
-        }
-      }
 
       function initMap(features) {
         map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 3,
+          zoom: 2,
           center: new google.maps.LatLng(41.4027984, 2.1600427)
         });
 
         var allmarker = [];
-
-        if (navigator.geolocation)
-            {
-               navigator.geolocation.getCurrentPosition(showCurrentLocation);
-            }
-            else
-            {
-               alert("Geolocation not supported. Please use Chrome Browser.");
-            }
 
         var iconBase = 'https://therealbitcoin.club/img/map/';
 
@@ -116,7 +88,7 @@ function isBrowserMobile() {
             icon: iconBase + 'ic_map_bar.png'
           },
           'atm': {
-            title: '@realBitcoinClub',
+            title: '@RealBitcoinClub',
             icon: iconBase + 'ic_map_bitcoin.png'
           },
           'food': {
@@ -148,17 +120,21 @@ function isBrowserMobile() {
             icon: iconBase + 'ic_map_hotel.png'
           }
         };
+
+        var delay = 2000;
+
         features.forEach(function(feature) {
             if (findGetParameter('category') == null || feature.type.toLowerCase() == findGetParameter('category')) {
-              var marker = new google.maps.Marker({
-                position: feature.position,
-                icon: icons[feature.type].icon,
-                animation: google.maps.Animation.DROP,
-                map: map
-              });
-              marker.addListener('click', toggleBounce);
 
-              allmarker.push(marker);
+              setTimeout(function () {
+                var marker = new google.maps.Marker({
+                  position: feature.position,
+                  icon: icons[feature.type].icon,
+                  animation: google.maps.Animation.DROP,
+                  map: map
+                });
+
+                allmarker.push(marker);
 
               var imageType = 'webp';
               var badgeSize = '282x84';
@@ -193,7 +169,7 @@ function isBrowserMobile() {
 
                 var image_url = photo+'.'+imageType;
 
-                contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="IMAGE COMING SOON!" src="'+image_url+'">';
+                contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="ARE YOU ONLINE?!" src="'+image_url+'">';
                 contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
                 contentString += '<h4>' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
                 contentString += '<h4 class="discount">' + discountText[discountLevel] + '</h4>';
@@ -203,10 +179,22 @@ function isBrowserMobile() {
                   document.getElementById("overlay-content").innerHTML = contentString;
                   $( ".overlay" ).addClass('overlay-open');
                 });
+              }, delay += 30);
           }
         });
 
-        var markerCluster = new MarkerClusterer(map, allmarker, {imagePath: '/clusterimage/m'});
+          setTimeout(function () { var markerCluster = new MarkerClusterer(map, allmarker, {imagePath: '/clusterimage/m'}); }, delay);
+
+          setTimeout(function () {
+            if (navigator.geolocation)
+              {
+                 navigator.geolocation.getCurrentPosition(showCurrentLocation);
+              }
+              else
+              {
+                 alert("Geolocation not supported. Please use Chrome Browser.");
+              }
+           }, delay);
 
           map.setOptions({styles: styles['hide']});
           infoWindow = new google.maps.InfoWindow();
