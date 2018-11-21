@@ -74,7 +74,7 @@ function isBrowserMobile() {
 
         var allmarker = [];
 
-        var iconBase = 'https://therealbitcoin.club/img/map/';
+        var iconBase = 'https://realbitcoinclub.firebasapp.com/img/map/';
 
         if (isBrowserMobile()) {
             iconBase += 'mobile/';
@@ -147,9 +147,9 @@ function isBrowserMobile() {
                 imgWidth = '640px';
               }
 
-                var baseUrl = 'https://therealbitcoin.club/';
+                var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
                 var directions = baseUrl + feature.p;
-                var gplay= '<a href="https://therealbitcoin.club/android"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
+                var gplay= '<a href="https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
                 var dir= '<a href="'+directions+'"><img class="batschRight" src="'+baseUrl + 'img/google-maps-badge'+badgeSize+'.png"></a>'
                 var photo = baseUrl + 'img/app/' + feature.p;
                 var type = icons[feature.type].title;
