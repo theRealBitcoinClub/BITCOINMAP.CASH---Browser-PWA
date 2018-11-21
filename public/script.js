@@ -74,7 +74,7 @@ function isBrowserMobile() {
 
         var allmarker = [];
 
-        var iconBase = 'https://realbitcoinclub.firebasapp.com/img/map/';
+        var iconBase = 'https://realbitcoinclub.firebaseapp.com/img/map/';
 
         if (isBrowserMobile()) {
             iconBase += 'mobile/';
