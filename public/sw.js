@@ -36,14 +36,15 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    'jquery-3.3.1.min.js',
-    'taffy-min.js',
-    'markerclusterer.min.js',
-    'script.min.js',
-    'maptilerlayer.js',
-    'popper1.14.3.min.js',
-    'bootstrap4.1.1.min.js',
-    'bootstrap4.1.1.min.css',
-    'styles.css',
-    { url: '/index.html', revision: '383676' },
+    { url: 'places8.json', revision: '383677' },
+    { url: 'jquery-3.3.1.min.js', revision: '383677' },
+    { url: 'taffy-min.js', revision: '383677' },
+    { url: 'markerclusterer.min.js', revision: '383677' },
+    { url: 'script.min.js', revision: '383677' },
+    { url: 'maptilerlayer.js', revision: '383677' },
+    { url: 'popper1.14.3.min.js', revision: '383677' },
+    { url: 'bootstrap4.1.1.min.js', revision: '383677' },
+    { url: 'bootstrap4.1.1.min.css', revision: '383677' },
+    { url: 'styles.css', revision: '383677' },
+    { url: '/index.html', revision: '383677' },
 ]);
