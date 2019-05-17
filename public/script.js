@@ -148,7 +148,7 @@ function isBrowserMobile() {
               }
 
                 var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
-                var directions = baseUrl + feature.p;
+                var directions = 'https://google.com/maps/search/?api=1&query=' + marker.position.latitude + ',' + marker.position.longitude;
                 var gplay= '<a href="https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
                 var dir= '<a href="'+directions+'"><img class="batschRight" src="'+baseUrl + 'img/google-maps-badge'+badgeSize+'.png"></a>'
                 var photo = baseUrl + 'img/app/' + feature.p;
@@ -156,7 +156,7 @@ function isBrowserMobile() {
                 var tags = feature.a.split(",");
                 var discountLevel = parseInt(feature.d);
 
-                var discountText = ["10% discount on first BCH payment","20% discount on first BCH payment","Accepting Bitcoin payments soon","Trade Bitcoin here with 0.0% fee","DASH, BCH, BTC accepted here","Information from discoverdash.com"];
+                //var discountText = ["10% discount on first BCH payment","20% discount on first BCH payment","Accepting Bitcoin payments soon","Trade Bitcoin here with 0.0% fee","DASH, BCH, BTC accepted here","Information from discoverdash.com"];
 
                 var tagText = [
                     '🎸🎧🎁🎸🎧🎁🎸🎧🎁-.,Bitcoin',
@@ -334,19 +334,25 @@ function isBrowserMobile() {
 
                 //var tagText = ["Bitcoin","Events","Trading","Organic","Vegetarian","Vegan","Healthy","Burger","Sandwich","Muffin","Brownie","Cake","Cookie","Tiramisu","Pizza","Salad","Smoothie","Fruit","IceCream","Raw","Handbag","Cosmetic","Tattoo","Piercing","Souvenir","Hatha","Vinyasa","Massage","Upcycled","Coffee","NoGluten","Cocktails","Beer","Music","Projects","Electro","Rock","LiveDJ","Terrace","Seeds","Grinder","Papers","Advice","Calzone","Suppli","MakeUp","Gifts","Tapas","Copas","Piadina","Herbs","Grains","Fashion","Fair","Women","Drinks","TV","Retro","Color","BW","BTC","BCH","Online","Booking","HotDog","Fast","Kosher","Sushi","Moto","Coche","Tablet","Chicken","Rabbit","Potatoe","DASH","ETH","ATM","Club","Dance","TakeAway","Meditation","Wine","Champagne","Alcohol","Booze","Hookers","Girls","Gay","Party","English","BnB","Haircut","Nails","Beauty","Miso","Teriyaki","Rice","Seafood","Hostel","Fries","Fish","Chips","Italian","Karaoke"," x x x ","Battery","Wheels","Men","Pasta","Dessert","Starter","BBQ","Noodle","Korean","Market","Bread","Bakery","Cafe","Games","Snacks","Elegant","Piano","Brunch","Nachos","Lunch","Breakfast","HappyHour","LateNight","Mexican","Burrito","Tortilla","Indonesian","Sports","Pastry","Bistro","Soup","Tea","Onion","Steak","Shakes","Empanadas","Dinner","Sweet","Fried","Omelette","Gin","Donut","Delivery","Cups","Filter","Juice","Vietnamese","Pie","Unagi","Greek","Japanese","Tacos","Kombucha","Indian","Nan","Club","Liquor","Pool","Hotel","Pork","Ribs","Kava","Chai","Izzy","Matcha","CBD","Latte"];
 
-                var tag0 = tags[0] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[0]] + '">' + tagText[tags[0]] + '</a>' : "Write";
-                var tag1 = tags[1] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[1]] + '">' + tagText[tags[1]] + '</a>' : "History";
-                var tag2 = tags[2] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[2]] + '">' + tagText[tags[2]] + '</a>' : "Spend";
-                var tag3 = tags[3] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[3]] + '">' + tagText[tags[3]] + '</a>' : "Bitcoin";
+                //var tag0 = tags[0] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[0]] + '">' + tagText[tags[0]] + '</a>' : "Write";
+                //var tag1 = tags[1] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[1]] + '">' + tagText[tags[1]] + '</a>' : "History";
+                //var tag2 = tags[2] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[2]] + '">' + tagText[tags[2]] + '</a>' : "Spend";
+                //var tag3 = tags[3] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[3]] + '">' + tagText[tags[3]] + '</a>' : "Bitcoin";
+
+                var tag0 = tags[0] !== '104' ? tagText[tags[0]] : "Write";
+                var tag1 = tags[1] !== '104' ? tagText[tags[1]] : "History";
+                var tag2 = tags[2] !== '104' ? tagText[tags[2]] : "Spend";
+                var tag3 = tags[3] !== '104' ? tagText[tags[3]] : "Bitcoin";
 
                 var contentString = '<span onClick="imatsch();" class="actionbar"><img width="50px" src="back.png" style="float:left;display: inline-block;vertical-align: middle;"><h1><marquee behavior="scroll" direction="left">' +feature.n+ '</marquee></h1></span>';
 
                 var image_url = photo+'.'+imageType;
 
                 contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="SORRY! IMAGE NOT AVAILABLE!" src="'+image_url+'">';
-                contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
+                contentString += '<h2>' + type + '</h2>';
+                //contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
                 contentString += '<h4>' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
-                contentString += '<h4 class="discount">' + discountText[discountLevel] + '</h4>';
+                //contentString += '<h4 class="discount">' + discountText[discountLevel] + '</h4>';
                 contentString += '<div class="batschCon">' + gplay + dir + '</div>';
 
                 marker.addListener('click', function() {
