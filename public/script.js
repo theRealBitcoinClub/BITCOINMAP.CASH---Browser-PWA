@@ -149,8 +149,8 @@ function isBrowserMobile() {
 
                 var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
                 var directions = 'https://google.com/maps/search/?api=1&query=' + currentMerchant.x + ',' + currentMerchant.y;
-                var gplay= '<a href="https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
-                var dir= '<a href="'+directions+'"><img class="batschRight" src="'+baseUrl + 'img/google-maps-badge'+badgeSize+'.png"></a>'
+                var gplay= '<a target="_blank" href="https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
+                var dir= '<a href="'+directions+'"><img class="batschRight" target="_blank" src="'+baseUrl + 'img/google-maps-badge'+badgeSize+'.png"></a>'
                 var photo = baseUrl + 'img/app/' + currentMerchant.p;
                 var type = icons[currentMerchant.type].title;
                 var tags = currentMerchant.a.split(",");
