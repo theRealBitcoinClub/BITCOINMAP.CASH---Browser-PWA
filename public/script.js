@@ -136,12 +136,12 @@ function isBrowserMobile() {
 
                 allmarker.push(marker);
 
-              var imageType = 'webp';
+              var imageType = 'gif';
               var badgeSize = '282x84';
               var imgWidth = '100%';
-              if (!supportsWebPImages()){
+              /*if (!supportsWebPImages()){
                 imageType = 'gif';
-              }
+              }*/
 
               if ($(window).width()>710) {
                 imgWidth = '640px';
@@ -158,7 +158,181 @@ function isBrowserMobile() {
 
                 var discountText = ["10% discount on first BCH payment","20% discount on first BCH payment","Accepting Bitcoin payments soon","Trade Bitcoin here with 0.0% fee","DASH, BCH, BTC accepted here","Information from discoverdash.com"];
 
-                var tagText = ["Bitcoin","Events","Trading","Organic","Vegetarian","Vegan","Healthy","Burger","Sandwich","Muffin","Brownie","Cake","Cookie","Tiramisu","Pizza","Salad","Smoothie","Fruit","IceCream","Raw","Handbag","Cosmetic","Tattoo","Piercing","Souvenir","Hatha","Vinyasa","Massage","Upcycled","Coffee","NoGluten","Cocktails","Beer","Music","Projects","Electro","Rock","LiveDJ","Terrace","Seeds","Grinder","Papers","Advice","Calzone","Suppli","MakeUp","Gifts","Tapas","Copas","Piadina","Herbs","Grains","Fashion","Fair","Women","Drinks","TV","Retro","Color","BW","BTC","BCH","Online","Booking","HotDog","Fast","Kosher","Sushi","Moto","Coche","Tablet","Chicken","Rabbit","Potatoe","DASH","ETH","ATM","Club","Dance","TakeAway","Meditation","Wine","Champagne","Alcohol","Booze","Hookers","Girls","Gay","Party","English","BnB","Haircut","Nails","Beauty","Miso","Teriyaki","Rice","Seafood","Hostel","Fries","Fish","Chips","Italian","Karaoke"," x x x ","Battery","Wheels","Men","Pasta","Dessert","Starter","BBQ","Noodle","Korean","Market","Bread","Bakery","Cafe","Games","Snacks","Elegant","Piano","Brunch","Nachos","Lunch","Breakfast","HappyHour","LateNight","Mexican","Burrito","Tortilla","Indonesian","Sports","Pastry","Bistro","Soup","Tea","Onion","Steak","Shakes","Empanadas","Dinner","Sweet","Fried","Omelette","Gin","Donut","Delivery","Cups","Filter","Juice","Vietnamese","Pie","Unagi","Greek","Japanese","Tacos","Kombucha","Indian","Nan","Club","Liquor","Pool","Hotel","Pork","Ribs","Kava","Chai","Izzy","Matcha","CBD","Latte"];
+                var tagText = [
+                    '🎸🎧🎁🎸🎧🎁🎸🎧🎁-.,Bitcoin',
+                    '🎸🎧🎁🎸🎧🎁🎸🎧🎁-.,Events',
+                    '🎸🎧🎁🎸🎧🎁🎸🎧🎁-.,Trading',
+                    'Organic 🐵',
+                    'Vegetarian 🥕',
+                    'Vegan 🐮',
+                    'Healthy 💓',
+                    'Burger 🍔',
+                    'Sandwich 🥪',
+                    'Muffin 🧁', //The muffin icon is invisible
+                    'Brownie 🥮',//Brownie is invisible too
+                    'Cake 🎂',
+                    'Cookie 🍪',
+                    '🎸🎧🎁🎸🎧🎁-.,12Tiramisu',
+                    'Pizza 🍕',
+                    'Salad 🥗',
+                    'Smoothie 🥤',
+                    'Fruit 🍓',
+                    'IceCream 🍦',
+                    'Raw 🥦',
+                    'Handbag 👜',
+                    'Cosmetic 💅',
+                    'Tattoo ♣',
+                    'Piercing 🌀',
+                    'Souvenir 🎁',
+                    'Hatha 🧘',
+                    'Vinyasa 🧘',
+                    'Massage 💆',
+                    'Upcycled 🌲',
+                    'Coffee ☕',
+                    'NoGluten 🌽',
+                    'Cocktails 🍹',
+                    'Beer 🍺',
+                    'Music 🎵',
+                    '🎸🎧🎁-.,1xProjects',
+                    '🎸🎧🎁-.,1xElectro',
+                    'Rock 🎸',
+                    'LiveDJ 🎧',
+                    'Terrace ☀️',
+                    'Seeds 🌱',
+                    'Grinder 🍌',
+                    'Papers 🚬',
+                    'Advice 🌴',
+                    'Calzone 🥟',
+                    '🎸🎧🎁-.,1Suppli',
+                    'MakeUp 🤡',
+                    'Gifts 🎁',
+                    'Tapas 🍠',
+                    'Copas 🍹',
+                    'Piadina 🌮',
+                    '🎸🎧🎁-.,1sHerbs 🌿',
+                    'Grains 🌾',
+                    'Fashion 👗',
+                    'Fair 🤗',
+                    'Women 👩',
+                    'Drinks 🍹',
+                    'TV 📺',
+                    'Retro 🦄',
+                    '🎸🎧🎁-.,1xColor',
+                    '🎸🎧🎁-.,1xBW',
+                    'BTC ₿',
+                    'BCH ₿',
+                    '🎸🎧🎁-.,1xOnline 🖥️',
+                    '🎸🎧🎁🎸🎧🎁-.,2xBooking',
+                    'HotDog 🌭',
+                    'Fast ⏩',
+                    'Kosher 🦄',
+                    'Sushi 🍣',
+                    'Moto 🛵',
+                    'Coche 🚘',
+                    '🎸🎧🎁-.,1xTablet',
+                    'Chicken 🐔',
+                    'Rabbit 🐰',
+                    'Potato 🥔',
+                    '🎸🎧🎁🎸🎧🎁-.,1xDASH',
+                    '🎸🎧🎁🎸🎧🎁-.,1xETH',
+                    'ATM 🏦',
+                    '🎸🎧🎁-.,1yDisco',
+                    '🎸🎧🎁🎸🎧🎁-.,ubfzger2',
+                    'ToGo 📦',
+                    'Meditation 🧘',
+                    'Wine 🍷',
+                    'Champagne 🥂',
+                    'Alcohol 🍾',
+                    'Booze 🥃',
+                    '🎸🎧🎁🎸🎧🎁-.,ubfzger', //You cant remove because we use fixed indexes, but replace with another string that is unlikely to be typed in by the user
+                    '🎸🎧🎁🎸🎧🎁-.,dfxgr',
+                    '🎸🎧🎁🎸🎧🎁-.,kmvdf',
+                    '🎸🎧🎁🎸🎧🎁-.,1xParty',
+                    '🎸🎧🎁🎸🎧🎁-.,ubfzger5',
+                    'BnB 🛏️',
+                    'Haircut ✂️',
+                    '🎸🎧🎁🎸🎧🎁-.,,12xNails 💅',
+                    'Beauty 💅',
+                    'Miso 🍱',
+                    '🎸🎧🎁🎸🎧🎁-.,ubfzger3',
+                    'Rice 🍚',
+                    'Seafood 🦀',
+                    'Hostel 🛏️',
+                    'Fries 🍟',
+                    'Fish 🐟',
+                    '🎸🎧🎁-.,12xChips',
+                    'Italian 🇮🇹',
+                    '🎸🎧🎁🎸🎧🎁-.,123Karaoke 🎤',
+                    '🎸🎧🎁🎸🎧🎁 o o o ', //This is number 114 the no tag indicator, currently not used
+                    '🎸🎧🎁🎸🎧🎁-.,123Battery',
+                    '🎸🎧🎁🎸🎧🎁-.,123Wheels',
+                    'Men ♂️',
+                    'Pasta 🍝',
+                    'Dessert 🍬',
+                    'Starter 🥠',
+                    'BBQ 🍗',
+                    'Noodle 🍜',
+                    'Korean 🥟',
+                    'Market 🧺', //invisible item
+                    'Bread 🥖',
+                    'Bakery 🥨',
+                    'Cafe ☕',
+                    'Games 🎮',
+                    'Snacks 🍿',
+                    'Elegant 🕴️',
+                    'Piano 🎹',
+                    'Brunch 🍱',
+                    'Nachos 🌽',
+                    'Lunch 🥡',
+                    'Breakfast 🥐',
+                    'HappyHour 🥳', //hidden item
+                    'LateNight 🌜',
+                    'Mexican 🇲🇽',
+                    'Burrito 🌯',
+                    'Tortilla 🌮',
+                    'Indonesian 🇮🇩',
+                    'Sports 🏆',
+                    'Pastry 🥧',
+                    'Bistro 🍲',
+                    'Soup 🥣',
+                    'Tea 🍵',
+                    'Onion',
+                    'Steak 🥩',
+                    'Shakes 🥤',
+                    'Empanadas 🥟',
+                    'Dinner 🍽️',
+                    'Sweet 🍭',
+                    'Fried 🍳',
+                    'Omelette 🥚',
+                    'Gin 🍸',
+                    'Donut 🍩',
+                    '🎸🎧🎁🎸🎧🎁-.,12cDelivery 🚚',
+                    'Cups ☕',
+                    'Filter',
+                    'Juice 🍊',
+                    'Vietnamese 🇻🇳',
+                    'Pie 🥮', //invisible item
+                    'Unagi 🐡',
+                    'Greek 🇬🇷',
+                    'Japanese 🇯🇵',
+                    'Tacos 🌮',
+                    'Kombucha 🍵',
+                    'Indian 🇮🇳',
+                    'Nan 🥪',
+                    'Club 🎶',
+                    '🎸🎧🎁🎸🎧🎁-.,1xLiquor',
+                    'Pool 🎱',
+                    'Hotel 🏨',
+                    'Pork 🥓',
+                    'Ribs 🍖',
+                    'Kava 🍵',
+                    'Chai 🍵',
+                    'Izzy 🍵',
+                    'Matcha 🍵',
+                    '🎸🎧🎁🎸🎧🎁-.,12xCBD',
+                    'Latte ☕'];
+
+                //var tagText = ["Bitcoin","Events","Trading","Organic","Vegetarian","Vegan","Healthy","Burger","Sandwich","Muffin","Brownie","Cake","Cookie","Tiramisu","Pizza","Salad","Smoothie","Fruit","IceCream","Raw","Handbag","Cosmetic","Tattoo","Piercing","Souvenir","Hatha","Vinyasa","Massage","Upcycled","Coffee","NoGluten","Cocktails","Beer","Music","Projects","Electro","Rock","LiveDJ","Terrace","Seeds","Grinder","Papers","Advice","Calzone","Suppli","MakeUp","Gifts","Tapas","Copas","Piadina","Herbs","Grains","Fashion","Fair","Women","Drinks","TV","Retro","Color","BW","BTC","BCH","Online","Booking","HotDog","Fast","Kosher","Sushi","Moto","Coche","Tablet","Chicken","Rabbit","Potatoe","DASH","ETH","ATM","Club","Dance","TakeAway","Meditation","Wine","Champagne","Alcohol","Booze","Hookers","Girls","Gay","Party","English","BnB","Haircut","Nails","Beauty","Miso","Teriyaki","Rice","Seafood","Hostel","Fries","Fish","Chips","Italian","Karaoke"," x x x ","Battery","Wheels","Men","Pasta","Dessert","Starter","BBQ","Noodle","Korean","Market","Bread","Bakery","Cafe","Games","Snacks","Elegant","Piano","Brunch","Nachos","Lunch","Breakfast","HappyHour","LateNight","Mexican","Burrito","Tortilla","Indonesian","Sports","Pastry","Bistro","Soup","Tea","Onion","Steak","Shakes","Empanadas","Dinner","Sweet","Fried","Omelette","Gin","Donut","Delivery","Cups","Filter","Juice","Vietnamese","Pie","Unagi","Greek","Japanese","Tacos","Kombucha","Indian","Nan","Club","Liquor","Pool","Hotel","Pork","Ribs","Kava","Chai","Izzy","Matcha","CBD","Latte"];
 
                 var tag0 = tags[0] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[0]] + '">' + tagText[tags[0]] + '</a>' : "Write";
                 var tag1 = tags[1] !== '104' ? '<a href="https://bitcoinmap.world/bch-dash-btc/?tag=' + tagText[tags[1]] + '">' + tagText[tags[1]] + '</a>' : "History";
@@ -169,7 +343,7 @@ function isBrowserMobile() {
 
                 var image_url = photo+'.'+imageType;
 
-                contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="ARE YOU ONLINE?!" src="'+image_url+'">';
+                contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="SORRY! IMAGE NOT AVAILABLE!" src="'+image_url+'">';
                 contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
                 contentString += '<h4>' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
                 contentString += '<h4 class="discount">' + discountText[discountLevel] + '</h4>';
