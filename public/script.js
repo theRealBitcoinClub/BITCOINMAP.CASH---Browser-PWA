@@ -66,7 +66,7 @@ function isBrowserMobile() {
                   setTimeout(function () { bla.setMap(null); }, 5000);
             }
 
-      function initMap(features) {
+      function initMap(allPlaces) {
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 2,
           center: new google.maps.LatLng(41.4027984, 2.1600427)
@@ -123,13 +123,13 @@ function isBrowserMobile() {
 
         var delay = 2000;
 
-        features.forEach(function(feature) {
-            if (findGetParameter('category') == null || feature.type.toLowerCase() == findGetParameter('category')) {
+        allPlaces.forEach(function(currentMerchant) {
+            if (findGetParameter('category') == null || currentMerchant.type.toLowerCase() == findGetParameter('category')) {
 
               setTimeout(function () {
                 var marker = new google.maps.Marker({
-                  position: feature.position,
-                  icon: icons[feature.type].icon,
+                  position: currentMerchant.position,
+                  icon: icons[currentMerchant.type].icon,
                   animation: google.maps.Animation.DROP,
                   map: map
                 });
@@ -148,13 +148,13 @@ function isBrowserMobile() {
               }
 
                 var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
-                var directions = 'https://google.com/maps/search/?api=1&query=' + marker.position.latitude + ',' + marker.position.longitude;
+                var directions = 'https://google.com/maps/search/?api=1&query=' + currentMerchant.x + ',' + currentMerchant.y;
                 var gplay= '<a href="https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap"><img class="batschLeft" src="'+baseUrl + 'img/google-play-badge'+badgeSize+'.png"></a>'
                 var dir= '<a href="'+directions+'"><img class="batschRight" src="'+baseUrl + 'img/google-maps-badge'+badgeSize+'.png"></a>'
-                var photo = baseUrl + 'img/app/' + feature.p;
-                var type = icons[feature.type].title;
-                var tags = feature.a.split(",");
-                var discountLevel = parseInt(feature.d);
+                var photo = baseUrl + 'img/app/' + currentMerchant.p;
+                var type = icons[currentMerchant.type].title;
+                var tags = currentMerchant.a.split(",");
+                var discountLevel = parseInt(currentMerchant.d);
 
                 //var discountText = ["10% discount on first BCH payment","20% discount on first BCH payment","Accepting Bitcoin payments soon","Trade Bitcoin here with 0.0% fee","DASH, BCH, BTC accepted here","Information from discoverdash.com"];
 
@@ -344,7 +344,7 @@ function isBrowserMobile() {
                 var tag2 = tags[2] !== '104' ? tagText[tags[2]] : "Spend";
                 var tag3 = tags[3] !== '104' ? tagText[tags[3]] : "Bitcoin";
 
-                var contentString = '<span onClick="imatsch();" class="actionbar"><img width="50px" src="back.png" style="float:left;display: inline-block;vertical-align: middle;"><h1><marquee behavior="scroll" direction="left">' +feature.n+ '</marquee></h1></span>';
+                var contentString = '<span onClick="imatsch();" class="actionbar"><img width="50px" src="back.png" style="float:left;display: inline-block;vertical-align: middle;"><h1><marquee behavior="scroll" direction="left">' +currentMerchant.n+ '</marquee></h1></span>';
 
                 var image_url = photo+'.'+imageType;
 
