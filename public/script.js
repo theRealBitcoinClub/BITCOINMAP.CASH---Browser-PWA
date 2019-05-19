@@ -137,14 +137,20 @@ function isBrowserMobile() {
                 allmarker.push(marker);
 
               var imageType = 'gif';
-              var badgeSize = '282x84';
+              var badgeSize = '564x168';
               var imgWidth = '100%';
               /*if (!supportsWebPImages()){
                 imageType = 'gif';
               }*/
 
-              if ($(window).width()>710) {
-                imgWidth = '640px';
+              if ($(window).width() > $(window).height()) {
+                if ($(window).height()<650) {
+                    imgWidth = '320px';
+                } else if ($(window).height() < 900) {
+                    imgWidth = '480px';
+                } else {
+                    imgWidth = '640px';
+                }
               }
 
                 var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
