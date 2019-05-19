@@ -15,6 +15,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.searchbar {
+    width: 200px;
+}
+
 .primaryColor {
   background-color: #36a69e;
   color: #ffffff;

@@ -68,7 +68,7 @@
       var ua = navigator.userAgent.toLowerCase();
       var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
       if(isAndroid) {
-        alert('This Website is an App! You can open the BROWSER menu on the top right to choose "Add to Homescreen". Or touch the WEBSITE menu icon on the top right to install the Bitcoin Map Android App!')
+        alert('Open the menu on the top right to install our Android Apps!')
       }
     </script>
     <script src="markerclusterer.min.js"></script>
@@ -100,7 +100,12 @@
   </head>
   <body>
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark primaryDarkColor text-white">
-      <img class="navbar-brand" src="logo_action_bar.png"  width="200px" alt="BITCOINMAP.CASH">
+      <div class="input-group md-form form-sm form-1 pl-0 searchbar">
+        <div class="input-group-prepend">
+          <label class="input-group-text purple lighten-3" for="ewvbfui" id="basic-text1">🔍</label>
+        </div>
+        <input class="form-control my-0 py-1" id="ewvbfui" type="text" placeholder="Search" aria-label="Search">
+      </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -158,7 +163,7 @@
     </div>
     <div id="map"></div>
     <div>
-      <h1>Bitcoin Shopping Map</h1>
+      <h1>Bitcoin Tourist Map</h1>
       <h2>BCH DASH Merchant Directory</h2>
       <h3>Bitcoin Cash World Map</h3>
       <p>On BITCOINMAP.CASH you can find the most exclusive Restaurants, Bars, Supermarkets and Hotels to spend your Bitcoins!</p>
