@@ -357,9 +357,9 @@ function isBrowserMobile() {
                 contentString += '<img class="pictureanimation" onClick="imatsch();" width="' + imgWidth + '" alt="SORRY! IMAGE NOT AVAILABLE!" src="'+image_url+'">';
                 contentString += '<h2>' + type + '</h2>';
                 //contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
-                contentString += '<h4>' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
+                contentString += '<h4 class="tags">' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
                 //contentString += '<h4 class="discount">' + discountText[discountLevel] + '</h4>';
-                contentString += '<div class="batschCon">' + gplay + dir + '</div>';
+                contentString += '<span class="batschCon">' + gplay + dir + '</span>';
 
                 marker.addListener('click', function() {
                   document.getElementById("overlay-content").innerHTML = contentString;

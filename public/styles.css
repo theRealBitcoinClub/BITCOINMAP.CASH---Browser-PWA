@@ -42,6 +42,7 @@ a {
 #overlay-content {
   background-color: #339c9a;
   color: #ffffff;
+  border-radius: 10px;
 }
 .overlay {
   position: fixed;
@@ -73,11 +74,15 @@ a {
         vertical-align: middle;
     }
 
+    .tags {
+        white-space: nowrap;
+    }
+
 .titleActionbar {
   width:70%;
   white-space: nowrap;
   font-size: 28px;
-  padding-top: 10px;
+  padding-top: 2px;
 }
 
 h2 {
@@ -89,7 +94,7 @@ h3 {
   font-size: 18px;
 }
 h4 {
-  font-size: 16px;
+  font-size: 12px;
   width: 100%;
   margin: 0px;
   padding-top: 10px;
@@ -103,29 +108,28 @@ h4 {
   padding-top: 0px;
 }
 
-.batschLeft, .batschRight {
-  width: 113px;
-  height: 34px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-}
 
-.batschLeft {
-  margin-right: 8px;
-}
+    .batschLeft, .batschRight {
+      height: auto;
+      width: 45%;
+    }
 
-.batschRight {
-  margin-left: 8px;
-}
+      .batschLeft {
+        margin-right: 1%;
+      }
 
-@media only screen and (min-width: 380px) {
+      .batschRight {
+        margin-left: 1%;
+      }
+
+@media only screen and (min-width: 320px) {
   .backButton, .closeButton {
           width:14%;
       }
   .titleActionbar {
     width:72%;
     font-size: 32px;
-    padding-top: 10px;
+    padding-top: 3px;
   }
   h2 {
     font-size: 27px;
@@ -135,24 +139,42 @@ h4 {
     font-size: 21px;
   }
   h4 {
-    font-size: 19px;
+    font-size: 14px;
     padding-top: 10px;
     padding-bottom: 12px;
   }
 
   .batschLeft, .batschRight {
-    width: 138px;
-    height: 41px;
-    margin-bottom: 25px;
+    margin-bottom: 6px;
+  }
+}
+
+@media only screen and (min-width: 380px) {
+  .backButton, .closeButton {
+          width:14%;
+      }
+  .titleActionbar {
+    width:72%;
+    font-size: 32px;
+    padding-top: 4px;
+  }
+  h2 {
+    font-size: 27px;
+    padding-top: 13px;
+  }
+  h3 {
+    font-size: 21px;
+  }
+  h4 {
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 12px;
   }
 
-  .batschLeft {
-    margin-right: 12px;
+  .batschLeft, .batschRight {
+    margin-bottom: 6px;
   }
 
-  .batschRight {
-    margin-left: 12px;
-  }
 }
 
 @media only screen and (min-width: 440px) {
@@ -162,7 +184,7 @@ h4 {
   .titleActionbar {
     width:74%;
     font-size: 36px;
-    padding-top: 10px;
+    padding-top: 5px;
   }
   h2 {
     font-size: 30px;
@@ -172,24 +194,15 @@ h4 {
     font-size: 24px;
   }
   h4 {
-    font-size: 22px;
+    font-size: 20px;
     padding-top: 10px;
     padding-bottom: 12px;
   }
 
   .batschLeft, .batschRight {
-    width: 167px;
-    height: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 7px;
   }
 
-  .batschLeft {
-    margin-right: 12px;
-  }
-
-  .batschRight {
-    margin-left: 12px;
-  }
 }
 
 @media only screen and (min-width: 525px) {
@@ -199,7 +212,7 @@ h4 {
   .titleActionbar {
     width:76%;
     font-size: 41px;
-    padding-top: 10px;
+    padding-top: 6px;
   }
   h2 {
     font-size: 35px;
@@ -209,34 +222,29 @@ h4 {
     font-size: 28px;
   }
   h4 {
-    font-size: 25px;
+    font-size: 24px;
     padding-top: 10px;
     padding-bottom: 12px;
   }
 
   .batschLeft, .batschRight {
-    width: 197px;
-    height: 59px;
-    margin-bottom: 25px;
+    margin-bottom: 8px;
   }
 
-  .batschLeft {
-    margin-right: 12px;
-  }
-
-  .batschRight {
-    margin-left: 12px;
-  }
 }
 
 @media only screen and (min-width: 610px) {
+
+#overlay-content {
+  border-radius: 15px;
+}
   .backButton, .closeButton {
           width:11%;
       }
   .titleActionbar {
     width:78%;
     font-size: 46px;
-    padding-top: 10px;
+    padding-top: 7px;
   }
   h2 {
     font-size: 40px;
@@ -246,23 +254,13 @@ h4 {
     font-size: 32px;
   }
   h4 {
-    font-size: 28px;
+    font-size: 29px;
     padding-top: 10px;
     padding-bottom: 16px;
   }
 
   .batschLeft, .batschRight {
-    width: 242px;
-    height: 72px;
-    margin-bottom: 25px;
-  }
-
-  .batschLeft {
-    margin-right: 6px;
-  }
-
-  .batschRight {
-    margin-left: 6px;
+    margin-bottom: 9px;
   }
 }
 
@@ -273,7 +271,7 @@ h4 {
   .titleActionbar {
     width:80%;
     font-size: 46px;
-    padding-top: 10px;
+    padding-top: 8px;
   }
   h2 {
     font-size: 40px;
@@ -283,30 +281,26 @@ h4 {
     font-size: 32px;
   }
   h4 {
-    font-size: 28px;
+    font-size: 33px;
     padding-top: 10px;
     padding-bottom: 16px;
   }
 
   .batschLeft, .batschRight {
-    width: 262px;
-    height: 78px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
   }
 
-  .batschLeft {
-    margin-right: 10px;
-  }
-
-  .batschRight {
-    margin-left: 10px;
-  }
 }
 
 @media only screen and (min-width: 810px) {
+
+#overlay-content {
+  border-radius: 20px;
+}
+
   .titleActionbar {
     font-size: 54px;
-    padding-top: 10px;
+    padding-top: 9px;
   }
   h2 {
     font-size: 45px;
@@ -316,27 +310,22 @@ h4 {
     font-size: 36px;
   }
   h4 {
-    font-size: 32px;
+    font-size: 36px;
     padding-top: 10px;
     padding-bottom: 16px;
   }
 
   .batschLeft, .batschRight {
-    width: 282px;
-    height: 84px;
-    margin-bottom: 25px;
+    margin-bottom: 12px;
   }
 
-  .batschLeft {
-    margin-right: 16px;
-  }
-
-  .batschRight {
-    margin-left: 16px;
-  }
 }
 
 @media only screen and (min-width: 992px) {
+
+    #overlay-content {
+      border-radius: 25px;
+    }
   .titleActionbar {
     font-size: 60px;
     padding-top: 10px;
@@ -349,19 +338,12 @@ h4 {
     font-size: 40px;
   }
   h4 {
-    font-size: 36px;
     padding-top: 10px;
     padding-bottom: 20px;
   }
 
-  .batschLeft {
-    margin-right: 20px;
-    margin-bottom: 30px;
-  }
-
-  .batschRight {
-    margin-left: 20px;
-    margin-bottom: 30px;
+  .batschLeft, .batschRight {
+    margin-bottom: 15px;
   }
 }
 
@@ -372,8 +354,7 @@ h4 {
 
     .batschLeft, .batschRight {
       height: auto;
-      width: 48%;
-      margin-bottom: 20px;
+      width: 47%;
     }
 
       .batschLeft {
@@ -393,27 +374,19 @@ h4 {
       .titleActionbar {
         width:50%;
         }
+    .overlay div {
+      width: 70%;
+    }
   }
 
-  @media all and (orientation: landscape) and (max-height: 850px) {
-        .pictureanimation {
-            width: 480px;
-        }
-  }
-
-  @media all and (orientation: landscape) and (max-height: 735px) {
-        .pictureanimation {
-            width: 400px;
-        }
-  }
-
-  @media all and (orientation: landscape) and (max-height: 620px) {
+  @media all and (orientation: landscape) and (max-height: 880px) {
+        border-radius: 20px;
           .backButton, .closeButton {
                   width:11%;
               }
           .titleActionbar {
             width:78%;
-            font-size: 46px;
+            font-size: 40px;
             padding-top: 10px;
           }
           h2 {
@@ -428,12 +401,51 @@ h4 {
             padding-top: 10px;
             padding-bottom: 16px;
           }
+        .overlay div {
+          width: 650px;
+        }
+        .pictureanimation {
+            width: 640px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 830px) {
+        .pictureanimation {
+            width: 600px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 780px) {
+        .pictureanimation {
+            width: 560px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 735px) {
+        border-radius: 15px;
+        .overlay div {
+          width: 590px;
+        }
+        .pictureanimation {
+            width: 400px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 620px) {
+        border-radius: 10px;
+        .overlay div {
+          width: 520px;
+        }
         .pictureanimation {
             width: 320px;
         }
   }
 
-  @media all and (orientation: landscape) and (min-height: 850px) {
+  @media all and (orientation: landscape) and (min-height: 880px) {
+
+        .overlay div {
+          width: 750px;
+        }
         .pictureanimation {
             width: 640px;
         }
