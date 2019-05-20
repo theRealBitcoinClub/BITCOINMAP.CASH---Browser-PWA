@@ -16,7 +16,7 @@ body {
 }
 
 .searchbar {
-    width: 200px;
+    width: 300px;
 }
 
 .primaryColor {
@@ -56,16 +56,30 @@ a {
   text-align: center;
   position: relative;
   top: 10px;
-  left: 5%;
-  width: 90%;
+  left: 2%;
+  width: 96%;
 }
 
-h1 {
+    .backButton, .closeButton {
+        width:15%;
+    }
+    .backButton {
+        float:left;display: inline-block;
+        vertical-align: middle;
+    }
+
+    .closeButton {
+        float:right;display: inline-block;
+        vertical-align: middle;
+    }
+
+.titleActionbar {
+  width:70%;
   white-space: nowrap;
   font-size: 28px;
   padding-top: 10px;
-  width:80%;
 }
+
 h2 {
   font-size: 25px;
   padding-top: 10px;
@@ -105,7 +119,11 @@ h4 {
 }
 
 @media only screen and (min-width: 380px) {
-  h1 {
+  .backButton, .closeButton {
+          width:14%;
+      }
+  .titleActionbar {
+    width:72%;
     font-size: 32px;
     padding-top: 10px;
   }
@@ -138,7 +156,11 @@ h4 {
 }
 
 @media only screen and (min-width: 440px) {
-  h1 {
+  .backButton, .closeButton {
+          width:13%;
+      }
+  .titleActionbar {
+    width:74%;
     font-size: 36px;
     padding-top: 10px;
   }
@@ -171,7 +193,11 @@ h4 {
 }
 
 @media only screen and (min-width: 525px) {
-  h1 {
+  .backButton, .closeButton {
+          width:12%;
+      }
+  .titleActionbar {
+    width:76%;
     font-size: 41px;
     padding-top: 10px;
   }
@@ -204,7 +230,11 @@ h4 {
 }
 
 @media only screen and (min-width: 610px) {
-  h1 {
+  .backButton, .closeButton {
+          width:11%;
+      }
+  .titleActionbar {
+    width:78%;
     font-size: 46px;
     padding-top: 10px;
   }
@@ -237,7 +267,11 @@ h4 {
 }
 
 @media only screen and (min-width: 710px) {
-  h1 {
+  .backButton, .closeButton {
+          width:10%;
+      }
+  .titleActionbar {
+    width:80%;
     font-size: 46px;
     padding-top: 10px;
   }
@@ -270,7 +304,7 @@ h4 {
 }
 
 @media only screen and (min-width: 810px) {
-  h1 {
+  .titleActionbar {
     font-size: 54px;
     padding-top: 10px;
   }
@@ -303,7 +337,7 @@ h4 {
 }
 
 @media only screen and (min-width: 992px) {
-  h1 {
+  .titleActionbar {
     font-size: 60px;
     padding-top: 10px;
   }
@@ -330,6 +364,80 @@ h4 {
     margin-bottom: 30px;
   }
 }
+
+  @media all and (orientation: portrait) {
+    .searchbar {
+        width: 70%;
+    }
+
+    .batschLeft, .batschRight {
+      height: auto;
+      width: 48%;
+      margin-bottom: 20px;
+    }
+
+      .batschLeft {
+        margin-right: 1%;
+      }
+
+      .batschRight {
+        margin-left: 1%;
+      }
+  }
+
+
+  @media all and (orientation: landscape) {
+      .backButton, .closeButton {
+              width:8%;
+          }
+      .titleActionbar {
+        width:50%;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 850px) {
+        .pictureanimation {
+            width: 480px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 735px) {
+        .pictureanimation {
+            width: 400px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (max-height: 620px) {
+          .backButton, .closeButton {
+                  width:11%;
+              }
+          .titleActionbar {
+            width:78%;
+            font-size: 46px;
+            padding-top: 10px;
+          }
+          h2 {
+            font-size: 40px;
+            padding-top: 16px;
+          }
+          h3 {
+            font-size: 32px;
+          }
+          h4 {
+            font-size: 28px;
+            padding-top: 10px;
+            padding-bottom: 16px;
+          }
+        .pictureanimation {
+            width: 320px;
+        }
+  }
+
+  @media all and (orientation: landscape) and (min-height: 850px) {
+        .pictureanimation {
+            width: 640px;
+        }
+  }
 
 .overlay-data {
   opacity: 0;

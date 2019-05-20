@@ -121,7 +121,7 @@ function isBrowserMobile() {
           }
         };
 
-        var delay = 2000;
+        var delay = 1000;
 
         allPlaces.forEach(function(currentMerchant) {
             if (findGetParameter('category') == null || currentMerchant.type.toLowerCase() == findGetParameter('category')) {
@@ -143,7 +143,7 @@ function isBrowserMobile() {
                 imageType = 'gif';
               }*/
 
-              if ($(window).width() > $(window).height()) {
+              if ($(window).width() > $(window).height()) { //keep as fallback while CSS is loading
                 if ($(window).height()<650) {
                     imgWidth = '320px';
                 } else if ($(window).height() < 900) {
@@ -350,11 +350,11 @@ function isBrowserMobile() {
                 var tag2 = tags[2] !== '104' ? tagText[tags[2]] : "Spend";
                 var tag3 = tags[3] !== '104' ? tagText[tags[3]] : "Bitcoin";
 
-                var contentString = '<span onClick="imatsch();" class="actionbar"><img width="50px" src="back.png" style="float:left;display: inline-block;vertical-align: middle;"><h1><marquee behavior="scroll" direction="left">' +currentMerchant.n+ '</marquee></h1></span>';
+                var contentString = '<span onClick="imatsch();" class="actionbar"><img width="10%" alt="&lt;-" src="back-button.svg" class="backButton"><marquee width="75%" class="titleActionbar" behavior="scroll" direction="left">' +currentMerchant.n+ '</marquee><img width="10%" alt="X" src="close-button.svg" class="closeButton"></span>';
 
                 var image_url = photo+'.'+imageType;
 
-                contentString += '<img onClick="imatsch();" width="' + imgWidth + '" alt="SORRY! IMAGE NOT AVAILABLE!" src="'+image_url+'">';
+                contentString += '<img class="pictureanimation" onClick="imatsch();" width="' + imgWidth + '" alt="SORRY! IMAGE NOT AVAILABLE!" src="'+image_url+'">';
                 contentString += '<h2>' + type + '</h2>';
                 //contentString += '<h2><a href="https://bitcoinmap.world/bch-dash-btc/?category=' + type.toLowerCase() + '">' + type + '</a></h2>';
                 contentString += '<h4>' + tag0 + ' - ' + tag1 + ' - ' + tag2 + ' - ' + tag3 + '</h4>';
