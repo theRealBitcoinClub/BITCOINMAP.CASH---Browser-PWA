@@ -61,29 +61,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="bootstrap4.1.1.min.css">
-  <link rel="stylesheet" href="snackbar.min.css">
-  <script src="snackbar.min.js"></script>
+  <link rel="stylesheet" href="noty.css">
+  <!--link rel="stylesheet" href="snackbar.min.css"-->
   <script src="jquery-3.3.1.min.js"></script>
   <!--script src="taffy-min.js"></script-->
-
-  <script type="text/javascript">
-    var ua = navigator.userAgent.toLowerCase();
-    var isAndroid = ua.indexOf("android") > -1;
-    if(isAndroid) {
-        alert('x');
-        var options =  {
-            content: "Android App: <a href='http://bitcoinmap.cash' target='_blank'>DOWNLOAD<a/>", // text of the snackbar
-            style: "toast", // add a custom class to your snackbar
-            timeout: 0, // time in milliseconds after the snackbar autohides, 0 is disabled
-            htmlAllowed: true, // allows HTML as content value
-            onClose: function(){ } // callback called when the snackbar gets closed.
-        }
-
-        $.snackbar(options);
-    }
-  </script>
+  <script src="noty.min.js"></script>
   <script src="markerclusterer.min.js"></script>
-  <script src="script.js"></script>
+  <script src="script.min.js"></script>
 
   <!--script src="maptilerlayer.js"></script>
 <script type="text/javascript">
@@ -186,6 +170,59 @@ var geoloccontrol = new klokantech.GeolocationControl(asdf, 5);
 <script src="bootstrap4.1.1.min.js"></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVDl8Ng3iT4xfX2r6Fj1SvJJvndz73JOI&callback=loadIcons&language=ES">
 </script>
+<!--script src="snackbar.min.js"></script-->
+<script type="text/javascript">
+    function openInNewTab(url) {
+      var win = window.open(url, '_blank');
+      win.focus();
+    }
+
+    var targetURI;
+    if (navigator.userAgent.indexOf("Safari") != -1 && navigator.userAgent.indexOf('Mobile') != -1) {
+        targetURI = "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector";
+    } else {
+        targetURI = "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap";
+    }
+
+    const n = new Noty({
+          theme: 'sunset',
+          killer: true,
+          text: '<b>Try our Android Apps for a smoother experience!</b>',
+          buttons: [
+            Noty.button('CANCEL', 'btn btn-danger', function () {
+              n.close();
+            }),
+            Noty.button('DOWNLOAD APP', 'btn btn-success float-right', function () {
+              openInNewTab(targetURI);
+              n.close();
+            })
+          ]
+        }).show();
+
+</script>
+<!--span data-toggle=snackbar data-content="This is my awesome snackbar!">Click me</span-->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "c51d4127-3b6d-46bc-a4fc-3850d7645f31",
+    });
+  });
+</script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5ce44e792846b90c57afb6cd/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>
