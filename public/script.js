@@ -91,13 +91,23 @@ function initMap(allPlaces) {
 
     var allmarker = [];
 
-    var iconBase = 'https://realbitcoinclub.firebaseapp.com/img/map/';
+    var iconBase = 'img/map/';
+    var smallestWindowSize = $(window).width() <= $(window).height() ? $(window).width() : $(window).height();
 
-    if (isBrowserMobile()) {
-        iconBase += 'mobile/';
-    } else {
+    /*if (isBrowserMobile()) {*/
+        if (smallestWindowSize < 320)
+            iconBase += 'drawable-mdpi/';
+        else if (smallestWindowSize < 480)
+            iconBase += 'drawable-hdpi/';
+        else if (smallestWindowSize < 640)
+            iconBase += 'drawable-xhdpi/';
+        else if (smallestWindowSize < 992)
+            iconBase += 'drawable-xxhdpi/';
+        else
+            iconBase += 'drawable-xxxhdpi/';
+    /*} else {
         iconBase += 'desktop/';
-    }
+    }*/
 
     var icons = {
         'bar': {
@@ -162,7 +172,7 @@ function initMap(allPlaces) {
                 imageType = 'gif';
               }*/
 
-                var baseUrl = 'https://realbitcoinclub.firebaseapp.com/';
+                var baseUrl = '';
                 var directions = 'https://google.com/maps/search/?api=1&query=' + currentMerchant.x + ',' + currentMerchant.y;
                 var gplay = '<a target="_blank" href="https://play.google.com/store/apps/details?id=club.ther' +
                         'ealbitcoin.bchmap"><img class="batschLeft" src="' + baseUrl + 'img/google-play-badge' + badgeSize + '.png"></a>'
