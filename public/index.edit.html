@@ -67,7 +67,7 @@
 
   <script type="text/javascript">
         var ua = navigator.userAgent.toLowerCase();
-          var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+          var isAndroid = ua.indexOf("android") > -1;
           if(isAndroid) {
             alert('Open the menu on the top right to install our Android Apps!')
           }
@@ -76,14 +76,12 @@
   <script src="script.js"></script>
 
   <!--script src="maptilerlayer.js"></script>
-  <script type="text/javascript">
-    var geoloccontrol = new klokantech.GeolocationControl(asdf, 5);
-  </script-->
+<script type="text/javascript">
+var geoloccontrol = new klokantech.GeolocationControl(asdf, 5);
+</script-->
 
   <script>
-        // Check that service workers are registered
-          if ('serviceWorker' in navigator) {
-            // Use the window load event to keep the page load performant
+        if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
               navigator.serviceWorker.register('sw.js');
             });
@@ -93,7 +91,7 @@
   <script>
         type="text/javascript">
               $(document).keyup(function(e) {
-                 if (e.keyCode == 27) { // escape key maps to keycode `27`
+                 if (e.keyCode == 27) {
                     imatsch();
                 }
               });
@@ -104,12 +102,12 @@
 <body>
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark primaryDarkColor text-white">
   <!--div class="input-group md-form form-sm form-1 pl-0 searchbar">
-    <div class="input-group-prepend">
-      <label class="input-group-text purple lighten-3" for="ewvbfui" id="basic-text1">🔍</label>
-    </div>
-    <input class="form-control my-0 py-1" id="ewvbfui" type="text" placeholder="Search" aria-label="Search">
-  </div-->
-  <img class="navbar-brand" src="logo_action_bar.png"  width="180px" class="searchbar" alt="BITCOINMAP.CASH">
+<div class="input-group-prepend">
+<label class="input-group-text purple lighten-3" for="ewvbfui" id="basic-text1">🔍</label>
+</div>
+<input class="form-control my-0 py-1" id="ewvbfui" type="text" placeholder="Search" aria-label="Search">
+</div-->
+  <img class="navbar-brand" src="logo_action_bar.png" width="180px" class="searchbar" alt="BITCOINMAP.CASH">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
