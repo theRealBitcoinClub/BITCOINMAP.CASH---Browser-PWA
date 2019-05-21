@@ -53,20 +53,32 @@ function isBrowserMobile() {
     return check;
 };
 
-function showCurrentLocation(position) {
+function animateMapZoomTo(map, targetZoom) {
+    var currentZoom = arguments[2] || map.getZoom();
+    if (currentZoom != targetZoom) {
+        google.maps.event.addListenerOnce(map, 'zoom_changed', function (event) {
+            animateMapZoomTo(map, targetZoom, currentZoom + (targetZoom > currentZoom ? 1 : -1));
+        });
+        setTimeout(function(){ map.setZoom(currentZoom) }, 80);
+    }
+}
 
+function showCurrentLocation(position) {
     var latitude = position.coords.latitude;
     var longitude = position.coords.longitude;
     var coords = new google
         .maps
         .LatLng(latitude, longitude);
 
-    var bla = new google
+    var ownPositionMarker = new google
         .maps
         .Marker({position: coords, map: map, animation: google.maps.Animation.BOUNCE, zIndex: 99999999});
     setTimeout(function () {
-        bla.setMap(null);
+        ownPositionMarker.setMap(null);
     }, 5000);
+
+    map.panTo(position.coords);
+    animateMapZoomTo(map, 10);
 }
 
 function initMap(allPlaces) {
