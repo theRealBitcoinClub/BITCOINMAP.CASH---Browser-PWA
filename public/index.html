@@ -61,9 +61,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="bootstrap4.1.1.min.css">
-    <link rel="stylesheet" href="snackbar.min.css">
+    <link rel="stylesheet" href="noty.css">
+    <!--link rel="stylesheet" href="snackbar.min.css"-->
     <script src="jquery-3.3.1.min.js"></script>
     <!--script src="taffy-min.js"></script-->
+    <script src="noty.min.js"></script>
     <script src="markerclusterer.min.js"></script>
     <script src="script.js"></script>
 
@@ -168,10 +170,29 @@
 <script src="bootstrap4.1.1.min.js"></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVDl8Ng3iT4xfX2r6Fj1SvJJvndz73JOI&callback=loadIcons&language=ES">
 </script>
-<script src="snackbar.min.js"></script>
+<!--script src="snackbar.min.js"></script-->
 <script type="text/javascript">
-    showSnackBar();
+
+      if (Notification.permission !== 'granted') {
+        const n = new Noty({
+          theme: 'sunset',
+          killer: true,
+          text: 'Would you like to receive <b>notifications</b> as soon as more places are available?',
+          buttons: [
+            Noty.button('Maybe later!', 'btn btn-danger', function () {
+              n.close()
+            }),
+            Noty.button('YES, Please!', 'btn btn-success float-right', function () {
+              Notification.requestPermission(function (status) {
+                console.log('Notification permission status:', status)
+              })
+              n.close()
+            })
+          ]
+        }).show()
+      }
 </script>
+<!--span data-toggle=snackbar data-content="This is my awesome snackbar!">Click me</span-->
 </body>
 
 </html>
