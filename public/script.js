@@ -94,7 +94,7 @@ function initMap(allPlaces) {
     var iconBase = 'img/map/';
     var smallestWindowSize = $(window).width() <= $(window).height() ? $(window).width() : $(window).height();
 
-    /*if (isBrowserMobile()) {*/
+    if (isBrowserMobile()) {
         if (smallestWindowSize < 320)
             iconBase += 'drawable-mdpi/';
         else if (smallestWindowSize < 480)
@@ -105,9 +105,9 @@ function initMap(allPlaces) {
             iconBase += 'drawable-xxhdpi/';
         else
             iconBase += 'drawable-xxxhdpi/';
-    /*} else {
-        iconBase += 'desktop/';
-    }*/
+    } else {
+        iconBase += 'drawable-mdpi/';
+    }
 
     var icons = {
         'bar': {
