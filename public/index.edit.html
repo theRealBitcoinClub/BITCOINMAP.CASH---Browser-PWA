@@ -61,17 +61,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="bootstrap4.1.1.min.css">
-
+  <link rel="stylesheet" href="snackbar.min.css">
+  <script src="snackbar.min.js"></script>
   <script src="jquery-3.3.1.min.js"></script>
   <!--script src="taffy-min.js"></script-->
 
   <script type="text/javascript">
-        var ua = navigator.userAgent.toLowerCase();
-          var isAndroid = ua.indexOf("android") > -1;
-          if(isAndroid) {
-            alert('Open the menu on the top right to install our Android Apps!')
-          }
-    </script>
+    var ua = navigator.userAgent.toLowerCase();
+    var isAndroid = ua.indexOf("android") > -1;
+    if(isAndroid) {
+        alert('x');
+        var options =  {
+            content: "Android App: <a href='http://bitcoinmap.cash' target='_blank'>DOWNLOAD<a/>", // text of the snackbar
+            style: "toast", // add a custom class to your snackbar
+            timeout: 0, // time in milliseconds after the snackbar autohides, 0 is disabled
+            htmlAllowed: true, // allows HTML as content value
+            onClose: function(){ } // callback called when the snackbar gets closed.
+        }
+
+        $.snackbar(options);
+    }
+  </script>
   <script src="markerclusterer.min.js"></script>
   <script src="script.js"></script>
 
