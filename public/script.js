@@ -86,7 +86,12 @@ function initMap(allPlaces) {
             zoom: 2,
             center: new google
                 .maps
-                .LatLng(41.4027984, 2.1600427)
+                .LatLng(41.4027984, 2.1600427),
+                zoomControl: false,
+                streetViewControl: false,
+                zoomControlOptions: {
+                    position: google.maps.ControlPosition.RIGHT_CENTER
+                 },
         });
 
     var allmarker = [];
