@@ -64,20 +64,18 @@ function animateMapZoomTo(map, targetZoom) {
 }
 
 function showCurrentLocation(position) {
-    var latitude = position.coords.latitude;
-    var longitude = position.coords.longitude;
-    var coords = new google
+    var latLng = new google
         .maps
-        .LatLng(latitude, longitude);
+        .LatLng(position.coords.latitude, position.coords.longitude);
 
     var ownPositionMarker = new google
         .maps
-        .Marker({position: coords, map: map, animation: google.maps.Animation.BOUNCE, zIndex: 99999999});
-    setTimeout(function () {
+        .Marker({position: latLng, map: map, animation: google.maps.Animation.BOUNCE, zIndex: 99999999});
+    /*setTimeout(function () {
         ownPositionMarker.setMap(null);
-    }, 5000);
-    
-    map.panTo(coords);
+    }, 5000);*/
+
+    map.panTo(latLng);
     animateMapZoomTo(map, 10);
 }
 
