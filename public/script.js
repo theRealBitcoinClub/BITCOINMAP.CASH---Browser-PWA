@@ -76,8 +76,8 @@ function showCurrentLocation(position) {
     setTimeout(function () {
         ownPositionMarker.setMap(null);
     }, 5000);
-
-    map.panTo(position.coords);
+    
+    map.panTo(coords);
     animateMapZoomTo(map, 10);
 }
 
