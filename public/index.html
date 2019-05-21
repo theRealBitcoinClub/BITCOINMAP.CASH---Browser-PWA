@@ -172,27 +172,44 @@
 </script>
 <!--script src="snackbar.min.js"></script-->
 <script type="text/javascript">
+    function openInNewTab(url) {
+      var win = window.open(url, '_blank');
+      win.focus();
+    }
 
-      if (Notification.permission !== 'granted') {
-        const n = new Noty({
+    var targetURI;
+    if (navigator.userAgent.indexOf("Safari") != -1 && navigator.userAgent.indexOf('Mobile') != -1) {
+        targetURI = "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector";
+    } else {
+        targetURI = "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap";
+    }
+
+    const n = new Noty({
           theme: 'sunset',
           killer: true,
-          text: 'Would you like to receive <b>notifications</b> as soon as more places are available?',
+          text: '<b>Try our Android Apps for a smoother experience!</b>',
           buttons: [
-            Noty.button('Maybe later!', 'btn btn-danger', function () {
-              n.close()
+            Noty.button('CANCEL', 'btn btn-danger', function () {
+              n.close();
             }),
-            Noty.button('YES, Please!', 'btn btn-success float-right', function () {
-              Notification.requestPermission(function (status) {
-                console.log('Notification permission status:', status)
-              })
-              n.close()
+            Noty.button('DOWNLOAD APP', 'btn btn-success float-right', function () {
+              openInNewTab(targetURI);
+              n.close();
             })
           ]
-        }).show()
-      }
+        }).show();
+
 </script>
 <!--span data-toggle=snackbar data-content="This is my awesome snackbar!">Click me</span-->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "c51d4127-3b6d-46bc-a4fc-3850d7645f31",
+    });
+  });
+</script>
 </body>
 
 </html>
