@@ -36,15 +36,15 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    { url: 'places8.json', revision: '383677' },
-    { url: 'jquery-3.3.1.min.js', revision: '383677' },
-    { url: 'taffy-min.js', revision: '383677' },
-    { url: 'markerclusterer.min.js', revision: '383677' },
-    { url: 'script.min.js', revision: '383677' },
-    { url: 'maptilerlayer.js', revision: '383677' },
-    { url: 'popper1.14.3.min.js', revision: '383677' },
-    { url: 'bootstrap4.1.1.min.js', revision: '383677' },
-    { url: 'bootstrap4.1.1.min.css', revision: '383677' },
-    { url: 'styles.css', revision: '383677' },
-    { url: '/index.html', revision: '383677' },
+    { url: 'places8.json', revision: '383680' },
+    { url: 'jquery-3.3.1.min.js', revision: '383680' },
+    { url: 'taffy-min.js', revision: '383680' },
+    { url: 'markerclusterer.min.js', revision: '383680' },
+    { url: 'script.min.js', revision: '383680' },
+    { url: 'maptilerlayer.js', revision: '383680' },
+    { url: 'popper1.14.3.min.js', revision: '383680' },
+    { url: 'bootstrap4.1.1.min.js', revision: '383680' },
+    { url: 'bootstrap4.1.1.min.css', revision: '383680' },
+    { url: 'styles.min.css', revision: '383680' },
+    { url: '/index.html', revision: '383680' },
 ]);
