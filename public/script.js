@@ -70,7 +70,7 @@ function showCurrentLocation(position) {
 
     var ownPositionMarker = new google
         .maps
-        .Marker({position: latLng, map: map, animation: google.maps.Animation.BOUNCE, zIndex: 99999999});
+        .Marker({position: latLng, map: map, animation: google.maps.Animation.BOUNCE, zIndex: 1});
     /*setTimeout(function () {
         ownPositionMarker.setMap(null);
     }, 5000);*/
