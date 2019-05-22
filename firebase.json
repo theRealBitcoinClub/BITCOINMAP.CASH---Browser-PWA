@@ -19,8 +19,12 @@
     ],
     "headers": [
       {
-        "source": "A1_sw.js",
+        "source": "A2_sw.js",
         "headers": [
+          {
+            "key": "Last-Modified",
+            "value": "Sun, 21 May 2019 08:49:37 GMT"
+          },
           {
             "key": "Cache-Control",
             "value": "max-age=0"
@@ -30,6 +34,10 @@
       {
         "source": "A2_index.html",
         "headers": [
+          {
+            "key": "Last-Modified",
+            "value": "Sun, 21 May 2019 08:49:37 GMT"
+          },
           {
             "key": "Cache-Control",
             "value": "max-age=0"
