@@ -111,7 +111,7 @@ function initMap(allPlaces) {
         else
             iconBase += 'drawable-xxxhdpi/';
     } else {
-        iconBase += 'drawable-mdpi/';
+        iconBase += 'drawable-hdpi/';
     }
 
     var icons = {
