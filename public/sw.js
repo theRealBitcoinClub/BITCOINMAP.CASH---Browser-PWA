@@ -26,7 +26,6 @@ workbox.routing.registerRoute(
     cacheName: 'image-cache',
     plugins: [
       new workbox.expiration.Plugin({
-        // Cache only 20 images
         maxEntries: 100,
         // Cache for a maximum of a month
         maxAgeSeconds: 30 * 24 * 60 * 60,
@@ -36,15 +35,16 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    { url: 'places8.json', revision: '383680' },
-    { url: 'jquery-3.3.1.min.js', revision: '383680' },
-    { url: 'taffy-min.js', revision: '383680' },
-    { url: 'markerclusterer.min.js', revision: '383680' },
-    { url: 'script.min.js', revision: '383680' },
-    { url: 'maptilerlayer.js', revision: '383680' },
-    { url: 'popper1.14.3.min.js', revision: '383680' },
-    { url: 'bootstrap4.1.1.min.js', revision: '383680' },
-    { url: 'bootstrap4.1.1.min.css', revision: '383680' },
-    { url: 'styles.min.css', revision: '383680' },
-    { url: '/index.html', revision: '383680' },
+    { url: 'A1_places8.json', revision: '383680' },
+    { url: 'A1_jquery-3.3.1.min.js', revision: '383680' },
+    { url: 'A1_markerclusterer.min.js', revision: '383680' },
+    { url: 'A1_script.min.js', revision: '383680' },
+    { url: 'A1_maptilerlayer.js', revision: '383680' },
+    { url: 'A1_popper1.14.3.min.js', revision: '383680' },
+    { url: 'A1_noty.min.js', revision: '383680' },
+    { url: 'A1_noty.min.css', revision: '383680' },
+    { url: 'A1_bootstrap4.1.1.min.js', revision: '383680' },
+    { url: 'A1_bootstrap4.1.1.min.css', revision: '383680' },
+    { url: 'A1_styles.min.css', revision: '383680' },
+    { url: 'index.html', revision: '383680' },
 ]);
