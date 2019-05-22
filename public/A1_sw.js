@@ -46,5 +46,5 @@ workbox.precaching.precacheAndRoute([
     { url: 'A1_bootstrap4.1.1.min.js', revision: '383680' },
     { url: 'A1_bootstrap4.1.1.min.css', revision: '383680' },
     { url: 'A1_styles.min.css', revision: '383680' },
-    { url: 'index.html', revision: '383680' },
+    { url: 'A1_index.html', revision: '383680' },
 ]);

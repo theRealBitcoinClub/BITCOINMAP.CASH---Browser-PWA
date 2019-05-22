@@ -9,21 +9,12 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "destination": "/A1_index.html"
       }
     ],
     "headers": [
       {
-        "source": "sw.js",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "max-age=0"
-          }
-        ]
-      },
-      {
-        "source": "index.html",
+        "source": "A1_sw.js",
         "headers": [
           {
             "key": "Cache-Control",
