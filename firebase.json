@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "A2_public",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -9,12 +9,21 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/A1_index.html"
+        "destination": "/A2_index.html"
       }
     ],
     "headers": [
       {
         "source": "A1_sw.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=0"
+          }
+        ]
+      },
+      {
+        "source": "A2_index.html",
         "headers": [
           {
             "key": "Cache-Control",

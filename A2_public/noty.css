@@ -2,7 +2,7 @@
   position: fixed;
   margin: 0;
   padding: 0;
-  z-index: 9999999;
+  z-index: 2147483641;
   -webkit-transform: translateZ(0) scale(1, 1);
           transform: translateZ(0) scale(1, 1);
   -webkit-backface-visibility: hidden;
