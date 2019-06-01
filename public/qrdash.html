@@ -1,0 +1,23 @@
+<html lang="EN">
+<head><title>BMAP.CASH - QR Code Generator DASH</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body style="text-align:center;">
+<img src="dash_logo5754x1686.jpg" style="width:500px;padding-right:0px;padding-bottom:20px;padding-top:50px;">
+<h3 style="font-family: 'Roboto', sans-serif;font-weight:500;text-align:center;">🍕 Restaurants 🍔 Bars ⭐⭐ BMAP.CASH ⭐⭐ Supermarket 🍹 Hotel 🍺</h3>
+<div id="content"></div>
+<script type="text/javascript">
+function gup( name, url ) {
+    if (!url) url = location.href;
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( url );
+    return results == null ? null : results[1];
+}
+var inner = "<img alt=\"qr-code-dash\" width=\"500\" height=\"500\" src=\"https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=" + gup('adr') + "\"/>";
+document.getElementById("content").innerHTML=inner;
+</script>
+</body>
+
+</html>
