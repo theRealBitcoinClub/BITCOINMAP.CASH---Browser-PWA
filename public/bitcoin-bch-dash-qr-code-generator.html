@@ -113,7 +113,7 @@ if (!hasParam('bch') && !hasParam('dash')) {
                 }
             }
         }
-        pdfMake.createPdf(dd).download();
+        pdfMake.createPdf(dd).download('qrcodes-bch-dash.pdf');
     } else if (hasParam('dash')) {
         document.getElementById("containerBCH").style.display = "none";
         document.getElementById("containerDASH").style = "text-align: center;";
@@ -155,7 +155,7 @@ if (!hasParam('bch') && !hasParam('dash')) {
                 }
             }
         }
-        pdfMake.createPdf(dd).download();
+        pdfMake.createPdf(dd).download('qrcode-dash.pdf');
     } else if (hasParam('bch')) {
         document.getElementById("containerDASH").style.display = "none";
         document.getElementById("containerBCH").style = "text-align: center;";
@@ -197,7 +197,7 @@ if (!hasParam('bch') && !hasParam('dash')) {
                 }
             }
         }
-        pdfMake.createPdf(dd).download();
+        pdfMake.createPdf(dd).download('qrcode-bch.pdf');
     }
 }
 </script>
