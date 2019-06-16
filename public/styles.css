@@ -3,54 +3,44 @@ html {
     height: 100%;
     width: 100%;
 }
-
 #map {
     height: 100%;
     width: 100%;
 }
-
 body {
     position: fixed;
     overflow-y: scroll;
     color: #1D1F20;
     font-family: "Roboto", sans-serif;
 }
-
 .noty_bar {
     background: #000000bb;
     border-radius: 10px;
     padding: 15px;
     color: #FFFFFF;
 }
-
 .noty_body {
     margin-bottom: 10px;
 }
-
 .searchbar {
     width: 300px;
 }
-
 .primaryColor {
     background-color: #36a69e;
     color: #ffffff;
 }
-
 .primaryDarkColor {
     background-color: #339c9a;
     color: #ffffff;
 }
-
 .colorAccent {
     background-color: #3bb8af;
     color: #ffffff;
 }
-
 a {
     text-decoration: none;
     color: #ffffff;
 }
-
 #overlay-content {
     background-color: #339c9a;
     color: #ffffff;
@@ -72,7 +62,6 @@ a {
     left: 2%;
     width: 96%;
 }
-
 .backButton,
 .closeButton {
     width: 15%;
@@ -82,24 +71,20 @@ a {
     display: inline-block;
     vertical-align: middle;
 }
-
 .closeButton {
     float: right;
     display: inline-block;
     vertical-align: middle;
 }
-
 .tags {
     white-space: nowrap;
 }
-
 .titleActionbar {
     width: 70%;
     white-space: nowrap;
     font-size: 28px;
     padding-top: 2px;
 }
-
 h2 {
     font-size: 25px;
     padding-top: 10px;
@@ -115,24 +100,20 @@ h4 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
 .discount {
     color: #ffff00;
     font-weight: bold;
     margin-top: 0;
     padding-top: 0;
 }
-
 .batschLeft,
 .batschRight {
     height: auto;
     width: 45%;
 }
-
 .batschLeft {
     margin-right: 1%;
 }
-
 .batschRight {
     margin-left: 1%;
 }
@@ -158,10 +139,14 @@ h4 {
         padding-top: 10px;
         padding-bottom: 12px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 6px;
+    }
+    .backgroundfallback {
+        background-size: contain;
+        width: 320px;
+        height: 240px;
     }
 }
 @media only screen and (min-width: 380px) {
@@ -189,12 +174,15 @@ h4 {
         padding-top: 10px;
         padding-bottom: 12px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 6px;
     }
-
+    .backgroundfallback {
+        background-size: contain;
+        width: 380px;
+        height: 285px;
+    }
 }
 @media only screen and (min-width: 440px) {
     #overlay-content {
@@ -221,12 +209,15 @@ h4 {
         padding-top: 10px;
         padding-bottom: 12px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 7px;
     }
-
+    .backgroundfallback {
+        background-size: contain;
+        width: 440px;
+        height: 330px;
+    }
 }
 @media only screen and (min-width: 525px) {
     #overlay-content {
@@ -253,15 +244,17 @@ h4 {
         padding-top: 10px;
         padding-bottom: 12px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 8px;
     }
-
+    .backgroundfallback {
+        background-size: contain;
+        width: 520px;
+        height: 390px;
+    }
 }
 @media only screen and (min-width: 610px) {
-
     #overlay-content {
         border-radius: 14px;
     }
@@ -286,10 +279,14 @@ h4 {
         padding-top: 10px;
         padding-bottom: 16px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 9px;
+    }
+    .backgroundfallback {
+        background-size: contain;
+        width: 600px;
+        height: 450px;
     }
 }
 @media only screen and (min-width: 710px) {
@@ -317,19 +314,20 @@ h4 {
         padding-top: 10px;
         padding-bottom: 16px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 10px;
     }
-
+    .backgroundfallback {
+        background-size: contain;
+        width: 640px;
+        height: 480px;
+    }
 }
 @media only screen and (min-width: 810px) {
-
     #overlay-content {
         border-radius: 17px;
     }
-
     .titleActionbar {
         font-size: 46px;
         padding-top: 9px;
@@ -346,15 +344,12 @@ h4 {
         padding-top: 10px;
         padding-bottom: 16px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 12px;
     }
-
 }
 @media only screen and (min-width: 992px) {
-
     #overlay-content {
         border-radius: 20px;
     }
@@ -373,7 +368,6 @@ h4 {
         padding-top: 10px;
         padding-bottom: 20px;
     }
-
     .batschLeft,
     .batschRight {
         margin-bottom: 15px;
@@ -383,17 +377,14 @@ h4 {
     .searchbar {
         width: 70%;
     }
-
     .batschLeft,
     .batschRight {
         height: auto;
         width: 47%;
     }
-
     .batschLeft {
         margin-right: 1%;
     }
-
     .batschRight {
         margin-left: 1%;
     }
@@ -436,17 +427,23 @@ h4 {
         width: 650px;
     }
     .pictureanimation {
+        background-size: contain;
         width: 640px;
+        height: 480px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 830px) {
     .pictureanimation {
+        background-size: contain;
         width: 600px;
+        height: 450px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 780px) {
     .pictureanimation {
+        background-size: contain;
         width: 560px;
+        height: 420px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 735px) {
@@ -454,7 +451,9 @@ h4 {
         width: 590px;
     }
     .pictureanimation {
+        background-size: contain;
         width: 400px;
+        height: 300px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 620px) {
@@ -462,19 +461,21 @@ h4 {
         width: 520px;
     }
     .pictureanimation {
+        background-size: contain;
         width: 320px;
+        height: 240px;
     }
 }
 @media all and (orientation: landscape) and (min-height: 880px) {
-
     .overlay div {
         width: 750px;
     }
     .pictureanimation {
+        background-size: contain;
         width: 640px;
+        height: 480px;
     }
 }
-
 .overlay-data {
     opacity: 0;
     visibility: hidden;
@@ -489,7 +490,6 @@ h4 {
     -webkit-transition: opacity 0.5s;
     transition: opacity 0.5s;
 }
-
 .actionbar {
     margin: 0;
     padding: 0;
