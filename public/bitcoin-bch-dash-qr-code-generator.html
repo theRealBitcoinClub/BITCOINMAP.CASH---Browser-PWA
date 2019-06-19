@@ -15,20 +15,20 @@
 <body style="text-align:center;">
 <div><p><button type="button" style="background-color:darkcyan;color:white;font-size : 50px; width: 100%; height: 100px;" onClick="downloadPDF();">DOWNLOAD QR-CODES -> PAY LATER</button></p>
     <p>There is a PDF document being downloaded containing your QR-Codes! It is encrypted by a password, which is "bmap.cash".</p></div>
-<div id="containerBCH" style="text-align:center;width:49%;float: left !important;margin-top:85px;">
-    <img src="bch-logo800x101.png" style="width:500px;padding-right:0px;padding-bottom:20px;padding-top:50px;">
+<div id="containerBCH" style="text-align:center;width:49%;float: left !important;margin-top:65px;">
+    <img src="bch-logo800x101.png" style="width:400px;padding-right:0px;padding-bottom:0px;padding-top:0px;">
     <h3 style="font-family: 'Roboto', sans-serif;font-weight:500;text-align:center;"><a href="http://bmap.cash">🍕 Restaurant 🍔 Bar ⭐⭐ BMAP.CASH ⭐⭐ Supermarket 🍹 Hotel 🍺</a></h3>
-    <div id="explorerLinkBCH" style="margin-bottom:20px;"></div>
+    <div id="walletLinkBCH" style="margin-left: auto;margin-right: auto;width:80%;margin-bottom:20px;background-color: darkcyan;color: white;padding: 20px;border-radius: 10px;font-weight: bold;font-size: 50px;"></div>
     <div id="contentBCH"></div>
-    <div id="walletLinkBCH" style="margin-bottom:20px;background-color: darkcyan;color: white;padding: 20px;border-radius: 5px;font-weight: bold;font-size: 50px;"></div>
+    <button type="button" style="border-radius:10px;background-color:darkcyan;color:white;font-size : 50px; width: 80%; height: 100px;margin-bottom:20px;" id="explorerLinkBCH"></button>
     <p><b id="adrOutBCH" style="font-size: small;"></b></p>
 </div>
 <div id="containerDASH" style="text-align:center;width:49%;float: right !important;">
-    <img src="dash_logo863x253.png" style="width:500px;padding-right:0px;padding-bottom:20px;padding-top:50px;">
+    <img src="dash_logo863x253.png" style="width:400px;padding-right:0px;padding-bottom:0px;padding-top:0px;">
     <h3 style="font-family: 'Roboto', sans-serif;font-weight:500;text-align:center;"><a href="http://bitcoinmap.cash">🍕 Restaurant 🍔 Bar ⭐⭐ BMAP.CASH ⭐⭐ Supermarket 🍹 Hotel 🍺</a></h3>
-    <div id="explorerLinkDASH" style="margin-bottom:20px;"></div>
+    <div id="walletLinkDASH" style="margin-left: auto;margin-right: auto;width: 80%;margin-bottom:20px;background-color: darkcyan;color: white;padding: 20px;border-radius: 10px;font-weight: bold;font-size: 50px;"></div>
     <div id="contentDASH"></div>
-    <div id="walletLinkDASH" style="margin-bottom:20px;background-color: darkcyan;color: white;padding: 20px;border-radius: 5px;font-weight: bold;font-size: 50px;"></div>
+    <button type="button" style="border-radius:10px;background-color:darkcyan;color:white;font-size : 50px; width: 80%; height: 100px;margin-bottom:20px;" id="explorerLinkDASH"></button>
     <p><b id="adrOutDASH" style="font-size: small;"></b></p>
 </div>
 <script type="text/javascript">
@@ -45,20 +45,20 @@ if (!hasParam('bch') && !hasParam('dash')) {
         if (bchaddr.isValidAddress(adrParamBCH) && bchaddr.isCashAddress(adrParamBCH)) {
             adrParamBCH = bchaddr.toLegacyAddress(adrParamBCH)
         }
-        document.getElementById("walletLinkBCH").innerHTML="<a style='color:white;font-family: sans;' href='bitcoincash:" + adrParamBCH + "' target='_blank'>PAY BCH NOW</a>";
+        document.getElementById("walletLinkBCH").innerHTML="<a style='text-decoration:underline;color:white;font-family: sans;' href='bitcoincash:" + adrParamBCH + "' target='_blank'>PAY BCH NOW</a>";
         document.getElementById("adrOutBCH").innerHTML = adrParamBCH;
         var innerBCH = "<img alt=\"qr-code-bch\" width=\"500\" height=\"500\" src=\"https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=" + adrParamBCH + "\"/>";
         document.getElementById("contentBCH").innerHTML = innerBCH;
         var explorerLinkBCH = 'https://explorer.bitcoin.com/bch/address/' + adrParamBCH;
-        document.getElementById("explorerLinkBCH").innerHTML = "<a href='" + explorerLinkBCH + "' target='_blank'>-&gt; Click here for a list of all transactions &lt;-</a>";
+        document.getElementById("explorerLinkBCH").innerHTML = "<a style='color:white;font-family: sans;' href='" + explorerLinkBCH + "' target='_blank'>bch tx history</a>";
         
         adrParamDASH = gup('dash').indexOf(':') != -1 ? gup('dash').split(':')[1] : gup('dash');
-        document.getElementById("walletLinkDASH").innerHTML="<a style='color:white;font-family: sans;' href='dash:" + adrParamDASH + "' target='_blank'>PAY DASH NOW</a>";
+        document.getElementById("walletLinkDASH").innerHTML="<a style='text-decoration:underline;color:white;font-family: sans;' href='dash:" + adrParamDASH + "' target='_blank'>PAY DASH NOW</a>";
         document.getElementById("adrOutDASH").innerHTML = adrParamDASH;
         var innerDASH = "<img alt=\"qr-code-dash\" width=\"500\" height=\"500\" src=\"https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=" + adrParamDASH + "\"/>";
         document.getElementById("contentDASH").innerHTML = innerDASH;
         var explorerLinkDASH = 'https://chainz.cryptoid.info/dash/search.dws?q=' + adrParamDASH;
-        document.getElementById("explorerLinkDASH").innerHTML = "<a href='" + explorerLinkDASH + "' target='_blank'>-&gt; Click here for a list of all transactions &lt;-</a>";
+        document.getElementById("explorerLinkDASH").innerHTML = "<a style='color:white;font-family: sans;' href='" + explorerLinkDASH + "' target='_blank'>dash tx history</a>";
         var dd = {
             pageSize: 'A4',
             pageOrientation: 'landscape',
@@ -148,7 +148,7 @@ if (!hasParam('bch') && !hasParam('dash')) {
         var innerDASH = "<img alt=\"qr-code-dash\" width=\"500\" height=\"500\" src=\"https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=" + adrParamDASH + "\"/>";
         document.getElementById("contentDASH").innerHTML = innerDASH;
         var explorerLinkDASH = 'https://chainz.cryptoid.info/dash/search.dws?q=' + adrParamDASH;
-        document.getElementById("explorerLinkDASH").innerHTML = "<a href='" + explorerLinkDASH + "' target='_blank'>-&gt; Click here for a list of all transactions &lt;-</a>";
+        document.getElementById("explorerLinkDASH").innerHTML = "<a style='color:white;font-family: sans;' href='" + explorerLinkDASH + "' target='_blank'>dash tx history</a>";
         var dd = {
             pageSize: 'A4',
             pageOrientation: 'landscape',
@@ -211,7 +211,7 @@ if (!hasParam('bch') && !hasParam('dash')) {
         var innerBCH = "<img alt=\"qr-code-bch\" width=\"500\" height=\"500\" src=\"https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=" + adrParamBCH + "\"/>";
         document.getElementById("contentBCH").innerHTML = innerBCH;
         var explorerLinkBCH = 'https://explorer.bitcoin.com/bch/address/' + adrParamBCH;
-        document.getElementById("explorerLinkBCH").innerHTML = "<a href='" + explorerLinkBCH + "' target='_blank'>-&gt; Click here for a list of all transactions &lt;-</a>";
+        document.getElementById("explorerLinkBCH").innerHTML = "<a style='color:white;font-family: sans;' href='" + explorerLinkBCH + "' target='_blank'>bch tx history</a>";
         
         var dd = {
             pageSize: 'A4',

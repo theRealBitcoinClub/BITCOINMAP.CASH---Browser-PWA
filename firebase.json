@@ -44,6 +44,15 @@
           }
         ]
       }
-    ]
+    ],
+    "redirects": [ {
+      "source": "/trbc",
+      "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqp0kpntfxygx3e6d4mr9c5ef5ucxdcjk5zkgtevss&dash=XiHdw8SVoNtJqno6GnxKQS2Snxh7BTuR39",
+      "type": 301
+    }, {
+      "source": "/cafelemans",
+      "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqflpcrguu8wnud3yhy302jt9a4hht822gvzuuu374&dash=XkXE3JJCvNZqc6zXg664MNyYxRpPB4suZG",
+      "type": 301
+    } ]
   }
 }
