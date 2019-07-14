@@ -14,44 +14,4 @@
             <lastmod>2018-10-26T20:16:05+00:00</lastmod>
             <priority>0.80</priority>
             </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=restaurant</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=super</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=food</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=bar</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=hotel</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?category=shop</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?theme=light</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
-            <url>
-            <loc>https://bitcoinmap.cash/?theme=dark</loc>
-            <lastmod>2018-10-26T20:16:05+00:00</lastmod>
-            <priority>0.64</priority>
-            </url>
 </urlset>
