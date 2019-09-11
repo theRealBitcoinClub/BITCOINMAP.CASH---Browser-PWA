@@ -61,6 +61,10 @@
       "source": "/submit",
       "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdOZO7kOgq6_PTTiuKWlVaNSjRH0TmL7KHC1RMunad0qFe3ag/viewform",
       "type": 301
+    }, {
+      "source": "/enviar",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdoF9GuW10T1VwD89kNYAK6EVOlqRCuDaIJB4RO34QvnzYsog/viewform",
+      "type": 301
     } ]
   }
 }
