@@ -73,6 +73,18 @@
       "source": "/04123335448",
       "destination": "/bitcoin-bch-dash-qr-code-generator?dash=Xuj4jhHyyBen5UsBh3Py41GzMWsVhkhK5S",
       "type": 301
+    }, {
+      "source": "/localbitcoinmap",
+      "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
+      "type": 301
+    }, {
+      "source": "/android",
+      "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
+      "type": 301
+    }, {
+      "source": "/coinector",
+      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector",
+      "type": 301
     } ]
   }
 }
