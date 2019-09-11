@@ -65,6 +65,14 @@
       "source": "/enviar",
       "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdoF9GuW10T1VwD89kNYAK6EVOlqRCuDaIJB4RO34QvnzYsog/viewform",
       "type": 301
+    }, {
+      "source": "/04242190606",
+      "destination": "/bitcoin-bch-dash-qr-code-generator?dash=XyjVDbwhSD5nWrjwNHWG8Aj2qFaCfZQnoo",
+      "type": 301
+    }, {
+      "source": "/04123335448",
+      "destination": "/bitcoin-bch-dash-qr-code-generator?dash=Xuj4jhHyyBen5UsBh3Py41GzMWsVhkhK5S",
+      "type": 301
     } ]
   }
 }
