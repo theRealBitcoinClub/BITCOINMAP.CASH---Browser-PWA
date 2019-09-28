@@ -1,178 +1,177 @@
-
-    var tagText = [
-        'Spicy 🌶️',
-        'Salty 🥨',
-        'Sour 😜',
-        'Organic 🐵',
-        'Vegetarian 🥕',
-        'Vegan 🐮',
-        'Healthy 💓',
-        'Burger 🍔',
-        'Sandwich 🥪',
-        'Muffin 🧁', //The muffin icon is invisible
-        'Brownie 🥮', //Brownie is invisible too
-        'Cake 🎂',
-        'Cookie 🍪',
-        'Arabic 🥙',
-        'Pizza 🍕',
-        'Salad 🥗',
-        'Smoothie 🥤',
-        'Fruit 🍓',
-        'IceCream 🍦',
-        'Raw 🥦',
-        'Handbag 👜',
-        'Cosmetic 💅',
-        'Tattoo ♣',
-        'Piercing 🌀',
-        'Souvenir 🎁',
-        'Hatha 🧘',
-        'Vinyasa 🧘',
-        'Massage 💆',
-        'Upcycled 🌲',
-        'Coffee ☕',
-        'NoGluten 🌽',
-        'Cocktails 🍹',
-        'Beer 🍺',
-        'Music 🎵',
-        'Chinese 🍜',
-        'Duck 🍱',
-        'Rock 🎸',
-        'LiveDJ 🎧',
-        'Terrace ☀️',
-        'Seeds 🌱',
-        'Grinder 🍌',
-        'Papers 🚬',
-        'Advice 🌴',
-        'Calzone 🥟',
-        'Falafel 🥙',
-        'MakeUp 🤡',
-        'Gifts 🎁',
-        'Tapas 🍠',
-        'Copas 🍹',
-        'Piadina 🌮',
-        'Cheese 🧀',
-        'Grains 🌾',
-        'Fashion 👗',
-        'Fair 🤗',
-        'Women 👩',
-        'Drinks 🍹',
-        'TV 📺',
-        'Retro 🦄',
-        'Feta 🐐',
-        'DASH ₿',
-        'BTC ₿',
-        'BCH ₿',
-        'ANYPAY ₿️',
-        'ETH ₿',
-        'HotDog 🌭',
-        'Fast ⏩',
-        'Kosher 🦄',
-        'Sushi 🍣',
-        'Moto 🛵',
-        'Coche 🚘',
-        'ELIPAY ₿',
-        'Chicken 🐔',
-        'Rabbit 🐰',
-        'Potato 🥔',
-        'Kumpir 🥔',
-        'Kebap 🐄',
-        'ATM 🏦',
-        'Gyros 🐖',
-        'Coconut 🥥',
-        'ToGo 📦',
-        'Meditation 🧘',
-        'Wine 🍷',
-        'Champagne 🥂',
-        'Alcohol 🍾',
-        'Booze 🥃',
-        'Pancakes 🥞', //You cant remove because we use fixed indexes, but replace with another string that is unlikely to be typed in by the user
-        'Croissant 🥐',
-        'Popcorn 🍿',
-        'SoftIce 🍦',
-        'Dango 🍡',
-        'BnB 🛏️',
-        'Haircut ✂️',
-        'Candy 🍭',
-        'Beauty 💅',
-        'Miso 🍱',
-        'Chocolate 🍫',
-        'Rice 🍚',
-        'Seafood 🦀',
-        'Hostel 🛏️',
-        'Fries 🍟',
-        'Fish 🐟', //100
-        'Chips 🍟',
-        'Italian 🇮🇹',
-        'Whiskey 🥃',
-        ' - - - ', //This is number 104 the no tag indicator, currently not used //TODO hide this field from the suggestions
-        'Bourbon 🥃', //105
-        'Liquor 🥃',
-        'Men ♂️',
-        'Pasta 🍝',
-        'Dessert 🍬', //109
-        'Starter 🥠', //110
-        'BBQ 🍗',
-        'Noodle 🍜',
-        'Korean 🥟',
-        'Market 🧺', //invisible item
-        'Bread 🥖',
-        'Bakery 🥨',
-        'Cafe ☕',
-        'Games 🎮',
-        'Snacks 🍿',
-        'Elegant 🕴️',
-        'Piano 🎹',
-        'Brunch 🍱',
-        'Nachos 🌽',
-        'Lunch 🥡',
-        'Breakfast 🥐',
-        'HappyHour 🥳', //hidden item
-        'LateNight 🌜',
-        'Mexican 🇲🇽',
-        'Burrito 🌯',
-        'Tortilla 🌮',
-        'Indonesian 🇮🇩',
-        'Sports 🏆',
-        'Pastry 🥧',
-        'Bistro 🍲',
-        'Soup 🥣',
-        'Tea 🍵',
-        'Onion',
-        'Steak 🥩',
-        'Shakes 🥤',
-        'Empanadas 🥟',
-        'Dinner 🍽️',
-        'Sweet 🍭',
-        'Fried 🍳',
-        'Omelette 🥚',
-        'Gin 🍸',
-        'Donut 🍩',
-        'Delivery 🚚',
-        'Cups ☕',
-        'Filter',
-        'Juice 🍊',
-        'Vietnamese 🇻🇳',
-        'Pie 🥮', //invisible item
-        'Unagi 🐡',
-        'Greek 🇬🇷',
-        'Japanese 🇯🇵',
-        'Tacos 🌮',
-        'Kombucha 🍵',
-        'Indian 🇮🇳',
-        'Nan 🥪',
-        'Club 🎶',
-        'Honey 🍯',
-        'Pool 🎱',
-        'Hotel 🏨',
-        'Pork 🥓',
-        'Ribs 🍖',
-        'Kava 🍵',
-        'Chai 🍵',
-        'Izzy 🍵',
-        'Matcha 🍵',
-        'Oden 🍢',
-        'Latte ☕'
-    ];
+var tagText = [
+    'Spicy 🌶️',
+    'Salty 🥨',
+    'Sour 😜',
+    'Organic 🐵',
+    'Vegetarian 🥕',
+    'Vegan 🐮',
+    'Healthy 💓',
+    'Burger 🍔',
+    'Sandwich 🥪',
+    'Muffin 🧁', //The muffin icon is invisible
+    'Brownie 🥮', //Brownie is invisible too
+    'Cake 🎂',
+    'Cookie 🍪',
+    'Arabic 🥙',
+    'Pizza 🍕',
+    'Salad 🥗',
+    'Smoothie 🥤',
+    'Fruit 🍓',
+    'IceCream 🍦',
+    'Raw 🥦',
+    'Handbag 👜',
+    'Cosmetic 💅',
+    'Tattoo ♣',
+    'Piercing 🌀',
+    'Souvenir 🎁',
+    'Hatha 🧘',
+    'Vinyasa 🧘',
+    'Massage 💆',
+    'Upcycled 🌲',
+    'Coffee ☕',
+    'NoGluten 🌽',
+    'Cocktails 🍹',
+    'Beer 🍺',
+    'Music 🎵',
+    'Chinese 🍜',
+    'Duck 🍱',
+    'Rock 🎸',
+    'LiveDJ 🎧',
+    'Terrace ☀️',
+    'Seeds 🌱',
+    'Grinder 🍌',
+    'Papers 🚬',
+    'Advice 🌴',
+    'Calzone 🥟',
+    'Falafel 🥙',
+    'MakeUp 🤡',
+    'Gifts 🎁',
+    'Tapas 🍠',
+    'Copas 🍹',
+    'Piadina 🌮',
+    'Cheese 🧀',
+    'Grains 🌾',
+    'Fashion 👗',
+    'Fair 🤗',
+    'Women 👩',
+    'Drinks 🍹',
+    'TV 📺',
+    'Retro 🦄',
+    'Feta 🐐',
+    'DASH ₿',
+    'BTC ₿',
+    'BCH ₿',
+    'ANYPAY ₿️',
+    'ETH ₿',
+    'HotDog 🌭',
+    'Fast ⏩',
+    'Kosher 🦄',
+    'Sushi 🍣',
+    'Moto 🛵',
+    'Coche 🚘',
+    'ELIPAY ₿',
+    'Chicken 🐔',
+    'Rabbit 🐰',
+    'Potato 🥔',
+    'Kumpir 🥔',
+    'Kebap 🐄',
+    'ATM 🏦',
+    'Gyros 🐖',
+    'Coconut 🥥',
+    'ToGo 📦',
+    'Meditation 🧘',
+    'Wine 🍷',
+    'Champagne 🥂',
+    'Alcohol 🍾',
+    'Booze 🥃',
+    'Pancakes 🥞', //You cant remove because we use fixed indexes, but replace with another string that is unlikely to be typed in by the user
+    'Croissant 🥐',
+    'Popcorn 🍿',
+    'SoftIce 🍦',
+    'Dango 🍡',
+    'BnB 🛏️',
+    'Haircut ✂️',
+    'Candy 🍭',
+    'Beauty 💅',
+    'Miso 🍱',
+    'Chocolate 🍫',
+    'Rice 🍚',
+    'Seafood 🦀',
+    'Hostel 🛏️',
+    'Fries 🍟',
+    'Fish 🐟', //100
+    'Chips 🍟',
+    'Italian 🇮🇹',
+    'Whiskey 🥃',
+    ' - - - ', //This is number 104 the no tag indicator, currently not used //TODO hide this field from the suggestions
+    'Bourbon 🥃', //105
+    'Liquor 🥃',
+    'Men ♂️',
+    'Pasta 🍝',
+    'Dessert 🍬', //109
+    'Starter 🥠', //110
+    'BBQ 🍗',
+    'Noodle 🍜',
+    'Korean 🥟',
+    'Market 🧺', //invisible item
+    'Bread 🥖',
+    'Bakery 🥨',
+    'Cafe ☕',
+    'Games 🎮',
+    'Snacks 🍿',
+    'Elegant 🕴️',
+    'Piano 🎹',
+    'Brunch 🍱',
+    'Nachos 🌽',
+    'Lunch 🥡',
+    'Breakfast 🥐',
+    'HappyHour 🥳', //hidden item
+    'LateNight 🌜',
+    'Mexican 🇲🇽',
+    'Burrito 🌯',
+    'Tortilla 🌮',
+    'Indonesian 🇮🇩',
+    'Sports 🏆',
+    'Pastry 🥧',
+    'Bistro 🍲',
+    'Soup 🥣',
+    'Tea 🍵',
+    'Onion',
+    'Steak 🥩',
+    'Shakes 🥤',
+    'Empanadas 🥟',
+    'Dinner 🍽️',
+    'Sweet 🍭',
+    'Fried 🍳',
+    'Omelette 🥚',
+    'Gin 🍸',
+    'Donut 🍩',
+    'Delivery 🚚',
+    'Cups ☕',
+    'Filter',
+    'Juice 🍊',
+    'Vietnamese 🇻🇳',
+    'Pie 🥮', //invisible item
+    'Unagi 🐡',
+    'Greek 🇬🇷',
+    'Japanese 🇯🇵',
+    'Tacos 🌮',
+    'Kombucha 🍵',
+    'Indian 🇮🇳',
+    'Nan 🥪',
+    'Club 🎶',
+    'Honey 🍯',
+    'Pool 🎱',
+    'Hotel 🏨',
+    'Pork 🥓',
+    'Ribs 🍖',
+    'Kava 🍵',
+    'Chai 🍵',
+    'Izzy 🍵',
+    'Matcha 🍵',
+    'Oden 🍢',
+    'Latte ☕'
+];
 
 function loadIcons() {
     var xmlhttp = new XMLHttpRequest();
@@ -332,7 +331,7 @@ function initMap(allPlaces) {
         }
     };
 
-    var delay = 1000;
+    var delay = 10;
 
 
     var indexAnimation = 0;
@@ -389,10 +388,11 @@ function initMap(allPlaces) {
         contentString += '<span class="batschCon">' + gplay + dir + '</span>';
 
         marker.addListener('click', function() {
-            document
-                .getElementById("overlay-content")
-                .innerHTML = contentString;
-            $(".overlay").addClass('overlay-open');
+            setTimeout(function() {
+                document.getElementById("overlay-content")
+                    .innerHTML = contentString;
+                $(".overlay").addClass('overlay-open');
+            }, delay);
         });
     });
 
@@ -446,7 +446,166 @@ function findGetParameter(parameterName) {
 
 styles = {
     default: null,
-    hide: [{"elementType":"geometry","stylers":[{"color":"#212121"}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"elementType":"labels.text.stroke","stylers":[{"color":"#212121"}]},{"featureType":"administrative","elementType":"geometry","stylers":[{"color":"#757575"},{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"administrative.land_parcel","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"labels.text.fill","stylers":[{"color":"#bdbdbd"}]},{"featureType":"poi","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"poi.park","stylers":[{"visibility":"on"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#181818"}]},{"featureType":"poi.park","elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"featureType":"poi.park","elementType":"labels.text.stroke","stylers":[{"color":"#1b1b1b"}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"color":"#2c2c2c"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#8a8a8a"}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#373737"}]},{"featureType":"road.highway","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#3c3c3c"}]},{"featureType":"road.highway.controlled_access","stylers":[{"visibility":"off"}]},{"featureType":"road.highway.controlled_access","elementType":"geometry","stylers":[{"color":"#4e4e4e"}]},{"featureType":"road.local","elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"featureType":"transit","stylers":[{"visibility":"on"}]},{"featureType":"transit","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"transit.station.airport","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#3d3d3d"}]}]
+    hide: [{
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#212121"
+        }]
+    }, {
+        "elementType": "labels.icon",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#757575"
+        }]
+    }, {
+        "elementType": "labels.text.stroke",
+        "stylers": [{
+            "color": "#212121"
+        }]
+    }, {
+        "featureType": "administrative",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#757575"
+        }, {
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "administrative.country",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#9e9e9e"
+        }]
+    }, {
+        "featureType": "administrative.land_parcel",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "administrative.locality",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#bdbdbd"
+        }]
+    }, {
+        "featureType": "poi",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "poi",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#757575"
+        }]
+    }, {
+        "featureType": "poi.park",
+        "stylers": [{
+            "visibility": "on"
+        }]
+    }, {
+        "featureType": "poi.park",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#181818"
+        }]
+    }, {
+        "featureType": "poi.park",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#616161"
+        }]
+    }, {
+        "featureType": "poi.park",
+        "elementType": "labels.text.stroke",
+        "stylers": [{
+            "color": "#1b1b1b"
+        }]
+    }, {
+        "featureType": "road",
+        "elementType": "geometry.fill",
+        "stylers": [{
+            "color": "#2c2c2c"
+        }]
+    }, {
+        "featureType": "road",
+        "elementType": "labels.icon",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "road",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#8a8a8a"
+        }]
+    }, {
+        "featureType": "road.arterial",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#373737"
+        }]
+    }, {
+        "featureType": "road.highway",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "road.highway",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#3c3c3c"
+        }]
+    }, {
+        "featureType": "road.highway.controlled_access",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "road.highway.controlled_access",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#4e4e4e"
+        }]
+    }, {
+        "featureType": "road.local",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#616161"
+        }]
+    }, {
+        "featureType": "transit",
+        "stylers": [{
+            "visibility": "on"
+        }]
+    }, {
+        "featureType": "transit",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#757575"
+        }]
+    }, {
+        "featureType": "transit.station.airport",
+        "stylers": [{
+            "visibility": "off"
+        }]
+    }, {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [{
+            "color": "#000000"
+        }]
+    }, {
+        "featureType": "water",
+        "elementType": "labels.text.fill",
+        "stylers": [{
+            "color": "#3d3d3d"
+        }]
+    }]
 };
 
 function supportsWebPImages() {
