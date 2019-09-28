@@ -23,7 +23,7 @@
         "headers": [
           {
             "key": "Last-Modified",
-            "value": "Mon, 2 September 2019 11:49:37 GMT"
+            "value": "Sat, 27 September 2019 00:01:37 GMT"
           },
           {
             "key": "Cache-Control",
@@ -36,7 +36,7 @@
         "headers": [
           {
             "key": "Last-Modified",
-            "value": "Sun, 21 May 2019 08:49:37 GMT"
+            "value": "Sat, 27 September 2019 00:01:37 GMT"
           },
           {
             "key": "Cache-Control",
@@ -84,6 +84,18 @@
     }, {
       "source": "/coinector",
       "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector",
+      "type": 301
+    }, {
+      "source": "/dashtext",
+      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.dashtext",
+      "type": 301
+    }, {
+      "source": "/cointext",
+      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointext",
+      "type": 301
+    }, {
+      "source": "/cointigo",
+      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointigo",
       "type": 301
     } ]
   }

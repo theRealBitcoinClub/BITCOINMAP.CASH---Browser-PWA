@@ -52,7 +52,7 @@ a {
     height: 100%;
     top: 0;
     left: 0;
-    z-index: 2147483648;
+    z-index: 2147483646;
     background: rgba(0,0,0,0.90);
 }
 .overlay div {
@@ -117,6 +117,16 @@ h4 {
 .batschRight {
     margin-left: 1%;
 }
+.backgroundfallback {
+    background-size: contain;
+    position: initial;
+    background-position: center;
+    background-image:url('bitcoincashmaplogo640x480.jpg');
+    background-repeat: no-repeat;
+}
+.pictureanimation {
+    background-size: contain;
+}
 @media only screen and (min-width: 320px) {
     .backButton,
     .closeButton {
@@ -144,7 +154,6 @@ h4 {
         margin-bottom: 6px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 320px;
         height: 240px;
     }
@@ -179,7 +188,6 @@ h4 {
         margin-bottom: 6px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 380px;
         height: 285px;
     }
@@ -214,7 +222,6 @@ h4 {
         margin-bottom: 7px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 440px;
         height: 330px;
     }
@@ -249,7 +256,6 @@ h4 {
         margin-bottom: 8px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 520px;
         height: 390px;
     }
@@ -284,7 +290,6 @@ h4 {
         margin-bottom: 9px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 600px;
         height: 450px;
     }
@@ -319,7 +324,6 @@ h4 {
         margin-bottom: 10px;
     }
     .backgroundfallback {
-        background-size: contain;
         width: 640px;
         height: 480px;
     }
@@ -427,21 +431,18 @@ h4 {
         width: 650px;
     }
     .pictureanimation {
-        background-size: contain;
         width: 640px;
         height: 480px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 830px) {
     .pictureanimation {
-        background-size: contain;
         width: 600px;
         height: 450px;
     }
 }
 @media all and (orientation: landscape) and (max-height: 780px) {
     .pictureanimation {
-        background-size: contain;
         width: 560px;
         height: 420px;
     }
@@ -451,7 +452,6 @@ h4 {
         width: 590px;
     }
     .pictureanimation {
-        background-size: contain;
         width: 400px;
         height: 300px;
     }
@@ -461,7 +461,6 @@ h4 {
         width: 520px;
     }
     .pictureanimation {
-        background-size: contain;
         width: 320px;
         height: 240px;
     }
@@ -471,7 +470,6 @@ h4 {
         width: 750px;
     }
     .pictureanimation {
-        background-size: contain;
         width: 640px;
         height: 480px;
     }
@@ -479,16 +477,16 @@ h4 {
 .overlay-data {
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: opacity 0.5s;
-    transition: opacity 0.5s;
-    visibility: 0s 0.5s;
-    transition: opacity 0.5s, visibility 0s 0.5s;
+    -webkit-transition: opacity 0.3s;
+    transition: opacity 0.3s;
+    visibility: 0s 0.3s;
+    transition: opacity 0.3s, visibility 0s 0.3s;
 }
 .overlay-open {
     opacity: 1;
     visibility: visible;
-    -webkit-transition: opacity 0.5s;
-    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.3s;
+    transition: opacity 0.3s;
 }
 .actionbar {
     margin: 0;

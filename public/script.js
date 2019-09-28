@@ -344,7 +344,8 @@ function initMap(allPlaces) {
             .Marker({
                 position: currentMerchant.position,
                 icon: icons[currentMerchant.type].icon,
-                map: map
+                map: map,
+                zIndex: 2147483647
             });
 
         allmarker.push(marker);
@@ -373,15 +374,15 @@ function initMap(allPlaces) {
         // 0.0% fee","DASH, BCH, BTC accepted here","Information from
         // discoverdash.com"];
 
-        var contentString = '<span onClick="imatsch();" class="actionbar"><img width="10%" alt="&lt;-" src="b' +
+        var contentString = '<span class="actionbar"><img onClick="imatsch();" width="10%" alt="&lt;-" src="b' +
             'ack-button.svg" class="backButton"><marquee width="75%" class="titleActionbar" b' +
-            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
+            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img onClick="imatsch();" width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
             'span>';
 
         var image_url = photo + '.' + imageType;
 
-        contentString += '<div class="pictureanimation backgroundfallback" onClick="imatsch();" width="100%" style="position: initial;background-position: center;background-image:url(\'bitcoincashmaplogo640x480.jpg\');background-repeat: no-repeat;">';
-        contentString += '<img class="pictureanimation" onClick="imatsch();" width="100%" alt="IMAGE NOT AVAILABLE!" src="' + image_url + '">';
+        contentString += '<div class="pictureanimation backgroundfallback" width="100%">';
+        contentString += '<img class="pictureanimation" width="100%" alt="IMAGE NOT AVAILABLE!" src="' + image_url + '">';
         contentString += '</div>';
         contentString += '<h2>' + type + '</h2>';
         contentString += '<h4 class="tags">' + getTagText(tags[0]) + getTagText(tags[1]) + getTagText(tags[2]) + getTagText(tags[3]) + '</h4>';
