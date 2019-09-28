@@ -374,9 +374,9 @@ function initMap(allPlaces) {
         // 0.0% fee","DASH, BCH, BTC accepted here","Information from
         // discoverdash.com"];
 
-        var contentString = '<span class="actionbar"><img onClick="imatsch();" width="10%" alt="&lt;-" src="b' +
+        var contentString = '<span class="actionbar"><img style="cursor:pointer;" onClick="imatsch();" width="10%" alt="&lt;-" src="b' +
             'ack-button.svg" class="backButton"><marquee width="75%" class="titleActionbar" b' +
-            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img onClick="imatsch();" width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
+            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img style="cursor:pointer;" onClick="imatsch();" width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
             'span>';
 
         var image_url = photo + '.' + imageType;
