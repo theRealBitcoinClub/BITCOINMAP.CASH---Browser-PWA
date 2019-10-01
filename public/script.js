@@ -373,17 +373,17 @@ function initMap(allPlaces) {
         // 0.0% fee","DASH, BCH, BTC accepted here","Information from
         // discoverdash.com"];
 
-        var contentString = '<span class="actionbar"><img style="cursor:pointer;" onClick="imatsch();" width="10%" alt="&lt;-" src="b' +
+        var contentString = '<span onClick="imatsch();" class="actionbar"><img style="cursor:pointer;" width="10%" alt="&lt;-" src="b' +
             'ack-button.svg" class="backButton"><marquee width="75%" class="titleActionbar" b' +
-            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img style="cursor:pointer;" onClick="imatsch();" width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
+            'ehavior="scroll" direction="left">' + currentMerchant.n + '</marquee><img style="cursor:pointer;" width="10%" alt="X" src="close-button.svg" class="closeButton"></' +
             'span>';
 
         var image_url = photo + '.' + imageType;
 
-        contentString += '<div class="pictureanimation backgroundfallback" width="100%">';
+        contentString += '<div onClick="imatsch();" class="pictureanimation backgroundfallback" width="100%">';
         contentString += '<img class="pictureanimation" width="100%" alt="IMAGE NOT AVAILABLE!" src="' + image_url + '">';
         contentString += '</div>';
-        contentString += '<h2>' + type + '</h2>';
+        contentString += '<h2 style="margin-top:10px;">' + type + '</h2>';
         contentString += '<h4 class="tags">' + getTagText(tags[0]) + getTagText(tags[1]) + getTagText(tags[2]) + getTagText(tags[3]) + '</h4>';
         contentString += '<span class="batschCon">' + gplay + dir + '</span>';
 
