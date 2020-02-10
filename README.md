@@ -1,4 +1,4 @@
-# bitcoinmap.cash
+# Paper QR Code Generator #BCH & #DASH
 
 [ENGLISH]
 
