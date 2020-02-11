@@ -1,3 +1,21 @@
+# COINMAP.CASH aka BITCOINMAP.CASH aka BMAP.CASH Browser Version
+
+Every six months we will update the list of merchants accepting crypto and check that the merchant still accepts bitcoins.
+
+# SUBMIT NEW PLACE
+
+FOLLOW THIS LINK TO ADD A NEW PLACE TO THE MAP: http://bmap.cash/submit
+
+# FREE PROMOTION
+
+EVERY CONFIRMED MERCHANT GETS PROMOTED ATLEAST ONCE ON OUR TWITTER/INSTAGRAM/FACEBOOK CHANNEL
+
+http://twitter.com/barriobitcoin
+
+http://instagram.com/bitcoinmap.cash
+
+http://facebook.com/realbitcoinclub
+
 # Paper QR Code Generator #BCH & #DASH
 
 [ENGLISH]
