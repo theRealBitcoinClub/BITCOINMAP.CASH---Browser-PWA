@@ -1,16 +1,18 @@
-# COINMAP.CASH aka BITCOINMAP.CASH aka BMAP.CASH Browser Version
+# BITCOINMAP Browser Version
 
 http://coinmap.cash aka http://bitcoinmap.cash aka http://bmap.cash
 
 Displays all merchants which have been submitted for the categories Restaurant, Take-Away-Food, Cafe/Bar/Club, Supermarket, Electronics/Fashion/Souvenir, Hotel/AirBnB and Spa/Sport/Wellness.
 
-# SUBMIT NEW PLACE
+# ADD NEW PLACE
 
-FOLLOW THIS LINK TO ADD A NEW PLACE TO THE MAP: http://bmap.cash/submit
+Follow this link to add a new place now: http://bmap.cash/submit
+
+If you submit your BCH or DASH address you can earn donations from our followers.
 
 # FREE PROMOTION
 
-EVERY CONFIRMED MERCHANT GETS PROMOTED ATLEAST ONCE ON OUR TWITTER/INSTAGRAM/FACEBOOK CHANNEL
+Every confirmed merchant gets promoted atleast once on our Social Media channels.
 
 http://twitter.com/barriobitcoin
 
