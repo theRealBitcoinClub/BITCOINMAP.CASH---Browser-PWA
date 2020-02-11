@@ -2,6 +2,8 @@
 
 Every six months we will update the list of merchants accepting crypto and check that the merchant still accepts bitcoins.
 
+http://coinmap.cash aka http://bitcoinmap.cash aka http://bmap.cash
+
 # SUBMIT NEW PLACE
 
 FOLLOW THIS LINK TO ADD A NEW PLACE TO THE MAP: http://bmap.cash/submit
