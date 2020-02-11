@@ -1,8 +1,8 @@
 # COINMAP.CASH aka BITCOINMAP.CASH aka BMAP.CASH Browser Version
 
-Every six months we will update the list of merchants accepting crypto and check that the merchant still accepts bitcoins.
-
 http://coinmap.cash aka http://bitcoinmap.cash aka http://bmap.cash
+
+Displays all merchants which have been submitted for the categories Restaurant, Take-Away-Food, Cafe/Bar/Club, Supermarket, Electronics/Fashion/Souvenir, Hotel/AirBnB and Spa/Sport/Wellness.
 
 # SUBMIT NEW PLACE
 
