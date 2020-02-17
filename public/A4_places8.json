@@ -3,7 +3,7 @@
 ,{"p":"lavermu","x":"41.4000891","y":"2.1568007","n":"La Vermu - Bar and Tapas","t":"2","c":"473","s":"4.2","d":"0","a":"31,32,33,36","l":"Carrer de Sant Domènec, Barcelona, Spain"}
 ,{"p":"ChIJayYeJpaipBIR8ZbTZO4x7dM","x":"41.4006901","y":"2.1579717","n":"Gelatology - We make Gelato great again!","t":"1","c":"109","s":"4.9","d":"1","a":"18,29,32,33","l":"Carrer de Martínez de la Rosa, Barcelona, Spain"}
 ,{"p":"atabalats","x":"41.4087684","y":"2.1605199","n":"Atabalats Gastrobar - Cerveza, Tapas y Copas","t":"0","c":"154","s":"4.4","d":"0","a":"7,29,31,32","l":"Carrer de la Providència, Barcelona, Spain"}
-,{"p":"freeAndSweet","x":"41.4151266","y":"2.1785654","n":"Free and Sweet - Pastry Obrador Dulce Saludable","t":"1","c":"17","s":"4.8","d":"0","a":"3,5,11,12","l":"Calle América, Barcelona, Spain"}
+,{"p":"freeAndSweet","x":"41.4151266","y":"2.1785654","n":"Free and - Pastry Obrador Dulce Saludable","t":"1","c":"17","s":"4.8","d":"0","a":"3,5,11,12","l":"Calle América, Barcelona, Spain"}
 ,{"p":"ChIJ89o4J5aipBIRfDm0sBYWJZQ","x":"41.4009587","y":"2.1580651","n":"La Pizza","t":"1","c":"148","s":"4.6","d":"0","a":"4,14,43,102","l":"Carrer del Penedès, Barcelona, Spain"}
 ,{"p":"candelacanela","x":"41.4021505","y":"2.156743","n":"Candela Canela - Sweet Desserts","t":"1","c":"44","s":"4.9","d":"0","a":"4,29,65,66","l":"Carrer de Ros de Olano, Barcelona, Spain"}
 ,{"p":"chatelet","x":"41.4040643","y":"2.1582468","n":"Chatelet - Cocktails and Wine","t":"2","c":"617","s":"4.0","d":"0","a":"8,29,32,56","l":"Carrer de Torrijos, Barcelona, Spain"}
@@ -16,7 +16,7 @@
 ,{"p":"kamoma","x":"41.4014862","y":"2.1568869","n":"Kamoma - Spritz Bar","t":"2","c":"41","s":"4.1","d":"0","a":"47,31,32,33","l":"Plaça del Sol, Barcelona, Spain"}
 ,{"p":"akash","x":"41.4083532","y":"2.1597298","n":"Perruqueria Akash","t":"4","c":"7","s":"4.9","d":"0","a":"91,65,107,57","l":"Carrer de la Providència, Barcelona, Spain"}
 ,{"p":"ChIJh2A7VL2ipBIRIxR3Ylnot50","x":"41.4006341","y":"2.155889","n":"Sincronia Yoga","t":"999","c":"23","s":"4.8","d":"0","a":"25,26,27,80","l":"Gracia, Carrer de Pere Serafí, Barcelona, Spain"}
-,{"p":"frankfurtlapubilla","x":"41.3927823","y":"2.1865209","n":"Frankfurt La Pubilla","t":"0","c":"135","s":"3.7","d":"0","a":"59,104,104,104","l":"Carrer de Buenaventura Muñoz, 44, 08018 Barcelona, Spain"}
+,{"p":"frankfurtlapubilla","x":"41.3927823","y":"2.1865209","n":"Frankfurt La Pubilla","t":"0","c":"135","s":"3.7","d":"0","a":"59,111,16,64","l":"Carrer de Buenaventura Muñoz, 44, 08018 Barcelona, Spain"}
 ,{"p":"polloexpress","x":"38.5419413","y":"-0.1272807","n":"Pollo Expresss","t":"0","c":"184","s":"4.5","d":"0","a":"71,72,73,65","l":"Benidorm, Spain, Europe"}
 ,{"p":"polloexpressgourmet","x":"38.5372292","y":"-0.1425705","n":"Pollo Expresss Gourmet","t":"0","c":"78","s":"4.1","d":"0","a":"71,72,67,18","l":"Benidorm, Spain, Europe"}
 ,{"p":"ecocentersupermercado","x":"36.0141","y":"-5.6053","n":"Supermercado Ecologico - Eco Center Tarifa","t":"4","c":"326","s":"4.5","d":"0","a":"3,4,17,51","l":"Calle San Sebastián, Tarifa, Spain"}
@@ -28,19 +28,19 @@
 ,{"p":"bambule2","x":"36.0122788","y":"-5.6035059","n":"Bambule Sancho - Clothing and Asseccories","t":"4","c":"14","s":"4.2","d":"0","a":"52,54,107,24","l":"Calle Sancho IV el Bravo, Tarifa, Spain"}
 ,{"p":"growcafe","x":"36.0109379","y":"-5.6053444","n":"Grow Cafe - Vegetarian","t":"2","c":"39","s":"4.8","d":"0","a":"4,29,8,11","l":"Calle Alcalde Juan Núñez, Tarifa, Spain"}
 ,{"p":"ecobakeryglutenfree","x":"36.01988","y":"-5.609871","n":"Eco Bakery - Gluten Free","t":"4","c":"37","s":"4.7","d":"0","a":"3,115,11,30","l":"Mar Adriatico, Tarifa, Spain"}
-,{"p":"metropolisvalladolid","x":"41.650662","y":"-4.7217846","n":"Metropolis Valladolid","t":"4","c":"48","s":"4.6","d":"0","a":"61,104,104,104","l":"Calle de Fray Luis de León, 19, 47002 Valladolid, Spain"}
+,{"p":"metropolisvalladolid","x":"41.650662","y":"-4.7217846","n":"Metropolis Valladolid","t":"4","c":"48","s":"4.6","d":"0","a":"61,118,24,48","l":"Calle de Fray Luis de León, 19, 47002 Valladolid, Spain"}
 ,{"p":"acompanante","x":"41.6415754","y":"-0.8893621","n":"Acompañante En BioNeuroEmoción® y Acupuntura Zaragoza","t":"999","c":"1","s":"5.0","d":"0","a":"61,104,104,104","l":"Calle Madre Genoveva Torres Morales, local 16, 50006 Zaragoza, Spain"}
-,{"p":"anastasia","x":"41.368927","y":"-8.7635631","n":"Anastacia Delicatesses","t":"0","c":"78","s":"4.4","d":"0","a":"61,104,104,104","l":"Porto de Mar, 4490-000 Póvoa de Varzim, Portugal"}
-,{"p":"lojaportugueza","x":"38.7091671","y":"-9.1352209","n":"Loja Portugueza da Baixa","t":"4","c":"8","s":"3.4","d":"0","a":"59,104,104,104","l":"R. dos Fanqueiros 32, 1100-231 Lisboa, Portugal"}
+,{"p":"anastasia","x":"41.368927","y":"-8.7635631","n":"Anastacia Delicatesses","t":"0","c":"78","s":"4.4","d":"0","a":"61,3,4,8","l":"Porto de Mar, 4490-000 Póvoa de Varzim, Portugal"}
+,{"p":"lojaportugueza","x":"38.7091671","y":"-9.1352209","n":"Loja Portugueza da Baixa","t":"4","c":"8","s":"3.4","d":"0","a":"59,21,53,94","l":"R. dos Fanqueiros 32, 1100-231 Lisboa, Portugal"}
 ,{"p":"deuxpointzero","x":"48.8685002","y":"2.3542593","n":"Deux Point Zero","t":"2","c":"241","s":"4.0","d":"0","a":"31,32,33,76","l":"Rue Blondel, Paris, France"}
 ,{"p":"llscafe","x":"51.5590909","y":"-0.1785917","n":"LLS Cafe Deli","t":"0","c":"92","s":"4.5","d":"0","a":"8,15,14,135","l":"Heath Street, London, England, UK"}
-,{"p":"bellacosa","x":"51.500603","y":"-0.012168","n":"Bella Cosa Restaurant, Canary Wharf","t":"0","c":"195","s":"4.5","d":"0","a":"59,104,104,104","l":"Drewry House 213 Marsh Wall, Isle of Dogs, London E14 9FJ, UK"}
+,{"p":"bellacosa","x":"51.500603","y":"-0.012168","n":"Bella Cosa Restaurant, Canary Wharf","t":"0","c":"195","s":"4.5","d":"0","a":"59,51,3,8","l":"Drewry House 213 Marsh Wall, Isle of Dogs, London E14 9FJ, UK"}
 ,{"p":"brewdogcanarywharf","x":"51.5044668","y":"-0.0150128","n":"BrewDog Canary Wharf","t":"2","c":"98","s":"4.4","d":"0","a":"7,32,31,33","l":"Churchill Place, London, England, UK"}
 ,{"p":"westlandcoffee","x":"51.528216","y":"-0.090584","n":"Westland Coffee & Wine","t":"2","c":"57","s":"4.6","d":"0","a":"29,8,32,81","l":"Westland Place, London, England, UK"}
 ,{"p":"nincomsoup","x":"51.52567","y":"-0.087561","n":"Nincomsoup","t":"0","c":"96","s":"4.2","d":"0","a":"135,29,119,136","l":"Nincomsoup, London, England, UK"}
-,{"p":"dreambags","x":"51.5280867","y":"-0.0778415","n":"DreamBags JaguarShoes","t":"2","c":"294","s":"4.1","d":"0","a":"61,104,104,104","l":"32-36 Kingsland Rd, London E2 8DA, UK"}
-,{"p":"dawsontattoo","x":"53.3724517","y":"-2.5814423","n":"The Dawson Tattoo Company","t":"999","c":"15","s":"5.0","d":"0","a":"61,104,104,104","l":"19A London Rd, Warrington WA4 6SG, UK"}
-,{"p":"scymoreinn","x":"53.144159","y":"-1.558522","n":"The Sycamore Inn","t":"2","c":"105","s":"4.5","d":"0","a":"61,104,104,104","l":"9 Sycamore Rd, Matlock DE4 3HZ, UK"}
+,{"p":"dreambags","x":"51.5280867","y":"-0.0778415","n":"DreamBags JaguarShoes","t":"2","c":"294","s":"4.1","d":"0","a":"61,14,16,31","l":"32-36 Kingsland Rd, London E2 8DA, UK"}
+,{"p":"dawsontattoo","x":"53.3724517","y":"-2.5814423","n":"The Dawson Tattoo Company","t":"999","c":"15","s":"5.0","d":"0","a":"61,22,23,36","l":"19A London Rd, Warrington WA4 6SG, UK"}
+,{"p":"scymoreinn","x":"53.144159","y":"-1.558522","n":"The Sycamore Inn","t":"2","c":"105","s":"4.5","d":"0","a":"61,15,138,104","l":"9 Sycamore Rd, Matlock DE4 3HZ, UK"}
 ,{"p":"harlequien","x":"53.3062959","y":"-3.7398696","n":"Harlequin Puppet Theatre","t":"999","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Cayley Promenade, Rhos on Sea, Colwyn Bay LL28 4EP, UK"}
 ,{"p":"thecoffeebean","x":"53.2737949","y":"-3.2220382","n":"Sarahs Coffee, The Coffee Bean","t":"4","c":"1","s":"5.0","d":"0","a":"29,40,148,149","l":"The Mews, Holywell, England, UK"}
 ,{"p":"thecornercafe","x":"53.3087543","y":"-3.7404846","n":"The Corner Cafe","t":"2","c":"94","s":"4.7","d":"0","a":"29,8,125,152","l":" Rhos Road, Rhos on Sea, Colwyn Bay, England, UK"}
@@ -191,7 +191,7 @@
 ,{"p":"polypopljubljana","x":"46.0540288","y":"14.5036553","n":"Polypop","t":"3","c":"7","s":"5.0","d":"0","a":"70,104,104,104","l":"Puharjeva ulica 3, 1000 Ljubljana, Slovenia"}
 ,{"p":"garderobacustomshirts","x":"46.065844","y":"14.5496041","n":"GARDEROBA - Custom T-Shirts","t":"3","c":"9","s":"4.7","d":"0","a":"70,104,104,104","l":"Šmartinska cesta 152, 1000 Ljubljana, Slovenia"}
 ,{"p":"kartjaprodoo","x":"46.0654589","y":"14.5098268","n":"Katja-Pro d.o.o., trgovsko podjetje","t":"3","c":"2","s":"5.0","d":"0","a":"70,104,104,104","l":"Dunajska cesta 56, 1000 Ljubljana, Slovenia"}
-,{"p":"frutasunderwear","x":"46.0489842","y":"14.5058362","n":"Frutas - Underwear","t":"4","c":"3","s":"5.0","d":"0","a":"70,104,104,104","l":"Cankarjevo nabrežje 25, 1000 Ljubljana, Slovenia"}
+,{"p":"sunderwear","x":"46.0489842","y":"14.5058362","n":"Frutas - Underwear","t":"4","c":"3","s":"5.0","d":"0","a":"70,104,104,104","l":"Cankarjevo nabrežje 25, 1000 Ljubljana, Slovenia"}
 ,{"p":"olabicoffee","x":"37.069148","y":"37.367908","n":"olabi coffee","t":"2","c":"228","s":"4.2","d":"0","a":"61,104,104,104","l":"İncili Pınar Mahallesi, Gazi Muhtar Paşa Blv. No:24, 27090 Şehitkamil/Gaziantep, Turkey"}
 ,{"p":"skaptobara","x":"42.699675","y":"23.32657","n":"Skaptobara","t":"0","c":"1635","s":"4.5","d":"0","a":"61,104,104,104","l":"ul. Iskar 11А, 1000 Sofia Center, Sofia, Bulgaria"}
 ,{"p":"salzkeller","x":"46.844933","y":"9.506379","n":"SalzKeller - Medical Floating Spa Chur","t":"999","c":"25","s":"5.0","d":"0","a":"61,104,104,104","l":"Triststrasse 8, 7000 Chur, Switzerland"}
@@ -316,7 +316,7 @@
 ,{"p":"bigkitchennigeria","x":"4.7631188","y":"7.0213741","n":"Big Kitchen Nigeria","t":"0","c":"43","s":"4.1","d":"0","a":"59,104,104,104","l":"Takoradi Street, Port Harcourt, Nigeria"}
 ,{"p":"newmarket","x":"7.5175268","y":"4.5124965","n":"New Market","t":"5","c":"73","s":"3.9","d":"0","a":"62,104,104,104","l":"GG96+2X Ife, Nigeria"}
 ,{"p":"zoescuisine","x":"7.5006349","y":"4.5152892","n":"Zoe's Cuisine - Restaurant","t":"0","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Ede Rd, Ife, Nigeria"}
-,{"p":"kayschippy","x":"7.5190229","y":"4.5218396","n":"Kays Chippy Ife","t":"1","c":"13","s":"3.4","d":"0","a":"62,104,104,104","l":"Obafemi Awolowo University, Road 5, Ife, Nigeria"}
+,{"p":"kayspy","x":"7.5190229","y":"4.5218396","n":"Kays Chippy Ife","t":"1","c":"13","s":"3.4","d":"0","a":"62,104,104,104","l":"Obafemi Awolowo University, Road 5, Ife, Nigeria"}
 ,{"p":"halsadamhostel","x":"7.5027423","y":"4.509311","n":"Halsadam Hostel Damico","t":"5","c":"33","s":"3.7","d":"0","a":"62,104,104,104","l":"Ede Road, Ife, Nigeria"}
 ,{"p":"mraziz","x":"8.9039687","y":"-2.2636554","n":"Mr Aziz and Co Grocery Store","t":"3","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Wa-Bole Rd, Bamahu, Ghana"}
 ,{"p":"abubakari","x":"8.6518083","y":"0.0023314","n":"Abubakari Drug Store","t":"4","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Wulensi, Ghana"}
@@ -564,7 +564,7 @@
 ,{"p":"surfranchhotelresort","x":"11.249599","y":"-85.842958","n":"Surf Ranch Hotel & Resort","t":"5","c":"251","s":"3.5","d":"0","a":"59,104,104,104","l":"San Juan del Sur, Nicaragua"}
 ,{"p":"brunpanaderia","x":"8.9764589","y":"-79.5203753","n":"Brun Panadería, Pastelería & café","t":"2","c":"26","s":"4.5","d":"0","a":"59,104,104,104","l":"Avenida Balboa Centro comercial balboa boutiques, Panamá, Panama"}
 ,{"p":"charcupollo","x":"9.310467","y":"-70.6090757","n":"Charcupollo","t":"3","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Av 8, Valera 3101, Trujillo"}
-,{"p":"tempobar","x":"9.3098586","y":"-70.6095493","n":"Tempo Bar","t":"2","c":"5","s":"3.2","d":"0","a":"59,104,104,104","l":"Valera 3101, Trujillo"}
+,{"p":"tempobar","x":"9.3098586","y":"-70.6095493","n":"Tempo Bar","t":"2","c":"5","s":"3.2","d":"0","a":"59,31,32,33","l":"Valera 3101, Trujillo"}
 ,{"p":"solnicoyano","x":"10.1414111","y":"-85.4514847","n":"Tienda y Zapatería Sol Nicoyano","t":"4","c":"4","s":"3.8","d":"0","a":"62,59,61,104","l":"150, Calle 2, Provincia de Guanacaste, Nicoya, Costa Rica"}
 ,{"p":"backyardhotel","x":"9.5750229","y":"-84.603859","n":"The Backyard Hotel","t":"5","c":"313","s":"4.3","d":"0","a":"59,104,104,104","l":"Provincia de Puntarenas, Playa de Jaco, Costa Rica"}
 ,{"p":"carolinabeecompany","x":"36.201415","y":"-78.504301","n":"The Carolina Bee Company","t":"4","c":"2","s":"5.0","d":"0","a":"59,104,104,104","l":"3630 Charlie Grissom Rd, Kittrell, NC 27544, USA"}
@@ -654,15 +654,15 @@
 ,{"p":"buddhabar","x":"10.4806044","y":"-66.8553371","n":"Rest. Buddha Bar Caracas","t":"0","c":"370","s":"4.5","d":"0","a":"59,104,104,104","l":"212 Calle Orinoco, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"wowfles","x":"10.5193129","y":"-66.9381218","n":"WOWFLES Venezuela","t":"0","c":"9","s":"3.7","d":"0","a":"59,104,104,104","l":"Calle Ruperto Lugo 1A, Caracas 1030, Capital District, Venezuela"}
 ,{"p":"paradisesushi","x":"10.481771","y":"-66.938941","n":"Paradise Sushi Lounge","t":"0","c":"83","s":"4.5","d":"0","a":"59,104,104,104","l":"1020 Av Paez, El Paraiso, Frente a la plaza Washington, Caracas 1020, Distrito Capital, Venezuela"}
-,{"p":"sweetfamily","x":"10.4916371","y":"-66.8770576","n":"Sweet Family","t":"2","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Torre Citibank, Av. Casanova, Caracas 1050, Distrito Capital, Venezuela"}
+,{"p":"sweetfamily","x":"10.4916371","y":"-66.8770576","n":"Sweet Family","t":"2","c":"0","s":"0.0","d":"0","a":"59,133,29,9","l":"Torre Citibank, Av. Casanova, Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"gourmetplanet","x":"10.4974526","y":"-66.8229002","n":"GourmetPlanet - C.C. Boleita Center","t":"0","c":"9","s":"4.8","d":"0","a":"59,104,104,104","l":"Caracas 1071, Miranda, Venezuela"}
-,{"p":"amarelocoffeeandtea","x":"10.4688787","y":"-64.1770069","n":"Amarelo Coffee&Tea - CC hipergalerias","t":"2","c":"36","s":"4.8","d":"0","a":"59,104,104,104","l":"CC hipergalerias, Avenida Humboldt, Cumaná 6101, Sucre, Venezuela"}
-,{"p":"yakitoribar","x":"10.5050811","y":"-66.8435991","n":"Yakitori Bar","t":"2","c":"36","s":"4.0","d":"0","a":"59,104,104,104","l":"Avenida Transversal 6, Caracas 1060, Distrito Capitalliquid, Venezuela"}
+,{"p":"amarelocoffeeandtea","x":"10.4688787","y":"-64.1770069","n":"Amarelo Coffee&Tea - CC hipergalerias","t":"2","c":"36","s":"4.8","d":"0","a":"59,29,136,8","l":"CC hipergalerias, Avenida Humboldt, Cumaná 6101, Sucre, Venezuela"}
+,{"p":"yakitoribar","x":"10.5050811","y":"-66.8435991","n":"Yakitori Bar","t":"2","c":"36","s":"4.0","d":"0","a":"135,67,94,96","l":"Avenida Transversal 6, Caracas 1060, Distrito Capitalliquid, Venezuela"}
 ,{"p":"yakitorivallearriba","x":"10.4672929","y":"-66.8663033","n":"Yakitori Valle Arriba","t":"0","c":"29","s":"4.4","d":"0","a":"59,104,104,104","l":"Caracas 1080, Miranda, Venezuela"}
 ,{"p":"niunadietamas","x":"10.4862815","y":"-66.8209482","n":"Ni Una Dieta Más - Dulces sin azucar","t":"1","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1071, Miranda, Venezuela"}
-,{"p":"cafemicosa","x":"10.4941485","y":"-66.8779468","n":"Coffee My Thing - Café Mi Cosa - C.C. City Market","t":"2","c":"6","s":"4.8","d":"0","a":"59,104,104,104","l":"Caracas 1050, Capital District, Venezuela"}
-,{"p":"losgolfeadosdesamuel","x":"10.4895514","y":"-66.855454","n":"Los Golfeados de Samuel","t":"2","c":"6","s":"4.8","d":"0","a":"59,104,104,104","l":"Merpoeste. Piso 2 Local 105 Nivel Los Andes, Pasillo Manatí, Calle Chico Carrasquel, Caracas 1060, Miranda"}
-,{"p":"elcafedebetto","x":"10.4652125","y":"-66.5709378","n":"El Café De Betto - C.C. Oasis Center","t":"2","c":"11","s":"3.9","d":"0","a":"59,104,104,104","l":"Centro Comercial Oasis Center, Guatire 1221, Miranda, Venezuela"}
+,{"p":"cafemicosa","x":"10.4941485","y":"-66.8779468","n":"Coffee My Thing - Café Mi Cosa - C.C. City Market","t":"2","c":"6","s":"4.8","d":"0","a":"29,109,95,133","l":"Caracas 1050, Capital District, Venezuela"}
+,{"p":"losgolfeadosdesamuel","x":"10.4895514","y":"-66.855454","n":"Los Golfeados de Samuel","t":"2","c":"6","s":"4.8","d":"0","a":"59,133,146,109","l":"Merpoeste. Piso 2 Local 105 Nivel Los Andes, Pasillo Manatí, Calle Chico Carrasquel, Caracas 1060, Miranda"}
+,{"p":"elcafedebetto","x":"10.4652125","y":"-66.5709378","n":"El Café De Betto - C.C. Oasis Center","t":"2","c":"11","s":"3.9","d":"0","a":"59,29,8,109","l":"Centro Comercial Oasis Center, Guatire 1221, Miranda, Venezuela"}
 ,{"p":"mazalgourmetmiranda","x":"10.4399388","y":"-66.8360942","n":"Mazal Gourmet - Galerias Los Naranjos","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1083, Miranda, Venezuela"}
 ,{"p":"shulios","x":"11.7074558","y":"-70.1990151","n":"Shuilios Pizzas","t":"0","c":"19","s":"4.6","d":"0","a":"59,104,104,104","l":"4102, Punto Fijo 4122, Falcón, Venezuela"}
 ,{"p":"massimogourmet","x":"10.4887749","y":"-66.8789141","n":"Massimo Gourmet","t":"0","c":"8","s":"4.0","d":"0","a":"59,104,104,104","l":"Caracas 1080, Miranda, Venezuela"}
@@ -681,13 +681,13 @@
 ,{"p":"doncarlos","x":"10.4949858","y":"-66.8784462","n":"Restaurant Don Carlos - C.C. Sabana Grande - sótano 43","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle Villaflor, Caracas 1050, Distrito Capital"}
 ,{"p":"lapaleteriaartesanal","x":"10.495231","y":"-66.832742","n":"La Paletería Artesanal - C.C. Millennium","t":"1","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Los Dos Caminos, Caracas 1070, Miranda, Venezuela"}
 ,{"p":"yayustexmexgrillmangos","x":"10.4332904","y":"-66.8837051","n":"Yayus Tex Mex Grill - C.C. Manzanares Plaza","t":"0","c":"30","s":"4.1","d":"0","a":"59,104,104,104","l":"Calle Los Mangos, Caracas 1083, Miranda, Venezuela"}
-,{"p":"chipacookie","x":"10.4338744","y":"-66.8836492","n":"Chip-a-cookie - C.C. Manzanares Plaza","t":"2","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle Los Mangos, Caracas 1080, Miranda, Venezuela"}
-,{"p":"sociedaddelcafe","x":"10.4981441","y":"-66.8430445","n":"Cafetería Sociedad del Café","t":"2","c":"172","s":"4.7","d":"0","a":"59,104,104,104","l":"Avenida Francisco de Miranda, Caracas 1060, Miranda, Venezuela"}
+,{"p":"chipacookie","x":"10.4338744","y":"-66.8836492","n":"Chip-a-cookie - C.C. Manzanares Plaza","t":"2","c":"0","s":"0.0","d":"0","a":"59,29,12,8","l":"Calle Los Mangos, Caracas 1080, Miranda, Venezuela"}
+,{"p":"sociedaddelcafe","x":"10.4981441","y":"-66.8430445","n":"Cafetería Sociedad del Café","t":"2","c":"172","s":"4.7","d":"0","a":"8,7,16,101","l":"Avenida Francisco de Miranda, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"bonappetit","x":"10.494118","y":"-66.8780864","n":"Bon Appetit - C.C. City Market nivel Feria","t":"2","c":"1","s":"2.0","d":"0","a":"59,104,104,104","l":"Calle Unión, Bulevar de Sabana Grande, Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"planetsandwich","x":"10.4974977","y":"-66.8229553","n":"Planet Sandwich","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Final Calle Imboca, Caracas, Miranda, 1071, Venezuela"}
 ,{"p":"hachebistro","x":"10.5031157","y":"-66.8312804","n":"Hache Bistro","t":"0","c":"76","s":"4.3","d":"0","a":"59,104,104,104","l":"Dentro de Centro Cultural Los Galpones, Transversal 8, Avenida Sucre, Caracas 1071, Miranda, Venezuela"}
 ,{"p":"churchchickenlacascada","x":"10.3551461","y":"-67.0024613","n":"Church's Chicken","t":"0","c":"11","s":"3.5","d":"0","a":"59,104,104,104","l":"Centro Comercial Ciudad La Cascada, Nivel Feria, Local Local: N2-13, Carretera Panamericana, Municipio Carrizal, Miranda, Venezuela"}
-,{"p":"fortalezayvida","x":"10.5037123","y":"-66.9529092","n":"Cafetin fortaleza y vida - C.C. Propatria","t":"2","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1030, Distrito Capital, Venezuela"}
+,{"p":"fortalezayvida","x":"10.5037123","y":"-66.9529092","n":"Cafetin fortaleza y vida - C.C. Propatria","t":"2","c":"0","s":"0.0","d":"0","a":"59,29,9,8","l":"Caracas 1030, Distrito Capital, Venezuela"}
 ,{"p":"comoncasa","x":"10.5042652","y":"-66.911813","n":"COMO n' CASA - C.C. El Gallo De Oro","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1012, Distrito Capital, Venezuela"}
 ,{"p":"planetsandwich","x":"10.4974977","y":"-66.8229553","n":"Planet Sandwich - C.C. Boleíta Center","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1071, Miranda, Venezuela"}
 ,{"p":"mediterraneogourmet","x":"10.4972026","y":"-66.8514195","n":"Mediterráneo Gourmet","t":"0","c":"3","s":"5.0","d":"0","a":"59,104,104,104","l":"Avenida Eugenio Mendoza, Caracas 1060, Distrito Capital"}
@@ -700,11 +700,11 @@
 ,{"p":"melomanos2","x":"8.6323221","y":"-71.067605","n":"Restaurat Melomanos Comida Lenta","t":"0","c":"2","s":"5.0","d":"0","a":"59,104,104,104","l":"Tabay 5116, Mérida, Venezuela"}
 ,{"p":"shajuanma","x":"10.471015","y":"-66.5947983","n":"Sha Juanma","t":"0","c":"154","s":"4.4","d":"0","a":"59,104,104,104","l":"Av Las Aves, Guarenas 1220, Miranda, Venezuela"}
 ,{"p":"viejopuente","x":"10.4998042","y":"-66.897662","n":"Rest. Viejo Puente","t":"0","c":"5","s":"5.0","d":"0","a":"59,61,104,104","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
-,{"p":"rajatabla","x":"10.4996035","y":"-66.8979084","n":"Café Rajatabla","t":"2","c":"2","s":"4.0","d":"0","a":"59,104,104,104","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
-,{"p":"naturagourmet","x":"10.500291","y":"-66.8979136","n":"Natura Gourmet Cafetería","t":"2","c":"4","s":"4.8","d":"0","a":"59,61,104,104","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
-,{"p":"baccocafemuseo","x":"10.499795","y":"-66.8976044","n":"Bacco Café Museo","t":"2","c":"8","s":"4.9","d":"0","a":"59,61,104,104","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
+,{"p":"rajatabla","x":"10.4996035","y":"-66.8979084","n":"Café Rajatabla","t":"2","c":"2","s":"4.0","d":"0","a":"29,33,36,41","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
+,{"p":"naturagourmet","x":"10.500291","y":"-66.8979136","n":"Natura Gourmet Cafetería","t":"2","c":"4","s":"4.8","d":"0","a":"12,16,9,29","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
+,{"p":"baccocafemuseo","x":"10.499795","y":"-66.8976044","n":"Bacco Café Museo","t":"2","c":"8","s":"4.9","d":"0","a":"29,16,8,139","l":"Eje de buen vivir, Centro Cultural Bellas Artes, Caracas 1011, Capital District, Venezuela"}
 ,{"p":"candyshopcrunchy","x":"10.5034","y":"-66.9007015","n":"CANDY SHOP CRUNCHY - C.C. Parque Caracas","t":"4","c":"8","s":"4.5","d":"0","a":"59,61,104,104","l":"AV ESTE 0 CON SUR 21, NIVEL PLANTA BAJA LOCAL 61 A 2 ALADO DE BURGER KING, 1010, Distrito Capital, Venezuela"}
-,{"p":"dfrutatucafe","x":"10.5033","y":"-66.9007015","n":"D FRUTA TU CAFE - C.C. Parque Caracas","t":"2","c":"2","s":"5.0","d":"0","a":"59,61,104,104","l":"AV ESTE 0 CON SUR 21, NIVEL PLATA BAJA LOCAL 24 FERIA DEL CENTRO COMERCIA ENTRADA POR BURGER KING, Caracas 1010, Distrito Capital, Venezuela"}
+,{"p":"dfrutatucafe","x":"10.5033","y":"-66.9007015","n":"D FRUTA TU CAFE - C.C. Parque Caracas","t":"2","c":"2","s":"5.0","d":"0","a":"33,146,117,9","l":"AV ESTE 0 CON SUR 21, NIVEL PLATA BAJA LOCAL 24 FERIA DEL CENTRO COMERCIA ENTRADA POR BURGER KING, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"papeleriaaraguaney","x":"10.5032","y":"-66.9007967","n":"PAPELERIA ARAGUANEY - C.C. Parque Caracas","t":"4","c":"1","s":"5.0","d":"0","a":"59,61,104,104","l":"AV ESTE 0 CON SUR 21, NIVEL PLATA BAJA LOCAL 57 ALADO DE BURGER KING, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"lacofuteria","x":"10.4493961","y":"-66.8808935","n":"La Cotuferia","t":"1","c":"4","s":"4.3","d":"0","a":"59,104,104,104","l":"Galerias Prados Del Este, Caracas 1080, Miranda, Venezuela"}
 ,{"p":"ferradiniccct","x":"10.4850004","y":"-66.8552104","n":"Ferradini C.C.C.T","t":"4","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Caracas 1064, Capital District, Venezuela"}
@@ -728,13 +728,12 @@
 ,{"p":"cambururdaneta","x":"10.507692","y":"-66.9133003","n":"Puesto de Cambur Urdaneta","t":"1","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"En Frente Edificio Caruao, Av. Urdaneta, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"burgercenter","x":"10.5045184","y":"-66.9171379","n":"Burger Center","t":"0","c":"8","s":"4.4","d":"0","a":"59,104,104,104","l":"Centro Comercial Metrocenter Nivel Amarillo Local PA-07, Caracas 1012, Distrito Capital, Venezuela"}
 ,{"p":"fruteriayestacionamiento","x":"10.5096013","y":"-66.9177186","n":"Fruteria y Estacionamiento Cerca De OPPPE","t":"3","c":"5","s":"4.0","d":"0","a":"59,104,104,104","l":"Avenida Oeste 3, Caracas 1010, Distrito Capital, Venezuela"}
-,{"p":"barpoolpineda","x":"10.509602","y":"-66.9181115","n":"Bar Pool Pineda","t":"2","c":"8","s":"3.5","d":"0","a":"59,104,104,104","l":"Avenida Oeste 3, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"farmarketlido","x":"10.4911492","y":"-66.8625516","n":"Farmarket C.C. Lido","t":"3","c":"1","s":"1.0","d":"0","a":"59,104,104,104","l":"Avenida Francisco de Miranda, Caracas 1060, Distrito Capital, Venezuela"}
 ,{"p":"farmarketsantapaula","x":"10.4607355","y":"-66.8335639","n":"Farmarket C.C. Santa Paula","t":"3","c":"1","s":"1.0","d":"0","a":"59,104,104,104","l":"Calle Acuario, Caracas 1061, Distrito Capital, Venezuela"}
 ,{"p":"farmarkettamanaco","x":"10.4845537","y":"-66.8542461","n":"Farmarket C.C. Ciudad Tamanaco","t":"3","c":"1","s":"1.0","d":"0","a":"59,104,104,104","l":"Calle Ernesto Blohm, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"mileniummallmerida","x":"8.5611234","y":"-71.1933088","n":"Milenium Mall - Centro Comercial Milenium","t":"4","c":"1046","s":"4.2","d":"0","a":"59,104,104,104","l":"Av Andrés Bello, Mérida 5115, Mérida, Venezuela"}
 ,{"p":"loveeat","x":"10.4967713","y":"-66.8456325","n":"Loveeat - Centro Plaza","t":"0","c":"2","s":"5.0","d":"0","a":"59,104,104,104","l":"Centro Plaza, Edificio Atlantic, Av Andrés Bello, Caracas 1060, Miranda, Venezuela"}
-,{"p":"budaremaison","x":"10.4979761","y":"-66.8464915","n":"Budare Maison - Centro Plaza","t":"2","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Av. Fco. de Miranda Centro Comercial Centro Plaza, Caracas 1060, Distrito Capital, Venezuela"}
+,{"p":"budaremaison","x":"10.4979761","y":"-66.8464915","n":"Budare Maison - Centro Plaza","t":"2","c":"1","s":"5.0","d":"0","a":"55,32,8,29","l":"Av. Fco. de Miranda Centro Comercial Centro Plaza, Caracas 1060, Distrito Capital, Venezuela"}
 ,{"p":"farmarato","x":"10.4702021","y":"-66.9473225","n":"Farmacia Farmarato","t":"4","c":"6","s":"4.3","d":"0","a":"59,104,104,104","l":"Calle San José, Caracas 1020, Distrito Capital, Venezuela"}
 ,{"p":"lavanderia","x":"10.5103714","y":"-66.9121","n":"Lavanderia Washing Service","t":"999","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Avenida Norte 1, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"coffeecigarettes","x":"10.5100101","y":"-66.91342","n":"[Puesto] - Cafe - Cigarillos","t":"1","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Av. Este 5 cruze Av. Norte, Otro lado de la Plaza Las Mercedes, Caracas, Venezuela"}
@@ -810,7 +809,7 @@
 ,{"p":"sanpatelosbar","x":"6.173117","y":"-75.5855734","n":"San Patelos bar","t":"2","c":"9","s":"4.2","d":"0","a":"59,104,104,104","l":"Dg. 40 ##33 sur 59, Envigado, Antioquia, Colombia"}
 ,{"p":"snacksazon","x":"6.1622253","y":"-75.5822404","n":"Snack Sazon","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cl. 40 Sur ###29a 20, Envigado, Antioquia, Colombia"}
 ,{"p":"elpandemilola","x":"6.1740397","y":"-75.5851766","n":"El Pan de mi Lola","t":"1","c":"4","s":"5.0","d":"0","a":"59,104,104,104","l":"Dirección Diagonal 39 con transversal con 32c sur - 6. Barrio, Envigado, Antioquia, Colombia"}
-,{"p":"laareperialunch","x":"4.7204475","y":"-74.046322","n":"La Areperia Lunch","t":"2","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Cl. 136 ##18B-40, Bogotá, Colombia"}
+,{"p":"laareperialunch","x":"4.7204475","y":"-74.046322","n":"La Areperia Lunch","t":"2","c":"0","s":"0.0","d":"0","a":"16,,104,104","l":"Cl. 136 ##18B-40, Bogotá, Colombia"}
 ,{"p":"crunchybbq","x":"6.1741963","y":"-75.5745881","n":"Crunch & BBQ","t":"0","c":"191","s":"4.5","d":"0","a":"59,104,104,104","l":"#1768, Cra. 28 #27 Sur27, Envigado, Antioquia, Colombia"}
 ,{"p":"crunchybbq2","x":"6.1674791","y":"-75.5877206","n":"Crunch y bbq","t":"0","c":"378","s":"4.6","d":"0","a":"59,104,104,104","l":"Cra. 41 ## 39 Sur 33, Envigado, Antioquia, Colombia"}
 ,{"p":"elgranbudare","x":"6.2479578","y":"-75.5899904","n":"El Gran Budare","t":"0","c":"129","s":"4.6","d":"0","a":"59,104,104,104","l":"Cl. 42 #70-108, Medellín, Antioquia, Colombia"}
