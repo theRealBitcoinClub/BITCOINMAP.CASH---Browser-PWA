@@ -3,7 +3,6 @@
 ,{"p":"lavermu","x":"41.4000891","y":"2.1568007","n":"La Vermu - Bar and Tapas","t":"2","c":"473","s":"4.2","d":"0","a":"31,32,33,36","l":"Carrer de Sant Domènec, Barcelona, Spain"}
 ,{"p":"ChIJayYeJpaipBIR8ZbTZO4x7dM","x":"41.4006901","y":"2.1579717","n":"Gelatology - We make Gelato great again!","t":"1","c":"109","s":"4.9","d":"1","a":"18,29,32,33","l":"Carrer de Martínez de la Rosa, Barcelona, Spain"}
 ,{"p":"atabalats","x":"41.4087684","y":"2.1605199","n":"Atabalats Gastrobar - Cerveza, Tapas y Copas","t":"0","c":"154","s":"4.4","d":"0","a":"7,29,31,32","l":"Carrer de la Providència, Barcelona, Spain"}
-,{"p":"freeAndSweet","x":"41.4151266","y":"2.1785654","n":"Free and - Pastry Obrador Dulce Saludable","t":"1","c":"17","s":"4.8","d":"0","a":"3,5,11,12","l":"Calle América, Barcelona, Spain"}
 ,{"p":"ChIJ89o4J5aipBIRfDm0sBYWJZQ","x":"41.4009587","y":"2.1580651","n":"La Pizza","t":"1","c":"148","s":"4.6","d":"0","a":"4,14,43,102","l":"Carrer del Penedès, Barcelona, Spain"}
 ,{"p":"candelacanela","x":"41.4021505","y":"2.156743","n":"Candela Canela - Sweet Desserts","t":"1","c":"44","s":"4.9","d":"0","a":"4,29,65,66","l":"Carrer de Ros de Olano, Barcelona, Spain"}
 ,{"p":"chatelet","x":"41.4040643","y":"2.1582468","n":"Chatelet - Cocktails and Wine","t":"2","c":"617","s":"4.0","d":"0","a":"8,29,32,56","l":"Carrer de Torrijos, Barcelona, Spain"}
@@ -191,7 +190,7 @@
 ,{"p":"polypopljubljana","x":"46.0540288","y":"14.5036553","n":"Polypop","t":"3","c":"7","s":"5.0","d":"0","a":"70,104,104,104","l":"Puharjeva ulica 3, 1000 Ljubljana, Slovenia"}
 ,{"p":"garderobacustomshirts","x":"46.065844","y":"14.5496041","n":"GARDEROBA - Custom T-Shirts","t":"3","c":"9","s":"4.7","d":"0","a":"70,104,104,104","l":"Šmartinska cesta 152, 1000 Ljubljana, Slovenia"}
 ,{"p":"kartjaprodoo","x":"46.0654589","y":"14.5098268","n":"Katja-Pro d.o.o., trgovsko podjetje","t":"3","c":"2","s":"5.0","d":"0","a":"70,104,104,104","l":"Dunajska cesta 56, 1000 Ljubljana, Slovenia"}
-,{"p":"sunderwear","x":"46.0489842","y":"14.5058362","n":"Frutas - Underwear","t":"4","c":"3","s":"5.0","d":"0","a":"70,104,104,104","l":"Cankarjevo nabrežje 25, 1000 Ljubljana, Slovenia"}
+,{"p":"frutasunderwear","x":"46.0489842","y":"14.5058362","n":"Frutas - Underwear","t":"4","c":"3","s":"5.0","d":"0","a":"70,104,104,104","l":"Cankarjevo nabrežje 25, 1000 Ljubljana, Slovenia"}
 ,{"p":"olabicoffee","x":"37.069148","y":"37.367908","n":"olabi coffee","t":"2","c":"228","s":"4.2","d":"0","a":"61,104,104,104","l":"İncili Pınar Mahallesi, Gazi Muhtar Paşa Blv. No:24, 27090 Şehitkamil/Gaziantep, Turkey"}
 ,{"p":"skaptobara","x":"42.699675","y":"23.32657","n":"Skaptobara","t":"0","c":"1635","s":"4.5","d":"0","a":"61,104,104,104","l":"ul. Iskar 11А, 1000 Sofia Center, Sofia, Bulgaria"}
 ,{"p":"salzkeller","x":"46.844933","y":"9.506379","n":"SalzKeller - Medical Floating Spa Chur","t":"999","c":"25","s":"5.0","d":"0","a":"61,104,104,104","l":"Triststrasse 8, 7000 Chur, Switzerland"}
@@ -316,7 +315,7 @@
 ,{"p":"bigkitchennigeria","x":"4.7631188","y":"7.0213741","n":"Big Kitchen Nigeria","t":"0","c":"43","s":"4.1","d":"0","a":"59,104,104,104","l":"Takoradi Street, Port Harcourt, Nigeria"}
 ,{"p":"newmarket","x":"7.5175268","y":"4.5124965","n":"New Market","t":"5","c":"73","s":"3.9","d":"0","a":"62,104,104,104","l":"GG96+2X Ife, Nigeria"}
 ,{"p":"zoescuisine","x":"7.5006349","y":"4.5152892","n":"Zoe's Cuisine - Restaurant","t":"0","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Ede Rd, Ife, Nigeria"}
-,{"p":"kayspy","x":"7.5190229","y":"4.5218396","n":"Kays Chippy Ife","t":"1","c":"13","s":"3.4","d":"0","a":"62,104,104,104","l":"Obafemi Awolowo University, Road 5, Ife, Nigeria"}
+,{"p":"kayschippy","x":"7.5190229","y":"4.5218396","n":"Kays Chippy Ife","t":"1","c":"13","s":"3.4","d":"0","a":"62,104,104,104","l":"Obafemi Awolowo University, Road 5, Ife, Nigeria"}
 ,{"p":"halsadamhostel","x":"7.5027423","y":"4.509311","n":"Halsadam Hostel Damico","t":"5","c":"33","s":"3.7","d":"0","a":"62,104,104,104","l":"Ede Road, Ife, Nigeria"}
 ,{"p":"mraziz","x":"8.9039687","y":"-2.2636554","n":"Mr Aziz and Co Grocery Store","t":"3","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Wa-Bole Rd, Bamahu, Ghana"}
 ,{"p":"abubakari","x":"8.6518083","y":"0.0023314","n":"Abubakari Drug Store","t":"4","c":"0","s":"0.0","d":"0","a":"62,104,104,104","l":"Wulensi, Ghana"}
