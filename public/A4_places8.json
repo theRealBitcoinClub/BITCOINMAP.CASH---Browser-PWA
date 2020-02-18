@@ -691,8 +691,8 @@
 ,{"p":"planetsandwich","x":"10.4974977","y":"-66.8229553","n":"Planet Sandwich - C.C. Boleíta Center","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1071, Miranda, Venezuela"}
 ,{"p":"mediterraneogourmet","x":"10.4972026","y":"-66.8514195","n":"Mediterráneo Gourmet","t":"0","c":"3","s":"5.0","d":"0","a":"59,104,104,104","l":"Avenida Eugenio Mendoza, Caracas 1060, Distrito Capital"}
 ,{"p":"practipizza","x":"10.372183","y":"-66.9697335","n":"Practipizza","t":"0","c":"3","s":"3.7","d":"0","a":"59,104,104,104","l":"San Antonio de Los Altos 1204, Miranda"}
-,{"p":"epiko","x":"10.4968887","y":"-66.8229248","n":"Épiko","t":"2","c":"90","s":"4.3","d":"0","a":"59,104,104,104","l":"Calle Sanatorio del Ávila. Centro Empresarial Ciudad Center., Torre F. Local L-1F PLanta Baja, Caracas 1071, Miranda, Venezuela"}
-,{"p":"nortedelsur","x":"10.4235424","y":"-66.8277652","n":"Norte del Sur Brewhouse","t":"2","c":"40","s":"4.5","d":"0","a":"59,104,104,104","l":"Calle Comercio, Caracas 1083, Miranda, Venezuela"}
+,{"p":"epiko","x":"10.4968887","y":"-66.8229248","n":"Épiko","t":"2","c":"90","s":"4.3","d":"0","a":"59,8,16,29","l":"Calle Sanatorio del Ávila. Centro Empresarial Ciudad Center., Torre F. Local L-1F PLanta Baja, Caracas 1071, Miranda, Venezuela"}
+,{"p":"nortedelsur","x":"10.4235424","y":"-66.8277652","n":"Norte del Sur Brewhouse","t":"2","c":"40","s":"4.5","d":"0","a":"106,8,32,7","l":"Calle Comercio, Caracas 1083, Miranda, Venezuela"}
 ,{"p":"granpremier","x":"10.4754685","y":"-66.1001766","n":"Panadería Gran Premier","t":"1","c":"28","s":"4.5","d":"0","a":"59,104,104,104","l":"Urb, Higuerote 1231, Miranda, Venezuela"}
 ,{"p":"romanina","x":"10.4970397","y":"-66.8529426","n":"Pizzería Romanina","t":"0","c":"956","s":"4.3","d":"0","a":"59,104,104,104","l":"Avenida Ávila, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"melomanos1","x":"8.6234558","y":"-71.1001658","n":"Restaurant Melomanos COMIDA LENTA","t":"0","c":"12","s":"4.7","d":"0","a":"59,104,104,104","l":"5116, Mérida, Venezuela"}
@@ -809,7 +809,7 @@
 ,{"p":"sanpatelosbar","x":"6.173117","y":"-75.5855734","n":"San Patelos bar","t":"2","c":"9","s":"4.2","d":"0","a":"59,104,104,104","l":"Dg. 40 ##33 sur 59, Envigado, Antioquia, Colombia"}
 ,{"p":"snacksazon","x":"6.1622253","y":"-75.5822404","n":"Snack Sazon","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cl. 40 Sur ###29a 20, Envigado, Antioquia, Colombia"}
 ,{"p":"elpandemilola","x":"6.1740397","y":"-75.5851766","n":"El Pan de mi Lola","t":"1","c":"4","s":"5.0","d":"0","a":"59,104,104,104","l":"Dirección Diagonal 39 con transversal con 32c sur - 6. Barrio, Envigado, Antioquia, Colombia"}
-,{"p":"laareperialunch","x":"4.7204475","y":"-74.046322","n":"La Areperia Lunch","t":"2","c":"0","s":"0.0","d":"0","a":"16,,104,104","l":"Cl. 136 ##18B-40, Bogotá, Colombia"}
+,{"p":"laareperialunch","x":"4.7204475","y":"-74.046322","n":"La Areperia Lunch","t":"2","c":"0","s":"0.0","d":"0","a":"16,125,29,8","l":"Cl. 136 ##18B-40, Bogotá, Colombia"}
 ,{"p":"crunchybbq","x":"6.1741963","y":"-75.5745881","n":"Crunch & BBQ","t":"0","c":"191","s":"4.5","d":"0","a":"59,104,104,104","l":"#1768, Cra. 28 #27 Sur27, Envigado, Antioquia, Colombia"}
 ,{"p":"crunchybbq2","x":"6.1674791","y":"-75.5877206","n":"Crunch y bbq","t":"0","c":"378","s":"4.6","d":"0","a":"59,104,104,104","l":"Cra. 41 ## 39 Sur 33, Envigado, Antioquia, Colombia"}
 ,{"p":"elgranbudare","x":"6.2479578","y":"-75.5899904","n":"El Gran Budare","t":"0","c":"129","s":"4.6","d":"0","a":"59,104,104,104","l":"Cl. 42 #70-108, Medellín, Antioquia, Colombia"}
@@ -823,7 +823,7 @@
 ,{"p":"amalurcafebar","x":"6.2463562","y":"-75.5899408","n":"Amalur Café Bar","t":"0","c":"42","s":"4.6","d":"0","a":"59,104,104,104","l":"Cq. 4 ## 70 - 79, Medellín, Antioquia, Colombia"}
 ,{"p":"pollosariel","x":"6.1763003","y":"-75.5856778","n":"Pollos Ariel","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Cl. 31a Sur #N 43 A 02, Envigado, Antioquia, Colombia"}
 ,{"p":"laboulangerie","x":"7.8919379","y":"-72.489174","n":"La Boulangerie","t":"1","c":"122","s":"4.7","d":"0","a":"59,104,104,104","l":"Av. Guaimaral Calsaq, Cúcuta, Norte de Santander, Colombia"}
-,{"p":"ixora","x":"7.8883764","y":"-72.4986176","n":"Ixora","t":"2","c":"4","s":"5.0","d":"0","a":"59,104,104,104","l":"Avenida 0 Calle 10, Edificio Rosetal, Cúcuta, Norte de Santander, Colombia"}
+,{"p":"ixora","x":"7.8883764","y":"-72.4986176","n":"Ixora","t":"2","c":"4","s":"5.0","d":"0","a":"59,29,8,92","l":"Avenida 0 Calle 10, Edificio Rosetal, Cúcuta, Norte de Santander, Colombia"}
 ,{"p":"tacotime","x":"4.6831446","y":"-74.0466728","n":"TACO TIME COLOMBIA","t":"0","c":"1","s":"4.0","d":"0","a":"59,104,104,104","l":"Cl. 99 ##13-50, Bogotá, Colombia"}
 ,{"p":"latortata","x":"4.649932","y":"-74.058985","n":"La Tortata","t":"1","c":"4","s":"4.8","d":"0","a":"59,104,104,104","l":"Cl. 66 ##7-18, Bogotá, Colombia"}
 ,{"p":"pollochef","x":"6.1686592","y":"-75.5875762","n":"PolloChef","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle 38A Sur #41 65, Envigado, Antioquia, Colombia"}
