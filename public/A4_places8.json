@@ -50,11 +50,11 @@
 ,{"p":"tonyscoffeebar","x":"57.6975382","y":"11.9861658","n":"Tonys coffeebar","t":"2","c":"79","s":"4.8","d":"0","a":"29,8,142,125","l":"Skånegatan, Gothenburg, Sweden"}
 ,{"p":"mamasbanh","x":"52.5311","y":"13.43435","n":"Mamas Banh | Vietnamese Tapas","t":"0","c":"182","s":"4.7","d":"0","a":"151,71,15,112","l":"Prenzlauer Berg, Hufelandstraße, Berlin, Germany"}
 ,{"p":"friedelrichter","x":"52.5282002","y":"13.3914314","n":"Friedel Richter Restaurant","t":"0","c":"98","s":"4.5","d":"0","a":"7,14,99,100","l":"Torstraße, Berlin, Germany"}
-,{"p":"uptowncoffeebar","x":"51.3312167","y":"12.3740951","n":"Uptown Coffee Bar","t":"2","c":"157","s":"4.6","d":"0","a":"59,104,104,104","l":"Riemannstraße 44, 04107 Leipzig, Germany"}
-,{"p":"liquidbar","x":"48.8316078","y":"12.9585127","n":"LIQUID - Bar & Lounge","t":"2","c":"82","s":"3.9","d":"0","a":"59,104,104,104","l":"Hans-Krämer-Straße 31, 94469 Deggendorf, Germany"}
-,{"p":"isenburgerimbiss","x":"50.047858","y":"8.682822","n":"IsenBurger Imbiss","t":"1","c":"15","s":"4.8","d":"0","a":"59,104,104,104","l":"Schleussnerstraße 56A, 63263 Neu-Isenburg, Germany"}
-,{"p":"diepizzaschmiede","x":"50.9709185","y":"11.0223341","n":"Die PizzaSchmiede","t":"0","c":"90","s":"4.7","d":"0","a":"59,104,104,104","l":"Walkmühlstraße 1, 99084 Erfurt, Germany"}
-,{"p":"bistroambrunnen","x":"49.2604647","y":"8.4840387","n":"Bistro Am Brunnen","t":"0","c":"43","s":"4.5","d":"0","a":"59,104,104,104","l":"Adlerstraße 7, 68794 Oberhausen-Rheinhausen, Germany"}
+,{"p":"uptowncoffeebar","x":"51.3312167","y":"12.3740951","n":"Uptown Coffee Bar","t":"2","c":"157","s":"4.6","d":"0","a":"59,29,33,37","l":"Riemannstraße 44, 04107 Leipzig, Germany"}
+,{"p":"liquidbar","x":"48.8316078","y":"12.9585127","n":"LIQUID - Bar & Lounge","t":"2","c":"82","s":"3.9","d":"0","a":"106,33,127,31","l":"Hans-Krämer-Straße 31, 94469 Deggendorf, Germany"}
+,{"p":"isenburgerimbiss","x":"50.047858","y":"8.682822","n":"IsenBurger Imbiss","t":"1","c":"15","s":"4.8","d":"0","a":"7,111,64,55","l":"Schleussnerstraße 56A, 63263 Neu-Isenburg, Germany"}
+,{"p":"diepizzaschmiede","x":"50.9709185","y":"11.0223341","n":"Die PizzaSchmiede","t":"0","c":"90","s":"4.7","d":"0","a":"59,14,7,55","l":"Walkmühlstraße 1, 99084 Erfurt, Germany"}
+,{"p":"bistroambrunnen","x":"49.2604647","y":"8.4840387","n":"Bistro Am Brunnen","t":"0","c":"43","s":"4.5","d":"0","a":"125,124,120,109","l":"Adlerstraße 7, 68794 Oberhausen-Rheinhausen, Germany"}
 ,{"p":"aristonimbiss","x":"49.447962","y":"11.069924","n":"Ariston Imbiss und Grillrestaurant","t":"0","c":"38","s":"4.2","d":"0","a":"59,104,104,104","l":"Engelhardsgasse 25, 90402 Nürnberg, Germany"}
 ,{"p":"appleandeve","x":"53.5642873","y":"9.9651666","n":"Apple & Eve Vegan & Simply Natural","t":"0","c":"83","s":"4.7","d":"0","a":"61,104,104,104","l":"Schanzenstraße 107, 20357 Hamburg, Germany"}
 ,{"p":"suesskramdealer","x":"52.4772253","y":"13.3300544","n":"Süßkramdealer","t":"4","c":"129","s":"4.6","d":"0","a":"59,104,104,104","l":"Varziner Str. 4, 12159 Berlin, Germany"}
