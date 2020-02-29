@@ -44,7 +44,7 @@
 ,{"p":"thecoffeebean","x":"53.2737949","y":"-3.2220382","n":"Sarahs Coffee, The Coffee Bean","t":"4","c":"1","s":"5.0","d":"0","a":"29,40,148,149","l":"The Mews, Holywell, England, UK"}
 ,{"p":"thecornercafe","x":"53.3087543","y":"-3.7404846","n":"The Corner Cafe","t":"2","c":"94","s":"4.7","d":"0","a":"29,8,125,152","l":" Rhos Road, Rhos on Sea, Colwyn Bay, England, UK"}
 ,{"p":"thegreenroom","x":"52.0258816","y":"-1.1499362","n":"The Green Room","t":"2","c":"224","s":"4.6","d":"0","a":"8,38,109,15","l":"Bridge Street, Brackley, England, UK"}
-,{"p":"thekyberthandori","x":"51.2955219","y":"-0.2149833","n":"The Khyber Tandoori","t":"0","c":"23","s":"4.3","d":"0","a":"59,104,104,104","l":"2 Waterhouse Ln, Banstead, Tadworth KT20 6EB, UK"}
+,{"p":"thekyberthandori","x":"51.2955219","y":"-0.2149833","n":"New Khyber","t":"0","c":"40","s":"4.3","d":"0","a":"120,141,158,0","l":"2 Waterhouse Ln, Banstead, Tadworth KT20 6EB, UK"}
 ,{"p":"mrwolfs","x":"51.4538348","y":"-2.594218","n":"Mr Wolfs","t":"2","c":"546","s":"4.1","d":"0","a":"62,33,37,106","l":"32 St Nicholas St, Bristol BS1 1TG, UK"}
 ,{"p":"chaoscoffeebar","x":"60.388109","y":"5.325569","n":"Chaos Coffee Bar / Kafe Chaos","t":"2","c":"76","s":"4.5","d":"0","a":"29,8,31,142","l":"Fosswinckels gate, Bergen, Norway"}
 ,{"p":"tonyscoffeebar","x":"57.6975382","y":"11.9861658","n":"Tonys coffeebar","t":"2","c":"79","s":"4.8","d":"0","a":"29,8,142,125","l":"Skånegatan, Gothenburg, Sweden"}
@@ -55,18 +55,17 @@
 ,{"p":"isenburgerimbiss","x":"50.047858","y":"8.682822","n":"IsenBurger Imbiss","t":"1","c":"15","s":"4.8","d":"0","a":"7,111,64,55","l":"Schleussnerstraße 56A, 63263 Neu-Isenburg, Germany"}
 ,{"p":"diepizzaschmiede","x":"50.9709185","y":"11.0223341","n":"Die PizzaSchmiede","t":"0","c":"90","s":"4.7","d":"0","a":"59,14,7,55","l":"Walkmühlstraße 1, 99084 Erfurt, Germany"}
 ,{"p":"bistroambrunnen","x":"49.2604647","y":"8.4840387","n":"Bistro Am Brunnen","t":"0","c":"43","s":"4.5","d":"0","a":"125,124,120,109","l":"Adlerstraße 7, 68794 Oberhausen-Rheinhausen, Germany"}
-,{"p":"aristonimbiss","x":"49.447962","y":"11.069924","n":"Ariston Imbiss und Grillrestaurant","t":"0","c":"38","s":"4.2","d":"0","a":"59,104,104,104","l":"Engelhardsgasse 25, 90402 Nürnberg, Germany"}
-,{"p":"appleandeve","x":"53.5642873","y":"9.9651666","n":"Apple & Eve Vegan & Simply Natural","t":"0","c":"83","s":"4.7","d":"0","a":"61,104,104,104","l":"Schanzenstraße 107, 20357 Hamburg, Germany"}
-,{"p":"suesskramdealer","x":"52.4772253","y":"13.3300544","n":"Süßkramdealer","t":"4","c":"129","s":"4.6","d":"0","a":"59,104,104,104","l":"Varziner Str. 4, 12159 Berlin, Germany"}
-,{"p":"sterhard","x":"49.908949","y":"10.8718518","n":"St. ERHARD - Kellerbier","t":"4","c":"7","s":"4.7","d":"0","a":"59,104,104,104","l":"Hafenstraße 13, 96052 Bamberg, Germany"}
-,{"p":"weingutandres","x":"49.4108863","y":"8.1874272","n":"Weingut Andres","t":"4","c":"37","s":"4.8","d":"0","a":"59,104,104,104","l":"Weinstraße 6, 67146 Deidesheim, Germany"}
-,{"p":"chocoin","x":"48.157943","y":"11.575094","n":"chokoin","t":"4","c":"21","s":"4.8","d":"0","a":"59,104,104,104","l":"Nordendstraße 52, 80801 München, Germany"}
-,{"p":"veeskaffee","x":"48.1365268","y":"11.5750891","n":"Vee's Kaffee & Bohnen GmbH","t":"4","c":"77","s":"4.6","d":"0","a":"59,104,104,104","l":"Rindermarkt 17, 80331 München, Germany"}
-,{"p":"szenedrinks","x":"48.1304085","y":"11.5726174","n":"Szenedrinks GmbH","t":"4","c":"101","s":"4.6","d":"0","a":"59,104,104,104","l":"Fraunhoferstraße 12, 80469 München, Germany"}
-,{"p":"murnauer","x":"48.1248578","y":"11.6060717","n":"Murnauer Kaffeerösterei - Cafebar im Werk 3","t":"2","c":"19","s":"4.3","d":"0","a":"59,104,104,104","l":"Atelierstraße 12, 81671 München, Germany"}
-,{"p":"richarddahmswine","x":"50.03737","y":"10.24546","n":"Richard Dahms Wine","t":"4","c":"5","s":"4.6","d":"0","a":"59,104,104,104","l":"August-Borsig-Straße 8, 97526 Sennfeld, Germany"}
-,{"p":"nailsberlin","x":"52.5276716","y":"13.4011124","n":"Studio 358 - Nails Berlin","t":"999","c":"54","s":"4.1","d":"0","a":"61,104,104,104","l":"Auguststraße 35, 10119 Berlin, Germany"}
-,{"p":"bekechanticafe","x":"52.55413","y":"13.37466","n":"bekech Anti Café","t":"2","c":"207","s":"4.7","d":"0","a":"61,104,104,104","l":"Exerzierstraße 14, 13357 Berlin, Germany"}
+,{"p":"appleandeve","x":"53.5642873","y":"9.9651666","n":"Apple & Eve Vegan & Simply Natural","t":"0","c":"83","s":"4.7","d":"0","a":"5,6,7,11","l":"Schanzenstraße 107, 20357 Hamburg, Germany"}
+,{"p":"suesskramdealer","x":"52.4772253","y":"13.3300544","n":"Süßkramdealer","t":"4","c":"159","s":"4.6","d":"0","a":"29,142,120,95","l":"Varziner Str. 4, 12159 Berlin, Germany"}
+,{"p":"sterhard","x":"49.908949","y":"10.8718518","n":"St. ERHARD - Kellerbier","t":"4","c":"7","s":"4.7","d":"0","a":"32,83,104,104","l":"Hafenstraße 13, 96052 Bamberg, Germany"}
+,{"p":"weingutandres","x":"49.4108863","y":"8.1874272","n":"Weingut Andres","t":"4","c":"41","s":"4.9","d":"0","a":"81,83,104,104","l":"Weinstraße 6, 67146 Deidesheim, Germany"}
+,{"p":"chocoin","x":"48.157943","y":"11.575094","n":"chokoin","t":"4","c":"26","s":"4.8","d":"0","a":"95,104,104,104","l":"Nordendstraße 52, 80801 München, Germany"}
+,{"p":"veeskaffee","x":"48.1365268","y":"11.5750891","n":"Vee's Kaffee & Bohnen GmbH","t":"4","c":"104","s":"4.6","d":"0","a":"29,11,109,142","l":"Rindermarkt 17, 80331 München, Germany"}
+,{"p":"szenedrinks","x":"48.1304085","y":"11.5726174","n":"Szenedrinks GmbH","t":"4","c":"135","s":"4.6","d":"0","a":"83,84,106,103","l":"Fraunhoferstraße 12, 80469 München, Germany"}
+,{"p":"murnauer","x":"48.1248578","y":"11.6060717","n":"Montevero - Cafebar im Werk 3","t":"2","c":"19","s":"4.3","d":"0","a":"29,9,10,11","l":"Atelierstraße 12, 81671 München, Germany"}
+,{"p":"richarddahmswine","x":"50.03737","y":"10.24546","n":"Richard Dahms Wine","t":"4","c":"5","s":"4.6","d":"0","a":"81,82,83,84","l":"August-Borsig-Straße 8, 97526 Sennfeld, Germany"}
+,{"p":"nailsberlin","x":"52.5276716","y":"13.4011124","n":"Studio 358 - Nails Berlin","t":"999","c":"86","s":"3.9","d":"0","a":"21,104,104,104","l":"Auguststraße 35, 10119 Berlin, Germany"}
+,{"p":"bekechanticafe","x":"52.55413","y":"13.37466","n":"bekech Anti Café","t":"2","c":"237","s":"4.7","d":"0","a":"61,29,119,124","l":"Exerzierstraße 14, 13357 Berlin, Germany"}
 ,{"p":"mamasbanh2","x":"52.489843","y":"13.3543736","n":"Mamas Banh | Schöneberg","t":"0","c":"57","s":"4.5","d":"0","a":"61,104,104,104","l":"Grunewaldstraße 81, 10823 Berlin, Germany"}
 ,{"p":"allnutbelgrade","x":"44.814838","y":"20.461738","n":"All Nut","t":"4","c":"13","s":"4.9","d":"0","a":"59,104,104,104","l":"lokal 25, Чумићево сокаче 2, Beograd 11000, Serbia"}
 ,{"p":"wayusa","x":"50.0602087","y":"14.4501185","n":"Wayusa - Chocolate","t":"4","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"ulice Kloboučnická, 140 00 Praha 4-Nusle, Czechia"}
