@@ -69,7 +69,7 @@ var tagText = [
     'Sushi 🍣',
     'Moto 🛵',
     'Coche 🚘',
-    'ELIPAY ₿',
+    'GOCRYPTO ₿',
     'Chicken 🐔',
     'Rabbit 🐰',
     'Potato 🥔',
