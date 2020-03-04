@@ -170,7 +170,13 @@ var tagText = [
     'Izzy 🍵',
     'Matcha 🍵',
     'Oden 🍢',
-    'Latte ☕'
+    'Latte ☕',
+    'DashText ₿',
+    'CoinTigo ₿',
+    'CoinText ₿',
+    'Salamantex ₿',
+    'CryptoBuyer ₿',
+    'XPay ₿'
 ];
 
 function loadIcons() {
