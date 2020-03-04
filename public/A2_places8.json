@@ -250,16 +250,16 @@
 ,{"p":"KatyushaVarenichnaya","x":"50.4428781","y":"30.5476193","n":"Katyusha Varenichnaya","t":"0","c":"1956","s":"3.7","d":"0","a":"59,104,104,104","l":"вулиця Мазепы , 5а, Київ, 0, Kyiv, Ukraine, 01015"}
 ,{"p":"bbq","x":"50.5078804","y":"30.7942794","n":"BBQ","t":"0","c":"178","s":"4.1","d":"0","a":"59,104,104,104","l":"Haharina St, 28, Brovary, Kyivs'ka oblast, Ukraine, 07402"}
 ,{"p":"mistertwister","x":"50.3679289","y":"30.4584454","n":"Mister Twister, Містер Твістер ","t":"0","c":"420","s":"4.4","d":"0","a":"59,104,104,104","l":"Akademika Hlushkova Ave, 13Б, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe1","x":"50.4364887","y":"30.592804","n":"Pesto Cafe - Rusanivska Embankment","t":"0","c":"1422","s":"4.3","d":"0","a":"59,104,104,104","l":"Rusanivska Embankment, 8, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe2","x":"50.4566893","y":"30.365129","n":"Pesto Cafe - VMB Shopping Mall","t":"0","c":"1919","s":"4.3","d":"0","a":"59,104,104,104","l":"Peremohy Ave, 136, Kyiv, Ukraine, 03115"}
-,{"p":"pestocafe3","x":"50.5085288","y":"30.5064802","n":"Pesto Cafe - Heroiv Stalinhrada","t":"0","c":"1109","s":"4.4","d":"0","a":"59,104,104,104","l":"Heroiv Stalinhrada Ave, 27, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe4","x":"50.4495983","y":"30.5259633","n":"Pesto Cafe - Instytutska","t":"0","c":"1047","s":"4.3","d":"0","a":"59,104,104,104","l":"Instytutska St, 2, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe5","x":"50.4077881","y":"30.6227459","n":"Pesto Cafe - Anny Akhmatovoi","t":"0","c":"1279","s":"4.4","d":"0","a":"59,104,104,104","l":"Anny Akhmatovoi St, 30, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe6","x":"50.4227216","y":"30.4643664","n":"Pesto Cafe - Lobanovskyi","t":"0","c":"507","s":"4.1","d":"0","a":"59,104,104,104","l":"Lobanovskyi Ave, 4д, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe7","x":"50.4451725","y":"30.4439262","n":"Pesto cafe - ТЦ Аркадия - Borshchahivska","t":"0","c":"1181","s":"4.4","d":"0","a":"59,104,104,104","l":"ТЦ Аркадия, Borshchahivska St, 154, 2 этаж, Kyiv, Ukraine, 03056"}
-,{"p":"pestocafe8","x":"50.4862353","y":"30.519432","n":"Pesto Cafe - Stepana Bandery","t":"0","c":"408","s":"4.5","d":"0","a":"59,104,104,104","l":"Stepana Bandery Avenue, 34В, Kyiv, Ukraine, 04655"}
-,{"p":"pestocafe9","x":"50.3989969","y":"30.617117","n":"Pesto Cafe - Песто Кафе - Dniprovska Embankment","t":"0","c":"889","s":"4.4","d":"0","a":"59,104,104,104","l":"Dniprovska Embankment, 33, Kyiv, Ukraine, 02000"}
-,{"p":"pestocafe10","x":"50.5046665","y":"30.4374407","n":"Pesto Cafe - ТЦ Орнамент, Pravdy Ave","t":"0","c":"1277","s":"4.4","d":"0","a":"59,104,104,104","l":"ТЦ Орнамент, Pravdy Ave, 58А, 2 этаж, Kyiv, Ukraine, 04074"}
+,{"p":"pestocafe1","x":"50.4364887","y":"30.592804","n":"Pesto Cafe - Rusanivska Embankment","t":"0","c":"1422","s":"4.3","d":"0","a":"59,14,109,104","l":"Rusanivska Embankment, 8, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe2","x":"50.4566893","y":"30.365129","n":"Pesto Cafe - VMB Shopping Mall","t":"0","c":"1919","s":"4.3","d":"0","a":"59,14,109,104","l":"Peremohy Ave, 136, Kyiv, Ukraine, 03115"}
+,{"p":"pestocafe3","x":"50.5085288","y":"30.5064802","n":"Pesto Cafe - Heroiv Stalinhrada","t":"0","c":"1109","s":"4.4","d":"0","a":"59,14,109,104","l":"Heroiv Stalinhrada Ave, 27, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe4","x":"50.4495983","y":"30.5259633","n":"Pesto Cafe - Instytutska","t":"0","c":"1047","s":"4.3","d":"0","a":"59,14,109,104","l":"Instytutska St, 2, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe5","x":"50.4077881","y":"30.6227459","n":"Pesto Cafe - Anny Akhmatovoi","t":"0","c":"1279","s":"4.4","d":"0","a":"59,14,109,104","l":"Anny Akhmatovoi St, 30, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe6","x":"50.4227216","y":"30.4643664","n":"Pesto Cafe - Lobanovskyi","t":"0","c":"507","s":"4.1","d":"0","a":"59,14,109,104","l":"Lobanovskyi Ave, 4д, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe7","x":"50.4451725","y":"30.4439262","n":"Pesto cafe - ТЦ Аркадия - Borshchahivska","t":"0","c":"1181","s":"4.4","d":"0","a":"59,14,109,104","l":"ТЦ Аркадия, Borshchahivska St, 154, 2 этаж, Kyiv, Ukraine, 03056"}
+,{"p":"pestocafe8","x":"50.4862353","y":"30.519432","n":"Pesto Cafe - Stepana Bandery","t":"0","c":"408","s":"4.5","d":"0","a":"59,14,109,104","l":"Stepana Bandery Avenue, 34В, Kyiv, Ukraine, 04655"}
+,{"p":"pestocafe9","x":"50.3989969","y":"30.617117","n":"Pesto Cafe - Песто Кафе - Dniprovska Embankment","t":"0","c":"889","s":"4.4","d":"0","a":"59,14,109,104","l":"Dniprovska Embankment, 33, Kyiv, Ukraine, 02000"}
+,{"p":"pestocafe10","x":"50.5046665","y":"30.4374407","n":"Pesto Cafe - ТЦ Орнамент, Pravdy Ave","t":"0","c":"1277","s":"4.4","d":"0","a":"59,14,109,104","l":"ТЦ Орнамент, Pravdy Ave, 58А, 2 этаж, Kyiv, Ukraine, 04074"}
 ,{"p":"pestocafe11","x":"50.4292674","y":"30.3573478","n":"Pesto Cafe - Velyka Okruzhna Doroha","t":"0","c":"302","s":"4.7","d":"0","a":"59,104,104,104","l":"Velyka Okruzhna Doroha, 4, Petropavlivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08130"}
 ,{"p":"pestocafe12","x":"50.4714132","y":"30.4778732","n":"Pesto Cafe - Tts Promenada Tsentr","t":"0","c":"255","s":"4.5","d":"0","a":"59,104,104,104","l":"Tts Promenada Tsentr, Ovrutska St, Kyiv, Ukraine, 04107"}
 ,{"p":"perfettograno","x":"50.466163","y":"30.357296","n":"Perfetto Grano","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Akademika Palladina Ave, 32/34, Kyiv, Ukraine, 02000"}
