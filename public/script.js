@@ -220,7 +220,7 @@ function loadIcons() {
         }
     };
 
-    xmlhttp.open("GET", "A1_places8.json", true);
+    xmlhttp.open("GET", "A5_places8.json", true);
     xmlhttp.send();
 }
 
