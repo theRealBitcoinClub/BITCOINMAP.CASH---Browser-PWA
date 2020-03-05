@@ -5,7 +5,7 @@
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
+,{"p":"fattysdiner","x":"13.7567922","y":"100.5587921","n":"Fatty's Bar & Diner","t":"0","c":"291","s":"4.5","d":"0","a":"7,8,15,32","l":"Din Daeng, Bangkok 10400, Thailand"}
 ,{"p":"numberfive","x":"35.662842","y":"139.7335174","n":"No.5","t":"2","c":"21","s":"4.0","d":"0","a":"61,31,104,104","l":"Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 3 Chome−12−5 STELLA六本木 5F"}
 ,{"p":"bar76","x":"35.2823086","y":"139.6687962","n":"Bar{76};","t":"2","c":"26","s":"4.6","d":"0","a":"61,31,104,104","l":"Japón, 〒238-0008 Kanagawa, Yokosuka, Odakicho, 1 Chome−８"}
 ,{"p":"marleytattoopiercing","x":"45.2279706","y":"13.5980969","n":"Marley Tattoo and Piercing Studio","t":"999","c":"80","s":"4.3","d":"0","a":"22,23,104,104","l":"ul. Park Olge Ban, 52440, Poreč, Croatia"}
@@ -360,7 +360,7 @@
 ,{"p":"kandakirari","x":"35.6930112","y":"139.7731941","n":"Kanda Kirari - 輝きらり","t":"0","c":"40","s":"4.0","d":"0","a":"155,67,100,97","l":"Japan, Tokyo, Chiyoda City, Kanda Konyacho"}
 ,{"p":"bargolden","x":"35.6308575","y":"139.6843618","n":"ゴールデン - Bar Golden","t":"2","c":"3","s":"3.3","d":"0","a":"31,32,83,119","l":"2 Chome-40-10 Chuocho, Meguro City, Tokyo, Japan"}
 ,{"p":"glutenfree","x":"35.664605","y":"139.736968","n":"Gluten Free 61 cafe & bar - グルテンフリー61 カフェ&バ","t":"0","c":"60","s":"4.8","d":"0","a":"6,15,30,108","l":"3 Chome-4-４番地６号 Roppongi, Minato City, Tokyo, Japan"}
-,{"p":"330bar","x":"35.6480452","y":"139.7104592","n":"私を恵比寿に連れてって 330BAR","t":"2","c":"16","s":"3.2","d":"0","a":"31,32,33,81","l":"Japan, Tokyo, Shibuya City, Ebisu, 1 Chome−7−4"}
+,{"p":"330bar","x":"35.6480452","y":"139.7104592","n":"私を恵比寿に連れてって 330BAR","t":"2","c":"26","s":"3.3","d":"0","a":"31,32,33,81","l":"Japan, Tokyo, Shibuya City, Ebisu, 1 Chome−7−4"}
 ,{"p":"rakantokyo","x":"35.6632748","y":"139.7329313","n":"RAKAN Tokyo - Nightclub","t":"2","c":"1","s":"5.0","d":"0","a":"31,33,82,160","l":"Tokyo, Japan, Asia"}
 ,{"p":"greekbar","x":"35.7034722","y":"139.5996424","n":"Greek bar ギリシャ小町三丁目","t":"0","c":"15","s":"4.6","d":"0","a":"154,143,15,8","l":"3 Chome-11 Nishiogiminami, Suginami City, Tokyo, Japan"}
 ,{"p":"kawashou","x":"35.946634","y":"139.831329","n":"Kawashou うなぎ 川昌 - Unagi","t":"0","c":"173","s":"4.2","d":"0","a":"100,142,143,153","l":"1511-2 Kanasugi, Matsubushi, Saitama, Japan"}
@@ -393,7 +393,7 @@
 ,{"p":"hairmake","x":"35.6444295","y":"139.7073653","n":"hair make MINT","t":"999","c":"20","s":"4.8","d":"0","a":"61,104,104,104","l":"Japan, 〒150-0022 Tōkyō-to, Shibuya City, Ebisuminami, 2-chōme−5−9 内藤ビル2F"}
 ,{"p":"bluebaobabafrica","x":"35.6587038","y":"139.7430404","n":"Blue Baobab Africa - ブルー バオバブ アフリカ","t":"0","c":"34","s":"4.0","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0041 Tokyo, 港区麻布台２－２－１２2, 三貴 ビル 2F"}
 ,{"p":"eletokyo","x":"35.656938","y":"139.735302","n":"ELETOKYO","t":"2","c":"187","s":"3.7","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0045 Tokyo, Minato City, 4, 麻布十番１丁目４−５ 深尾ビル １F / B１F"}
-,{"p":"villatoyko","x":"35.6639704","y":"139.7305542","n":"VILLA TOKYO 六本木","t":"2","c":"111","s":"4.6","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
+,{"p":"villatokyo","x":"35.6639704","y":"139.7305542","n":"VILLA TOKYO 六本木","t":"2","c":"111","s":"4.6","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
 ,{"p":"v2tokyo","x":"35.6639015","y":"139.7306322","n":"V2 TOKYO","t":"2","c":"379","s":"4.0","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
 ,{"p":"memoriesbar","x":"35.6635542","y":"139.7333784","n":"MEMORIES BAR","t":"2","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0032 Tōkyō-to, Minato City, Roppongi, 3-chōme−10−11 青木ビル6F"}
 ,{"p":"wallstreet","x":"35.6621986","y":"139.7351789","n":"WALL STREET GRILL& BAR","t":"2","c":"2","s":"5.0","d":"0","a":"61,104,104,104","l":"陽光セントラルビル六本木 １F, 3-chōme-15-22 丁目 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
