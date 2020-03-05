@@ -4,7 +4,7 @@
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
+,{"p":"rodeoplaza","x":"8.5897117","y":"-71.16212","n":"Rodeo Plaza Shopping Mall","t":"4","c":"2529","s":"4.4","d":"0","a":"7,8,29,59","l":"Av. Las Américas, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"fattysdiner","x":"13.7567922","y":"100.5587921","n":"Fatty's Bar & Diner","t":"0","c":"291","s":"4.5","d":"0","a":"7,8,15,32","l":"Din Daeng, Bangkok 10400, Thailand"}
 ,{"p":"numberfive","x":"35.662842","y":"139.7335174","n":"No.5","t":"2","c":"21","s":"4.0","d":"0","a":"61,31,104,104","l":"Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 3 Chome−12−5 STELLA六本木 5F"}
 ,{"p":"bar76","x":"35.2823086","y":"139.6687962","n":"Bar{76};","t":"2","c":"26","s":"4.6","d":"0","a":"61,31,104,104","l":"Japón, 〒238-0008 Kanagawa, Yokosuka, Odakicho, 1 Chome−８"}
@@ -396,7 +396,7 @@
 ,{"p":"villatokyo","x":"35.6639704","y":"139.7305542","n":"VILLA TOKYO 六本木","t":"2","c":"111","s":"4.6","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
 ,{"p":"v2tokyo","x":"35.6639015","y":"139.7306322","n":"V2 TOKYO","t":"2","c":"379","s":"4.0","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
 ,{"p":"memoriesbar","x":"35.6635542","y":"139.7333784","n":"MEMORIES BAR","t":"2","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0032 Tōkyō-to, Minato City, Roppongi, 3-chōme−10−11 青木ビル6F"}
-,{"p":"wallstreet","x":"35.6621986","y":"139.7351789","n":"WALL STREET GRILL& BAR","t":"2","c":"2","s":"5.0","d":"0","a":"61,104,104,104","l":"陽光セントラルビル六本木 １F, 3-chōme-15-22 丁目 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
+,{"p":"wallstreet","x":"35.6621986","y":"139.7351789","n":"WALL STREET GRILL& BAR","t":"2","c":"2","s":"5.0","d":"0","a":"61,29,31,32","l":"陽光セントラルビル六本木 １F, 3-chōme-15-22 丁目 Roppongi, Minato City, Tōkyō-to 106-0032, Japan"}
 ,{"p":"secretbeautysalon","x":"35.6715746","y":"139.7697616","n":"ハイパーナイフ 本格リンパ 美容矯正専門店 銀座Secret Beauty Salon","t":"999","c":"5","s":"4.8","d":"0","a":"61,104,104,104","l":"Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 2 Chome−13−１６ アヴァンティーク銀座２丁目参番館"}
 ,{"p":"ramenshopjinambo","x":"35.7200756","y":"139.6525785","n":"Ramen Shop Jinambo 6-chōme-3-4 Nogata","t":"3","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Nakano City, Tōkyō-to 165-0027, Japan "}
 ,{"p":"coaster","x":"35.6573733","y":"139.6676032","n":"Coaster クラフトビール＆キッチン","t":"0","c":"44","s":"4.4","d":"0","a":"61,104,104,104","l":"Japan, 〒155-0032 Tokyo, Setagaya City, Daizawa, 5 Chome−19−１３, Kosei Haimu, １F"}
