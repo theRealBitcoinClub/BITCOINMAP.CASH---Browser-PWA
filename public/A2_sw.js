@@ -38,7 +38,7 @@ workbox.precaching.precacheAndRoute([
     { url: 'A5_places8.json', revision: '383682' },
     { url: 'A1_jquery-3.3.1.min.js', revision: '383682' },
     { url: 'A1_markerclusterer.min.js', revision: '383682' },
-    { url: 'A2_script.min.js', revision: '383682' },
+    { url: 'A5_script.min.js', revision: '383682' },
     { url: 'A1_maptilerlayer.js', revision: '383682' },
     { url: 'A1_popper1.14.3.min.js', revision: '383682' },
     { url: 'A1_noty.min.js', revision: '383682' },
