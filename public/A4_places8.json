@@ -1,10 +1,27 @@
-[{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
-,{"p":"lunchroomsofra","x":"","y":"","n":"Lunchroom Sofra","t":"0","c":"","s":"","d":"0","a":"60,59,61,104","l":""}
+[{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"60,59,61,63","l":""}
+,{"p":"maxcolchonH","x":"40.5064285","y":"-3.3319295","n":"Maxcolchon H - Mattress Store","t":"4","c":"184","s":"4.4","d":"0","a":"60,59,61,63","l":"CC Quadernillos, Av. de Don Juan Tenorio, S/N, Local B12, 28805 Alcalá de Henares, Madrid, Spain"}
+,{"p":"maxcolchonG","x":"40.4290861","y":"-3.6674877","n":"Maxcolchon G - Mattress Store","t":"4","c":"121","s":"4.4","d":"0","a":"60,59,61,63","l":"Calle de Alcalá, 201, 28028 Madrid, Spain"}
+,{"p":"maxcolchonF","x":"40.4553321","y":"-3.702353","n":"Maxcolchon F - Mattress Store","t":"4","c":"130","s":"4.6","d":"0","a":"60,59,61,63","l":"Calle de Bravo Murillo, 194, bajo, 28020 Madrid, Spain"}
+,{"p":"maxcolchonE","x":"42.462504","y":"-2.4199366","n":"Maxcolchon E - Mattress Store","t":"4","c":"129","s":"4.8","d":"0","a":"60,59,61,63","l":"C.C Berceo, Calle Lérida, N1, 26006 Logroño, La Rioja, Spain"}
+,{"p":"maxcolchonD","x":"43.2968048","y":"-3.0021002","n":"Maxcolchon D - Mattress Store","t":"4","c":"189","s":"4.7","d":"0","a":"60,59,61,63","l":"Avda. La Ribera s/n, P.C. Megapark, 48903 Barakaldo, BI, Spain"}
+,{"p":"maxcolchonC","x":"39.55316","y":"-0.302459","n":"Maxcolchon C - Mattress Store","t":"4","c":"143","s":"4.5","d":"0","a":"60,59,61,63","l":"Parque Comercial El Manar Carretera Massalfassar - Museros, Km. 12,5, 46560 Massalfassar, Valencia, Spain"}
+,{"p":"maxcolchonB","x":"41.3920199","y":"2.1459314","n":"Maxcolchon B - Mattress Store","t":"4","c":"126","s":"4.4","d":"0","a":"60,59,61,63","l":"Carrer del Comte d'Urgell, 286, 08036 Barcelona, Spain"}
+,{"p":"maxcolchonA","x":"39.978156","y":"-0.064737","n":"Maxcolchon A - Mattress Store","t":"4","c":"185","s":"4.3","d":"0","a":"60,59,61,63","l":"Polígono Industrial, Carrer Peri 15 Núm. 6, 12006 Castelló de la Plana, Castelló, Spain"}
+,{"p":"bonnie","x":"51.9812114","y":"5.9113826","n":"Bonnie","t":"2","c":"115","s":"4.9","d":"0","a":"60,59,61,104","l":"Nieuwstad 2, 6811 BL Arnhem, Netherlands"}
+,{"p":"destaat","x":"51.9785111","y":"5.9099259","n":"De Staat","t":"0","c":"298","s":"4.1","d":"0","a":"60,59,61,104","l":"Markt 38, 6811 CJ Arnhem, Netherlands"}
+,{"p":"eetwinkelstrom","x":"51.9854308","y":"5.9198558","n":"Eetwinkel STROOM","t":"0","c":"95","s":"4.4","d":"0","a":"60,59,61,104","l":"Sonsbeeksingel 160, 6822 BM Arnhem, Netherlands"}
+,{"p":"cafeteriadolfjin","x":"51.9831184","y":"5.9185503","n":"Cafetaria Dolfijn","t":"0","c":"174","s":"4.5","d":"0","a":"60,59,61,104","l":"Spijkerlaan 27, 6828 EB Arnhem, Netherlands"}
+,{"p":"lunchroomsofra","x":"51.9798688","y":"5.9091819","n":"Lunchroom Sofra","t":"0","c":"121","s":"4.6","d":"0","a":"60,59,61,104","l":"Pastoorstraat 9, 6811 ED Arnhem, Netherlands"}
 ,{"p":"anneundmax","x":"51.9794559","y":"5.9083834","n":"Anne & Max Breakfast Restaurant","t":"2","c":"470","s":"4.3","d":"0","a":"60,59,61,104","l":"Bakkerstraat 50, 6811 EH Arnhem, Netherlands"}
 ,{"p":"iogurtis","x":"51.9795397","y":"5.9086508","n":"iogurtie's - smoothies * bowls * bubble tea * feel good food","t":"1","c":"60","s":"4.6","d":"0","a":"60,59,61,104","l":"Bakkerstraat 31, 6811 EH Arnhem, Netherlands"}
 ,{"p":"njoycafe","x":"51.9829628","y":"5.9094496","n":"Njoy Café","t":"2","c":"71","s":"4.5","d":"0","a":"60,59,61,104","l":"Bovenbeekstraat 5, 6811 CV Arnhem, Netherlands"}
