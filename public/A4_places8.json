@@ -1,9 +1,9 @@
 [{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":",,104,104","l":""}
+,{"p":"izakayatonteki","x":"35.6969398","y":"139.6796013","n":"Izakaya restaurant Tonteki, Nakano sakaue - 酒場食堂とんてき -中野坂上 ","t":"0","c":"31","s":"4.2","d":"0","a":",,104,104","l":"Japón, 〒164-0012 Tokyo, Nakano City, Honcho, 2 Chome−51−13 フラワーハイツ 1F"}
+,{"p":"tariq","x":"34.3983986","y":"132.4724483","n":"タリーク（ＴＡＲＩＱ）","t":"2","c":"5","s":"4.0","d":"0","a":"81,3,60,61","l":"12-9 Osugacho, Minami Ward, Hiroshima, 732-0821, Japón"}
+,{"p":"sushitoge","x":"43.0552675","y":"141.3216802","n":"Sushi Togemaruyama Koen Ten - 寿司とうげ円山公園店","t":"0","c":"24","s":"4.8","d":"0","a":"67,60,61,104","l":"Japón, 〒060-0061 Hokkaido, Sapporo, Chuo Ward, Minami 1 Jonishi, 24 Chome−1−8 エスターアベニュー ２F"}
+,{"p":"jokersbar","x":"37.9147985","y":"139.0619746","n":"JOKER'S BAR","t":"2","c":"4","s":"4.0","d":"0","a":"127,33,32,31","l":"1 Chome-6-9 Higashiodori, Chuo Ward, Niigata, 950-0087, Japón"}
 ,{"p":"coworkingtokyo","x":"35.6680691","y":"139.7320423","n":"Coworking Tokyo Chapter - ninetytwo13","t":"999","c":"26","s":"4.5","d":"0","a":"59,60,61,104","l":"9 Chome-2-13 Akasaka, Tokyo, 107-0052, Japón"}
 ,{"p":"sonidos","x":"35.6624155","y":"139.7349178","n":"Sonidos Bar Roppongi ソニドスバー六本木","t":"2","c":"28","s":"4.3","d":"0","a":"127,33,32,31","l":"SHIMOJOU building B1F 3-14-8, Roppongi, Minayo-ku, Tokyo 106-0031, Japón"}
 ,{"p":"ramenjinanbodos","x":"35.7384871","y":"139.662336","n":"Ramen - 麺処 次男房 桜台店","t":"0","c":"45","s":"4.0","d":"0","a":"135,100,97,104","l":"1 Chome-4-7 Sakuradai, Nerima City, Tokyo 176-0002"}
@@ -12,7 +12,7 @@
 ,{"p":"glutenfreetkitchen","x":"35.6650365","y":"139.7296399","n":"Gluten Free T’s Kitchen - グルテンフリー ティーズ キッチン","t":"0","c":"103","s":"4.7","d":"0","a":"30,1,109,61","l":"7 Chome-8-８番地5号 Roppongi, Minato City, Tokyo 106-0032, Japan"}
 ,{"p":"bibas","x":"10.6742617","y":"-71.6048098","n":"Bibas - Piano Bar","t":"2","c":"818","s":"4.3","d":"0","a":"14,32,121,61","l":"Avenida 3E, Maracaibo 4002, Zulia, Venezuela"}
 ,{"p":"burgerbeer","x":"10.672096","y":"-71.6039783","n":"BURGER BEER","t":"0","c":"82","s":"4.2","d":"0","a":"14,32,61,104","l":"Club Bella Vista, Maracaibo 4002, Zulia, Venezuela"}
-,{"p":"audiomusic","x":"10.6677815","y":"-71.6231829","n":"Audio Music","t":"0","c":"169","s":"4.4","d":"0","a":"61,104,104,104","l":"Av 16A, Maracaibo 4005, Zulia, Venezuela"}
+,{"p":"audiomusic","x":"10.6677815","y":"-71.6231829","n":"Audio Music","t":"0","c":"169","s":"4.4","d":"0","a":"60,61,59,104","l":"Av 16A, Maracaibo 4005, Zulia, Venezuela"}
 ,{"p":"chichatogo","x":"10.6677158","y":"-71.6232278","n":"Chicha ToGo","t":"1","c":"4.3","s":"74","d":"0","a":"109,142,61,104","l":"Maracaibo 4005, Zulia, Venezuela"}
 ,{"p":"duffmaracaibo","x":"10.7235616","y":"-71.6198435","n":"Duff Maracaibo","t":"0","c":"259","s":"3.8","d":"0","a":"14,32,18,61","l":"Avenida Milagro Norte, Maracaibo 4002, Zulia, Venezuela"}
 ,{"p":"gioiapizzagelati","x":"10.6632145","y":"-71.6214991","n":"Gioia pizza e gelati","t":"0","c":"1","s":"4.0","d":"0","a":"14,32,18,61","l":"Av 5 de Julio, Maracaibo 4005, Zulia, Venezuela"}
@@ -66,7 +66,7 @@
 ,{"p":"growcafe","x":"36.0109379","y":"-5.6053444","n":"Grow Cafe - Vegetarian","t":"2","c":"39","s":"4.8","d":"0","a":"4,29,8,11","l":"Calle Alcalde Juan Núñez, Tarifa, Spain"}
 ,{"p":"ecobakeryglutenfree","x":"36.01988","y":"-5.609871","n":"Eco Bakery - Gluten Free","t":"4","c":"37","s":"4.7","d":"0","a":"3,115,11,30","l":"Mar Adriatico, Tarifa, Spain"}
 ,{"p":"metropolisvalladolid","x":"41.650662","y":"-4.7217846","n":"Metropolis Valladolid","t":"4","c":"48","s":"4.6","d":"0","a":"61,118,24,48","l":"Calle de Fray Luis de León, 19, 47002 Valladolid, Spain"}
-,{"p":"acompanante","x":"41.6415754","y":"-0.8893621","n":"Acompañante En BioNeuroEmoción® y Acupuntura Zaragoza","t":"999","c":"1","s":"5.0","d":"0","a":"61,104,104,104","l":"Calle Madre Genoveva Torres Morales, local 16, 50006 Zaragoza, Spain"}
+,{"p":"acompanante","x":"41.6415754","y":"-0.8893621","n":"Acompañante En BioNeuroEmoción® y Acupuntura Zaragoza","t":"999","c":"1","s":"5.0","d":"0","a":"60,61,59,104","l":"Calle Madre Genoveva Torres Morales, local 16, 50006 Zaragoza, Spain"}
 ,{"p":"anastasia","x":"41.368927","y":"-8.7635631","n":"Anastacia Delicatesses","t":"0","c":"78","s":"4.4","d":"0","a":"61,3,4,8","l":"Porto de Mar, 4490-000 Póvoa de Varzim, Portugal"}
 ,{"p":"lojaportugueza","x":"38.7091671","y":"-9.1352209","n":"Loja Portugueza da Baixa","t":"4","c":"8","s":"3.4","d":"0","a":"59,21,53,94","l":"R. dos Fanqueiros 32, 1100-231 Lisboa, Portugal"}
 ,{"p":"deuxpointzero","x":"48.8685002","y":"2.3542593","n":"Deux Point Zero","t":"2","c":"241","s":"4.0","d":"0","a":"31,32,33,76","l":"Rue Blondel, Paris, France"}
@@ -78,7 +78,7 @@
 ,{"p":"dreambags","x":"51.5280867","y":"-0.0778415","n":"DreamBags JaguarShoes","t":"2","c":"294","s":"4.1","d":"0","a":"61,8,14,31","l":"32-36 Kingsland Rd, London E2 8DA, UK"}
 ,{"p":"dawsontattoo","x":"53.3724517","y":"-2.5814423","n":"The Dawson Tattoo Company","t":"999","c":"15","s":"5.0","d":"0","a":"61,22,23,36","l":"19A London Rd, Warrington WA4 6SG, UK"}
 ,{"p":"scymoreinn","x":"53.144159","y":"-1.558522","n":"The Sycamore Inn","t":"2","c":"105","s":"4.5","d":"0","a":"61,15,138,8","l":"9 Sycamore Rd, Matlock DE4 3HZ, UK"}
-,{"p":"harlequien","x":"53.3062959","y":"-3.7398696","n":"Harlequin Puppet Theatre","t":"999","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Cayley Promenade, Rhos on Sea, Colwyn Bay LL28 4EP, UK"}
+,{"p":"harlequien","x":"53.3062959","y":"-3.7398696","n":"Harlequin Puppet Theatre","t":"999","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Cayley Promenade, Rhos on Sea, Colwyn Bay LL28 4EP, UK"}
 ,{"p":"thecoffeebean","x":"53.2737949","y":"-3.2220382","n":"Sarahs Coffee, The Coffee Bean","t":"4","c":"1","s":"5.0","d":"0","a":"29,40,148,149","l":"The Mews, Holywell, England, UK"}
 ,{"p":"thecornercafe","x":"53.3087543","y":"-3.7404846","n":"The Corner Cafe","t":"2","c":"94","s":"4.7","d":"0","a":"29,8,125,152","l":" Rhos Road, Rhos on Sea, Colwyn Bay, England, UK"}
 ,{"p":"thegreenroom","x":"52.0258816","y":"-1.1499362","n":"The Green Room","t":"2","c":"224","s":"4.6","d":"0","a":"8,38,109,15","l":"Bridge Street, Brackley, England, UK"}
@@ -104,7 +104,7 @@
 ,{"p":"richarddahmswine","x":"50.03737","y":"10.24546","n":"Richard Dahms Wine","t":"4","c":"5","s":"4.6","d":"0","a":"81,82,83,84","l":"August-Borsig-Straße 8, 97526 Sennfeld, Germany"}
 ,{"p":"nailsberlin","x":"52.5276716","y":"13.4011124","n":"Studio 358 - Nails Berlin","t":"999","c":"86","s":"3.9","d":"0","a":"21,104,104,104","l":"Auguststraße 35, 10119 Berlin, Germany"}
 ,{"p":"bekechanticafe","x":"52.55413","y":"13.37466","n":"bekech Anti Café","t":"2","c":"237","s":"4.7","d":"0","a":"61,29,119,124","l":"Exerzierstraße 14, 13357 Berlin, Germany"}
-,{"p":"mamasbanh2","x":"52.489843","y":"13.3543736","n":"Mamas Banh | Schöneberg","t":"0","c":"57","s":"4.5","d":"0","a":"61,104,104,104","l":"Grunewaldstraße 81, 10823 Berlin, Germany"}
+,{"p":"mamasbanh2","x":"52.489843","y":"13.3543736","n":"Mamas Banh | Schöneberg","t":"0","c":"57","s":"4.5","d":"0","a":"60,61,59,104","l":"Grunewaldstraße 81, 10823 Berlin, Germany"}
 ,{"p":"allnutbelgrade","x":"44.814838","y":"20.461738","n":"All Nut","t":"4","c":"13","s":"4.9","d":"0","a":"59,104,104,104","l":"lokal 25, Чумићево сокаче 2, Beograd 11000, Serbia"}
 ,{"p":"wayusa","x":"50.0602087","y":"14.4501185","n":"Wayusa - Chocolate","t":"4","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"ulice Kloboučnická, 140 00 Praha 4-Nusle, Czechia"}
 ,{"p":"tavernapizza","x":"50.162967","y":"16.2732019","n":"Taverna Pizza&Pinsa Romana","t":"0","c":"261","s":"3.8","d":"0","a":"31,32,14,97","l":"Balbínova, Rychnov nad Kněžnou, Czechia"}
@@ -228,58 +228,58 @@
 ,{"p":"garderobacustomshirts","x":"46.065844","y":"14.5496041","n":"GARDEROBA - Custom T-Shirts","t":"3","c":"9","s":"4.7","d":"0","a":"70,60,61,104","l":"Šmartinska cesta 152, 1000 Ljubljana, Slovenia"}
 ,{"p":"kartjaprodoo","x":"46.0654589","y":"14.5098268","n":"Katja-Pro d.o.o., trgovsko podjetje","t":"3","c":"2","s":"5.0","d":"0","a":"70,60,61,104","l":"Dunajska cesta 56, 1000 Ljubljana, Slovenia"}
 ,{"p":"frutasunderwear","x":"46.0489842","y":"14.5058362","n":"Frutas - Underwear","t":"4","c":"3","s":"5.0","d":"0","a":"70,60,61,104","l":"Cankarjevo nabrežje 25, 1000 Ljubljana, Slovenia"}
-,{"p":"olabicoffee","x":"37.069148","y":"37.367908","n":"olabi coffee","t":"2","c":"228","s":"4.2","d":"0","a":"61,104,104,104","l":"İncili Pınar Mahallesi, Gazi Muhtar Paşa Blv. No:24, 27090 Şehitkamil/Gaziantep, Turkey"}
-,{"p":"skaptobara","x":"42.699675","y":"23.32657","n":"Skaptobara","t":"0","c":"1635","s":"4.5","d":"0","a":"61,104,104,104","l":"ul. Iskar 11А, 1000 Sofia Center, Sofia, Bulgaria"}
-,{"p":"salzkeller","x":"46.844933","y":"9.506379","n":"SalzKeller - Medical Floating Spa Chur","t":"999","c":"25","s":"5.0","d":"0","a":"61,104,104,104","l":"Triststrasse 8, 7000 Chur, Switzerland"}
-,{"p":"greenpack","x":"47.484151","y":"9.088154","n":"Greenpack.ch GmbH Growshop","t":"4","c":"3","s":"4.0","d":"0","a":"61,104,104,104","l":"Hasenloo 881, 9514 Wuppenau, Switzerland"}
-,{"p":"mimatraiteur","x":"48.6807926","y":"2.5025884","n":"Mima Traiteur - Catering","t":"1","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"mima-traiteur.fr"}
-,{"p":"belmobile","x":"50.8627797","y":"4.3424214","n":"Belmobile.be - Rachat et Réparation smartphone Bruxelles, tablette, GSM, Iphone","t":"4","c":"95","s":"4.8","d":"0","a":"61,104,104,104","l":"Rue Ulens 88, 1080 Molenbeek-Saint-Jean, Belgium"}
-,{"p":"barbaluppo","x":"42.762447","y":"11.1136787","n":"Il Barbaluppolo","t":"2","c":"4","s":"5.0","d":"0","a":"61,104,104,104","l":"Via Aurelio Saffi, 7, 58100 Grosseto GR, Italy"}
-,{"p":"lacasinadialice","x":"43.543127","y":"10.313984","n":"Ristorante La Casina di Alice","t":"0","c":"242","s":"4.5","d":"0","a":"61,104,104,104","l":"Via Leonardo Cambini, 14, 57125 Livorno LI, Italy"}
-,{"p":"eticoh","x":"44.0480737","y":"8.2142382","n":"Eticoh • Soul food lab","t":"0","c":"68","s":"4.5","d":"0","a":"61,104,104,104","l":"Piazza Domenico Trincheri, 7, 17031 Albenga SV, Italy"}
-,{"p":"seapalaca","x":"44.0479738","y":"8.213205","n":"Suite & breakfast \"at the Sea Palace\"","t":"5","c":"18","s":"4.5","d":"0","a":"61,104,104,104","l":"Vico Sant'Eulalia, 5, 17031 Albenga SV, Italy"}
-,{"p":"hotelraphael","x":"41.8999364","y":"12.4720937","n":"Hotel Raphaël - 5 Star","t":"5","c":"179","s":"4.5","d":"0","a":"61,104,104,104","l":"Largo Febo, 2, 00186 Roma RM, Italy"}
-,{"p":"materterrae","x":"41.8999912","y":"12.4721365","n":"Mater Terrae - Haute Cuisine","t":"0","c":"24","s":"4.5","d":"0","a":"61,104,104,104","l":"Largo Febo, 2, 00186 Roma RM, Italy"}
-,{"p":"veganbeat","x":"37.9753112","y":"23.7284616","n":"Vegan Beat","t":"0","c":"234","s":"4.9","d":"0","a":"61,104,104,104","l":"Pandrosou 7-15, Athina 105 56, Greece"}
-,{"p":"limebistrot","x":"37.977341","y":"23.710073","n":"Lime Bistro (vegan & gluten free restaurant)","t":"0","c":"361","s":"4.3","d":"0","a":"61,104,104,104","l":"Dekeleon 23, Athina 118 54, Greece"}
-,{"p":"foreverars","x":"56.7984796","y":"9.5181936","n":"Forever Aars","t":"4","c":"1","s":"5.0","d":"0","a":"61,104,104,104","l":"Kærvej 91, 9600 Aars, Denmark"}
-,{"p":"imania","x":"57.048735","y":"9.9175039","n":"iMania.dk - Electronics repair","t":"4","c":"14","s":"4.8","d":"0","a":"61,104,104,104","l":"Gravensgade 9, 9000 Aalborg, Denmark"}
-,{"p":"lagaiphone","x":"57.6994362","y":"11.9787175","n":"Lagaiphone.se Göteborg - Phone repait","t":"4","c":"77","s":"4.4","d":"0","a":"61,104,104,104","l":"Engelbrektsgatan 34B, 411 37 Göteborg, Sweden"}
-,{"p":"inetringoen","x":"57.7207122","y":"11.9660384","n":"Inet Ringön - Computer","t":"4","c":"630","s":"4.5","d":"0","a":"61,104,104,104","l":"Ringögatan 5, 417 07 Göteborg, Sweden"}
-,{"p":"christers","x":"57.7054787","y":"11.9712935","n":"Christer's hair salon","t":"999","c":"63","s":"4.6","d":"0","a":"61,104,104,104","l":"Östra Larmgatan 11, 411 08 Göteborg, Sweden"}
-,{"p":"webhallen","x":"57.652014","y":"11.9121268","n":"Webhallen Computer","t":"4","c":"143","s":"4.3","d":"0","a":"61,104,104,104","l":"Frölunda torg 2, 421 42 Göteborg, Sweden"}
-,{"p":"inetsisjon","x":"57.6408998","y":"11.9470596","n":"Inet Sisjön Computer","t":"4","c":"724","s":"4.5","d":"0","a":"61,104,104,104","l":"Stora Åvägen 7, 436 34 Askim, Sweden"}
-,{"p":"webhallen2","x":"57.6406091","y":"11.9502108","n":"Webhallen Computer","t":"4","c":"213","s":"4.4","d":"0","a":"61,104,104,104","l":"Sisjövägen 45, 436 33 Göteborg, Sweden"}
-,{"p":"inethoetorget","x":"59.334736","y":"18.0639959","n":"Inet Hötorget Computer","t":"4","c":"454","s":"4.5","d":"0","a":"61,104,104,104","l":"Sveavägen 17, 111 57 Stockholm, Sweden"}
-,{"p":"inetbarbarby","x":"59.4123769","y":"17.8636007","n":"Inet Barkarby","t":"4","c":"202","s":"4.4","d":"0","a":"61,104,104,104","l":"Barkarbyvägen 33, 177 44 Järfälla, Sweden"}
-,{"p":"webhallen3","x":"59.4938268","y":"17.924458","n":"Webhallen","t":"4","c":"875","s":"4.5","d":"0","a":"61,104,104,104","l":"Bergkällavägen 26, 192 79 Sollentuna, Sweden"}
-,{"p":"inetmalmoe","x":"55.602473","y":"13.0025923","n":"Inet Malmö Computer","t":"4","c":"494","s":"4.5","d":"0","a":"61,104,104,104","l":"Lilla Nygatan 7, 211 38 Malmö, Sweden"}
-,{"p":"kafekamen","x":"50.088495","y":"14.396196","n":"Kafe U Zelených kamen","t":"2","c":"229","s":"4.8","d":"0","a":"61,104,104,104","l":"Úvoz 1/169/6, 118 00 Praha 1-Malá Strana, Czechia"}
-,{"p":"sklep","x":"50.134725","y":"19.640651","n":"Sklep Internetowy KomBo Computer","t":"4","c":"1","s":"2.0","d":"0","a":"61,104,104,104","l":"Długa 14, 32-065 Krzeszowice, Poland"}
-,{"p":"paralelna","x":"48.1597829","y":"17.1234214","n":"Paralelná Polis","t":"2","c":"72","s":"4.8","d":"0","a":"61,104,104,104","l":"Kominárska 1552/3c, 831 04 Bratislava, Slovakia"}
-,{"p":"doblo","x":"47.4980988","y":"19.0609816","n":"DOBLO Wine Bar and Shop","t":"2","c":"778","s":"4.6","d":"0","a":"61,104,104,104","l":"Budapest, Dob u. 20, 1072 Hungary"}
-,{"p":"brewdogbudapest","x":"47.4981464","y":"19.0554914","n":"BrewDog Budapest","t":"2","c":"305","s":"4.1","d":"0","a":"61,104,104,104","l":"Budapest, Anker köz 1-3, 1061 Hungary"}
-,{"p":"oldshepherd","x":"46.7704109","y":"23.5882721","n":"Old Shepherd","t":"2","c":"575","s":"4.6","d":"0","a":"61,104,104,104","l":"Strada Matei Corvin Nr 2, Cluj-Napoca 400000, Romania"}
-,{"p":"designhotel","x":"45.3557831","y":"14.3270922","n":"Design hotel i restoran Navis","t":"5","c":"395","s":"4.6","d":"0","a":"61,104,104,104","l":"Ul. Ivana Matetića Ronjgova 10, 51410, Opatija, Croatia"}
-,{"p":"gradkavana","x":"45.3244234","y":"14.4414565","n":"GRAD kavana&bar","t":"2","c":"320","s":"4.6","d":"0","a":"61,104,104,104","l":"Ul. Riva Boduli 7b, 51000, Rijeka, Croatia"}
-,{"p":"ostoja","x":"53.7709277","y":"22.6237117","n":"Ostoja Stacze Domki Letniskowe - 3 Star","t":"5","c":"29","s":"4.8","d":"0","a":"61,104,104,104","l":"Stacze, 19-314 Stacze, Poland"}
-,{"p":"taisykla","x":"54.644168","y":"25.048549","n":"MB Elektronikos Taisykla - efix.it","t":"4","c":"15","s":"5.0","d":"0","a":"61,104,104,104","l":"Geležinkelio g. 34, Lentvaris 25116, Lithuania"}
-,{"p":"unitedcolors","x":"54.7143335","y":"25.2741592","n":"United colors of Benetton","t":"4","c":"1","s":"5.0","d":"0","a":"61,104,104,104","l":"Ozo g. 18, Vilnius 08243, Lithuania"}
-,{"p":"sothys","x":"54.6899893","y":"25.2759129","n":"SOTHYS ir MAHLER atstovybė IR SOTHYS Vilnius grožio namai","t":"4","c":"1","s":"5.0","d":"0","a":"61,104,104,104","l":"A. Jakšto g. 8, Vilnius 01105, Lithuania"}
-,{"p":"townrestaurant","x":"54.6877212","y":"25.2758431","n":"The Town Restaurant","t":"0","c":"387","s":"4.6","d":"0","a":"61,104,104,104","l":"01104, Gedimino pr. 26, Vilnius 01104, Lithuania"}
-,{"p":"unitedcolors2","x":"54.6865325","y":"25.2836481","n":"United Colors of Benetton","t":"4","c":"46","s":"4.3","d":"0","a":"61,104,104,104","l":"Gedimino pr. 5a, Vilnius 01103, Lithuania"}
-,{"p":"bardakas","x":"54.6842742","y":"25.2795346","n":"Bardakas","t":"2","c":"826","s":"4.2","d":"0","a":"61,104,104,104","l":"Vilniaus gatvė 22, Vilnius, Vilniaus apskritis, Vilnius 01402, Lithuania"}
-,{"p":"borsch","x":"54.6807258","y":"25.2698311","n":"Borsch","t":"0","c":"662","s":"4.4","d":"0","a":"61,104,104,104","l":"Algirdo g. 5, Vilnius 03219, Lithuania"}
-,{"p":"capsule","x":"54.6777304","y":"25.2828928","n":"Capsule Style Room","t":"4","c":"5","s":"5.0","d":"0","a":"61,104,104,104","l":"Šiaulių g. 5, Vilnius 01133, Lithuania"}
-,{"p":"oldtaunas","x":"54.67643","y":"25.284621","n":"Oldtaunas - Strip Club","t":"2","c":"50","s":"4.4","d":"0","a":"61,104,104,104","l":"Rūdninkų g. 14, Vilnius 01135, Lithuania"}
-,{"p":"firmvilnius","x":"54.6756876","y":"25.2848572","n":"Firm Vilnius","t":"999","c":"89","s":"4.6","d":"0","a":"61,104,104,104","l":"Visų Šventųjų g. 5, Vilnius 01306, Lithuania"}
-,{"p":"gaspars","x":"54.6785681","y":"25.2780131","n":"Gaspars","t":"0","c":"411","s":"4.7","d":"0","a":"61,104,104,104","l":"Pylimo g. 23, Vilnius 01141, Lithuania"}
-,{"p":"zenoteca","x":"54.6810082","y":"25.2993709","n":"Zenoteca, Itališko vyno namai","t":"4","c":"17","s":"4.9","d":"0","a":"61,104,104,104","l":"Užupio g. 25, Vilnius 01202, Lithuania"}
-,{"p":"kolekcija","x":"54.6802167","y":"25.2939073","n":"Kolekcija","t":"4","c":"8","s":"5.0","d":"0","a":"61,104,104,104","l":"Užupio g. 7-2, Vilnius 01200, Lithuania"}
-,{"p":"oneforall","x":"54.6805365","y":"25.2949025","n":"One for All","t":"0","c":"349","s":"4.5","d":"0","a":"61,104,104,104","l":"Užupio g. 10, Vilnius 01200, Lithuania"}
-,{"p":"crankshop","x":"54.6732649","y":"25.277415","n":"Crank Shop - Clothing","t":"4","c":"31","s":"3.9","d":"0","a":"61,104,104,104","l":"Kauno g. 5, Vilnius 03215, Lithuania"}
-,{"p":"apgerbi","x":"56.2059966","y":"25.3036956","n":"DGS Apģērbi - Second Hand","t":"4","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Pasta iela 30, Nereta, Neretas pagasts, LV-5118, Latvia"}
-,{"p":"eirovins","x":"57.5389741","y":"25.4233329","n":"EIROVĪNS, Vīnu Lielveikals - WINE","t":"4","c":"1","s":"4.0","d":"0","a":"61,104,104,104","l":"Rīgas iela 4, Valmiera, LV-4201, Latvia"}
+,{"p":"olabicoffee","x":"37.069148","y":"37.367908","n":"olabi coffee","t":"2","c":"228","s":"4.2","d":"0","a":"60,61,59,104","l":"İncili Pınar Mahallesi, Gazi Muhtar Paşa Blv. No:24, 27090 Şehitkamil/Gaziantep, Turkey"}
+,{"p":"skaptobara","x":"42.699675","y":"23.32657","n":"Skaptobara","t":"0","c":"1635","s":"4.5","d":"0","a":"60,61,59,104","l":"ul. Iskar 11А, 1000 Sofia Center, Sofia, Bulgaria"}
+,{"p":"salzkeller","x":"46.844933","y":"9.506379","n":"SalzKeller - Medical Floating Spa Chur","t":"999","c":"25","s":"5.0","d":"0","a":"60,61,59,104","l":"Triststrasse 8, 7000 Chur, Switzerland"}
+,{"p":"greenpack","x":"47.484151","y":"9.088154","n":"Greenpack.ch GmbH Growshop","t":"4","c":"3","s":"4.0","d":"0","a":"60,61,59,104","l":"Hasenloo 881, 9514 Wuppenau, Switzerland"}
+,{"p":"mimatraiteur","x":"48.6807926","y":"2.5025884","n":"Mima Traiteur - Catering","t":"1","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"mima-traiteur.fr"}
+,{"p":"belmobile","x":"50.8627797","y":"4.3424214","n":"Belmobile.be - Rachat et Réparation smartphone Bruxelles, tablette, GSM, Iphone","t":"4","c":"95","s":"4.8","d":"0","a":"60,61,59,104","l":"Rue Ulens 88, 1080 Molenbeek-Saint-Jean, Belgium"}
+,{"p":"barbaluppo","x":"42.762447","y":"11.1136787","n":"Il Barbaluppolo","t":"2","c":"4","s":"5.0","d":"0","a":"60,61,59,104","l":"Via Aurelio Saffi, 7, 58100 Grosseto GR, Italy"}
+,{"p":"lacasinadialice","x":"43.543127","y":"10.313984","n":"Ristorante La Casina di Alice","t":"0","c":"242","s":"4.5","d":"0","a":"60,61,59,104","l":"Via Leonardo Cambini, 14, 57125 Livorno LI, Italy"}
+,{"p":"eticoh","x":"44.0480737","y":"8.2142382","n":"Eticoh • Soul food lab","t":"0","c":"68","s":"4.5","d":"0","a":"60,61,59,104","l":"Piazza Domenico Trincheri, 7, 17031 Albenga SV, Italy"}
+,{"p":"seapalaca","x":"44.0479738","y":"8.213205","n":"Suite & breakfast \"at the Sea Palace\"","t":"5","c":"18","s":"4.5","d":"0","a":"60,61,59,104","l":"Vico Sant'Eulalia, 5, 17031 Albenga SV, Italy"}
+,{"p":"hotelraphael","x":"41.8999364","y":"12.4720937","n":"Hotel Raphaël - 5 Star","t":"5","c":"179","s":"4.5","d":"0","a":"60,61,59,104","l":"Largo Febo, 2, 00186 Roma RM, Italy"}
+,{"p":"materterrae","x":"41.8999912","y":"12.4721365","n":"Mater Terrae - Haute Cuisine","t":"0","c":"24","s":"4.5","d":"0","a":"60,61,59,104","l":"Largo Febo, 2, 00186 Roma RM, Italy"}
+,{"p":"veganbeat","x":"37.9753112","y":"23.7284616","n":"Vegan Beat","t":"0","c":"234","s":"4.9","d":"0","a":"60,61,59,104","l":"Pandrosou 7-15, Athina 105 56, Greece"}
+,{"p":"limebistrot","x":"37.977341","y":"23.710073","n":"Lime Bistro (vegan & gluten free restaurant)","t":"0","c":"361","s":"4.3","d":"0","a":"60,61,59,104","l":"Dekeleon 23, Athina 118 54, Greece"}
+,{"p":"foreverars","x":"56.7984796","y":"9.5181936","n":"Forever Aars","t":"4","c":"1","s":"5.0","d":"0","a":"60,61,59,104","l":"Kærvej 91, 9600 Aars, Denmark"}
+,{"p":"imania","x":"57.048735","y":"9.9175039","n":"iMania.dk - Electronics repair","t":"4","c":"14","s":"4.8","d":"0","a":"60,61,59,104","l":"Gravensgade 9, 9000 Aalborg, Denmark"}
+,{"p":"lagaiphone","x":"57.6994362","y":"11.9787175","n":"Lagaiphone.se Göteborg - Phone repait","t":"4","c":"77","s":"4.4","d":"0","a":"60,61,59,104","l":"Engelbrektsgatan 34B, 411 37 Göteborg, Sweden"}
+,{"p":"inetringoen","x":"57.7207122","y":"11.9660384","n":"Inet Ringön - Computer","t":"4","c":"630","s":"4.5","d":"0","a":"60,61,59,104","l":"Ringögatan 5, 417 07 Göteborg, Sweden"}
+,{"p":"christers","x":"57.7054787","y":"11.9712935","n":"Christer's hair salon","t":"999","c":"63","s":"4.6","d":"0","a":"60,61,59,104","l":"Östra Larmgatan 11, 411 08 Göteborg, Sweden"}
+,{"p":"webhallen","x":"57.652014","y":"11.9121268","n":"Webhallen Computer","t":"4","c":"143","s":"4.3","d":"0","a":"60,61,59,104","l":"Frölunda torg 2, 421 42 Göteborg, Sweden"}
+,{"p":"inetsisjon","x":"57.6408998","y":"11.9470596","n":"Inet Sisjön Computer","t":"4","c":"724","s":"4.5","d":"0","a":"60,61,59,104","l":"Stora Åvägen 7, 436 34 Askim, Sweden"}
+,{"p":"webhallen2","x":"57.6406091","y":"11.9502108","n":"Webhallen Computer","t":"4","c":"213","s":"4.4","d":"0","a":"60,61,59,104","l":"Sisjövägen 45, 436 33 Göteborg, Sweden"}
+,{"p":"inethoetorget","x":"59.334736","y":"18.0639959","n":"Inet Hötorget Computer","t":"4","c":"454","s":"4.5","d":"0","a":"60,61,59,104","l":"Sveavägen 17, 111 57 Stockholm, Sweden"}
+,{"p":"inetbarbarby","x":"59.4123769","y":"17.8636007","n":"Inet Barkarby","t":"4","c":"202","s":"4.4","d":"0","a":"60,61,59,104","l":"Barkarbyvägen 33, 177 44 Järfälla, Sweden"}
+,{"p":"webhallen3","x":"59.4938268","y":"17.924458","n":"Webhallen","t":"4","c":"875","s":"4.5","d":"0","a":"60,61,59,104","l":"Bergkällavägen 26, 192 79 Sollentuna, Sweden"}
+,{"p":"inetmalmoe","x":"55.602473","y":"13.0025923","n":"Inet Malmö Computer","t":"4","c":"494","s":"4.5","d":"0","a":"60,61,59,104","l":"Lilla Nygatan 7, 211 38 Malmö, Sweden"}
+,{"p":"kafekamen","x":"50.088495","y":"14.396196","n":"Kafe U Zelených kamen","t":"2","c":"229","s":"4.8","d":"0","a":"60,61,59,104","l":"Úvoz 1/169/6, 118 00 Praha 1-Malá Strana, Czechia"}
+,{"p":"sklep","x":"50.134725","y":"19.640651","n":"Sklep Internetowy KomBo Computer","t":"4","c":"1","s":"2.0","d":"0","a":"60,61,59,104","l":"Długa 14, 32-065 Krzeszowice, Poland"}
+,{"p":"paralelna","x":"48.1597829","y":"17.1234214","n":"Paralelná Polis","t":"2","c":"72","s":"4.8","d":"0","a":"60,61,59,104","l":"Kominárska 1552/3c, 831 04 Bratislava, Slovakia"}
+,{"p":"doblo","x":"47.4980988","y":"19.0609816","n":"DOBLO Wine Bar and Shop","t":"2","c":"778","s":"4.6","d":"0","a":"60,61,59,104","l":"Budapest, Dob u. 20, 1072 Hungary"}
+,{"p":"brewdogbudapest","x":"47.4981464","y":"19.0554914","n":"BrewDog Budapest","t":"2","c":"305","s":"4.1","d":"0","a":"60,61,59,104","l":"Budapest, Anker köz 1-3, 1061 Hungary"}
+,{"p":"oldshepherd","x":"46.7704109","y":"23.5882721","n":"Old Shepherd","t":"2","c":"575","s":"4.6","d":"0","a":"60,61,59,104","l":"Strada Matei Corvin Nr 2, Cluj-Napoca 400000, Romania"}
+,{"p":"designhotel","x":"45.3557831","y":"14.3270922","n":"Design hotel i restoran Navis","t":"5","c":"395","s":"4.6","d":"0","a":"60,61,59,104","l":"Ul. Ivana Matetića Ronjgova 10, 51410, Opatija, Croatia"}
+,{"p":"gradkavana","x":"45.3244234","y":"14.4414565","n":"GRAD kavana&bar","t":"2","c":"320","s":"4.6","d":"0","a":"60,61,59,104","l":"Ul. Riva Boduli 7b, 51000, Rijeka, Croatia"}
+,{"p":"ostoja","x":"53.7709277","y":"22.6237117","n":"Ostoja Stacze Domki Letniskowe - 3 Star","t":"5","c":"29","s":"4.8","d":"0","a":"60,61,59,104","l":"Stacze, 19-314 Stacze, Poland"}
+,{"p":"taisykla","x":"54.644168","y":"25.048549","n":"MB Elektronikos Taisykla - efix.it","t":"4","c":"15","s":"5.0","d":"0","a":"60,61,59,104","l":"Geležinkelio g. 34, Lentvaris 25116, Lithuania"}
+,{"p":"unitedcolors","x":"54.7143335","y":"25.2741592","n":"United colors of Benetton","t":"4","c":"1","s":"5.0","d":"0","a":"60,61,59,104","l":"Ozo g. 18, Vilnius 08243, Lithuania"}
+,{"p":"sothys","x":"54.6899893","y":"25.2759129","n":"SOTHYS ir MAHLER atstovybė IR SOTHYS Vilnius grožio namai","t":"4","c":"1","s":"5.0","d":"0","a":"60,61,59,104","l":"A. Jakšto g. 8, Vilnius 01105, Lithuania"}
+,{"p":"townrestaurant","x":"54.6877212","y":"25.2758431","n":"The Town Restaurant","t":"0","c":"387","s":"4.6","d":"0","a":"60,61,59,104","l":"01104, Gedimino pr. 26, Vilnius 01104, Lithuania"}
+,{"p":"unitedcolors2","x":"54.6865325","y":"25.2836481","n":"United Colors of Benetton","t":"4","c":"46","s":"4.3","d":"0","a":"60,61,59,104","l":"Gedimino pr. 5a, Vilnius 01103, Lithuania"}
+,{"p":"bardakas","x":"54.6842742","y":"25.2795346","n":"Bardakas","t":"2","c":"826","s":"4.2","d":"0","a":"60,61,59,104","l":"Vilniaus gatvė 22, Vilnius, Vilniaus apskritis, Vilnius 01402, Lithuania"}
+,{"p":"borsch","x":"54.6807258","y":"25.2698311","n":"Borsch","t":"0","c":"662","s":"4.4","d":"0","a":"60,61,59,104","l":"Algirdo g. 5, Vilnius 03219, Lithuania"}
+,{"p":"capsule","x":"54.6777304","y":"25.2828928","n":"Capsule Style Room","t":"4","c":"5","s":"5.0","d":"0","a":"60,61,59,104","l":"Šiaulių g. 5, Vilnius 01133, Lithuania"}
+,{"p":"oldtaunas","x":"54.67643","y":"25.284621","n":"Oldtaunas - Strip Club","t":"2","c":"50","s":"4.4","d":"0","a":"60,61,59,104","l":"Rūdninkų g. 14, Vilnius 01135, Lithuania"}
+,{"p":"firmvilnius","x":"54.6756876","y":"25.2848572","n":"Firm Vilnius","t":"999","c":"89","s":"4.6","d":"0","a":"60,61,59,104","l":"Visų Šventųjų g. 5, Vilnius 01306, Lithuania"}
+,{"p":"gaspars","x":"54.6785681","y":"25.2780131","n":"Gaspars","t":"0","c":"411","s":"4.7","d":"0","a":"60,61,59,104","l":"Pylimo g. 23, Vilnius 01141, Lithuania"}
+,{"p":"zenoteca","x":"54.6810082","y":"25.2993709","n":"Zenoteca, Itališko vyno namai","t":"4","c":"17","s":"4.9","d":"0","a":"60,61,59,104","l":"Užupio g. 25, Vilnius 01202, Lithuania"}
+,{"p":"kolekcija","x":"54.6802167","y":"25.2939073","n":"Kolekcija","t":"4","c":"8","s":"5.0","d":"0","a":"60,61,59,104","l":"Užupio g. 7-2, Vilnius 01200, Lithuania"}
+,{"p":"oneforall","x":"54.6805365","y":"25.2949025","n":"One for All","t":"0","c":"349","s":"4.5","d":"0","a":"60,61,59,104","l":"Užupio g. 10, Vilnius 01200, Lithuania"}
+,{"p":"crankshop","x":"54.6732649","y":"25.277415","n":"Crank Shop - Clothing","t":"4","c":"31","s":"3.9","d":"0","a":"60,61,59,104","l":"Kauno g. 5, Vilnius 03215, Lithuania"}
+,{"p":"apgerbi","x":"56.2059966","y":"25.3036956","n":"DGS Apģērbi - Second Hand","t":"4","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Pasta iela 30, Nereta, Neretas pagasts, LV-5118, Latvia"}
+,{"p":"eirovins","x":"57.5389741","y":"25.4233329","n":"EIROVĪNS, Vīnu Lielveikals - WINE","t":"4","c":"1","s":"4.0","d":"0","a":"60,61,59,104","l":"Rīgas iela 4, Valmiera, LV-4201, Latvia"}
 ,{"p":"givirubinstein","x":"50.4242183","y":"30.5417788","n":"Givi Rubinstein - Гіві Рубінштейн","t":"0","c":"640","s":"4.5","d":"0","a":"59,104,104,104","l":"Yevhena Konovaltsia St, 44, Kyiv, Ukraine, 01133"}
 ,{"p":"ts","x":"50.4547261","y":"30.4606911","n":"TS кофейня","t":"2","c":"10","s":"4.9","d":"0","a":"59,104,104,104","l":"Bohdana Havrylyshyna St, 7, Kyiv, Ukraine, 04116"}
 ,{"p":"katyusha","x":"50.4335826","y":"30.5157092","n":"Katyusha - Варенична Катюша","t":"0","c":"1643","s":"4.0","d":"0","a":"59,104,104,104","l":"Velyka Vasylkivska St, 60, Kyiv, Ukraine, 02000"}
@@ -317,13 +317,13 @@
 ,{"p":"downtherabbithole","x":"35.897482","y":"14.489838","n":"Down The Rabbit Hole","t":"2","c":"129","s":"4.7","d":"0","a":"59,104,104,104","l":"64 Triq Rue D'Argens, L-Imsida, Malta"}
 ,{"p":"kaufdahoam","x":"7.9182987","y":"13.7990771","n":"kaufdahoam.at OG","t":"3","c":"9","s":"4.9","d":"0","a":"59,104,104,104","l":"Theatergasse 6, 4810 Gmunden, Austria"}
 ,{"p":"toscanini","x":"7.9049399","y":"14.1225136","n":"Toscanini | Pizza & Pasta","t":"0","c":"203","s":"4.5","d":"0","a":"59,104,104,104","l":"Hauptpl. 14, 4560 Kirchdorf an der Krems, Austria"}
-,{"p":"tianveg","x":"48.2052787","y":"16.374579","n":"TIAN - Vegetarian","t":"0","c":"373","s":"4.5","d":"0","a":"61,104,104,104","l":"Himmelpfortgasse 23, 1010 Wien, Austria"}
-,{"p":"tienbistro","x":"48.2030385","y":"16.3550373","n":"Tian Bistro am Spittelberg","t":"0","c":"452","s":"4.4","d":"0","a":"61,104,104,104","l":"Schrankgasse 4, 1070 Wien, Austria"}
+,{"p":"tianveg","x":"48.2052787","y":"16.374579","n":"TIAN - Vegetarian","t":"0","c":"373","s":"4.5","d":"0","a":"60,61,59,104","l":"Himmelpfortgasse 23, 1010 Wien, Austria"}
+,{"p":"tienbistro","x":"48.2030385","y":"16.3550373","n":"Tian Bistro am Spittelberg","t":"0","c":"452","s":"4.4","d":"0","a":"60,61,59,104","l":"Schrankgasse 4, 1070 Wien, Austria"}
 ,{"p":"kolariks","x":"48.2132759","y":"16.4035807","n":"Kolariks Luftburg","t":"0","c":"943","s":"3.9","d":"0","a":"62,59,60,61","l":"Prater 128, 1020 Wien, Austria"}
 ,{"p":"pancho","x":"48.2189846","y":"16.3814159","n":"Restaurant Pancho","t":"0","c":"504","s":"3.9","d":"0","a":"59,104,104,104","l":"Blumauergasse 1, 1020 Wien, Austria"}
 ,{"p":"babette","x":"48.1976759","y":"16.364697","n":"Babette's Spice and Books","t":"4","c":"23","s":"4.8","d":"0","a":"59,104,104,104","l":"Schleifmühlgasse 17, 1040 Wien, Austria"}
-,{"p":"veghotel","x":"46.716836","y":"13.306043","n":"Weissenseerhofs - vegetarisches Genusshotel","t":"5","c":"86","s":"4.4","d":"0","a":"61,104,104,104","l":"Neusach 18, 9762 Weissensee, Austria"}
-,{"p":"hausangela","x":"46.916227","y":"12.329993","n":"Haus Angela","t":"5","c":"17","s":"4.8","d":"0","a":"61,104,104,104","l":"Unterrotte 58, 9963, Austria"}
+,{"p":"veghotel","x":"46.716836","y":"13.306043","n":"Weissenseerhofs - vegetarisches Genusshotel","t":"5","c":"86","s":"4.4","d":"0","a":"60,61,59,104","l":"Neusach 18, 9762 Weissensee, Austria"}
+,{"p":"hausangela","x":"46.916227","y":"12.329993","n":"Haus Angela","t":"5","c":"17","s":"4.8","d":"0","a":"60,61,59,104","l":"Unterrotte 58, 9963, Austria"}
 ,{"p":"tavernezumgriechen","x":"47.9603619","y":"14.1342582","n":"Taverne zum Griechen","t":"0","c":"178","s":"4.5","d":"0","a":"59,104,104,104","l":"Jageredt 2, 4542 Jageredt, Austria"}
 ,{"p":"adegbreitfuss","x":"47.9406455","y":"13.2240245","n":"ADEG Mario Breitfuß","t":"3","c":"92","s":"4.4","d":"0","a":"59,104,104,104","l":"Salzburgerstraße 11, 5202 Neumarkt am Wallersee, Austria"}
 ,{"p":"steaksbarrestaurant","x":"48.1585158","y":"14.028528","n":"STEAK'S BAR Restaurant","t":"0","c":"87","s":"4.5","d":"0","a":"59,104,104,104","l":"Adlerstraße 1, 4600 Wels, Austria"}
@@ -366,8 +366,8 @@
 ,{"p":"thepinkcowakasaka","x":"35.6720966","y":"139.7397304","n":"The Pink Cow Akasaka - 赤坂 The Pink Cow (ピンクカウ)","t":"0","c":"57","s":"4.5","d":"0","a":"14,100,96,31","l":"2 Chome-7-5 Akasaka, Minato City, Tokyo, Japan"}
 ,{"p":"downtownb","x":"35.665032","y":"139.736647","n":"Downtown B's Indian Kitchen - ダウンタウン ビーズ","t":"0","c":"357","s":"4.7","d":"0","a":"158,159,71,135","l":"3 Chome-4 Roppongi, Minato City, Tokyo, Japan"}
 ,{"p":"fline","x":"35.6333881","y":"139.6611829","n":"f,line - エフライン","t":"4","c":"3","s":"5.0","d":"0","a":"104,104,104,104","l":"4 Chome-4-4-3 Kamiuma, Setagaya City, Tokyo, Japan"}
-,{"p":"kagurazaka","x":"35.706609","y":"139.731268","n":"Kagurazaka aka be e tasuki - 神楽坂 あかべえ 襷｜神楽坂 焼き鳥 ワイン 日本酒","t":"0","c":"17","s":"4.1","d":"0","a":"104,104,104,104","l":"6 Chome-3 Yamabukicho, Shinjuku City, Tokyo, Japan"}
-,{"p":"newsalsasudada","x":"35.6616764","y":"139.7351021","n":"New Salsa Sudada - サルサスダーダ","t":"2","c":"33","s":"4.1","d":"0","a":"31,32,33,160","l":"5 Chome-16-5 Roppongi, Minato City, Tokyo, Japan"}
+,{"p":"kagurazaka","x":"35.706609","y":"139.731268","n":"Kagurazaka aka be e tasuki - 神楽坂 あかべえ 襷｜神楽坂 焼き鳥 ワイン 日本酒","t":"0","c":"20","s":"3.7","d":"0","a":"104,104,104,104","l":"6 Chome-3 Yamabukicho, Shinjuku City, Tokyo, Japan"}
+,{"p":"newsalsasudada","x":"35.6616764","y":"139.7351021","n":"Salsa Sudada - サルサスダーダ","t":"2","c":"43","s":"4.1","d":"0","a":"31,32,33,160","l":"東京都港区六本木５丁目１６−5 インペリアル六本木 Forum 2F - 5 Chome-16-5 Roppongi, Minato City, Tokyo, Japan"}
 ,{"p":"goodheavens","x":"35.6589099","y":"139.6676123","n":"Good Heavens","t":"0","c":"87","s":"4.4","d":"0","a":"104,104,104,104","l":"Japan, Tokyo, Setagaya City, Daizawa5 Chome−32−"}
 ,{"p":"kandakirari","x":"35.6930112","y":"139.7731941","n":"Kanda Kirari - 輝きらり","t":"0","c":"40","s":"4.0","d":"0","a":"155,67,100,97","l":"Japan, Tokyo, Chiyoda City, Kanda Konyacho"}
 ,{"p":"bargolden","x":"35.6308575","y":"139.6843618","n":"ゴールデン - Bar Golden","t":"2","c":"3","s":"3.3","d":"0","a":"31,32,83,119","l":"2 Chome-40-10 Chuocho, Meguro City, Tokyo, Japan"}
@@ -395,31 +395,31 @@
 ,{"p":"ajinoya2","x":"34.6680903","y":"135.5006587","n":"Ajinoya 2nd Shop - 味乃家 2号店","t":"0","c":"62","s":"3.7","d":"0","a":"100,112,142,144","l":"Japan, Osaka, Chuo Ward, Nanba, 1 Chome−７−13"}
 ,{"p":"yakinikutamurafukuoka","x":"33.5878136","y":"130.3941922","n":"炭火焼肉たむら福岡店 - Yakiniku Tamura Fukuoka","t":"0","c":"29","s":"3.8","d":"0","a":"111,67,112,138","l":"Japan, Fukuoka, Chuo Ward, Daimyo, 1 Chome−12−39"}
 ,{"p":"yakinikutamuranagasaki","x":"32.8258168","y":"129.84688","n":"炭火焼肉たむら 長崎店 - Yakiniku Tamura Nagasaki","t":"0","c":"63","s":"3.3","d":"0","a":"111,67,112,138","l":"Japan, Nagasaki, Togitsu, Nodago, 48-13"}
-,{"p":"audreydiving","x":"26.2379402","y":"127.6892317","n":"Audrey Diving Service - オードリーダイビングサービス","t":"999","c":"5","s":"4.6","d":"0","a":"61,104,104,104","l":"102-1 Aja, Naha, Okinawa 900-0003, Japan"}
-,{"p":"hawaiankombucha","x":"34.7045896","y":"135.2056888","n":"Hawaiian Kombucha","t":"4","c":"2","s":"5.0","d":"0","a":"61,104,104,104","l":"1-4-18, 1-chōme-4 Kamiwakadōri, Chūō-ku, Kobe, Hyogo 651-0067, Japan"}
-,{"p":"crossfitshohaku","x":"35.0264428","y":"135.7360836","n":"クロスフィット松柏 CrossFit Shohaku","t":"999","c":"10","s":"5.0","d":"0","a":"61,104,104,104","l":"1, 114 Higashitatechō, Kamigyō-ku, Kyoto, 602-8377, Japan"}
-,{"p":"lphairsalon","x":"34.9923942","y":"135.7569949","n":"LP Hair Salon","t":"999","c":"3","s":"3.7","d":"0","a":"61,104,104,104","l":"８２１６ Higashiwakamatsuchō, Shimogyō-ku, Kyoto, 600-8305, Japan"}
-,{"p":"ruinsminakami","x":"36.771307","y":"138.970286","n":"Ruins Minakami - ルインズ 水上","t":"0","c":"9","s":"4.8","d":"0","a":"61,104,104,104","l":"685 Yubara, Minakami, Tone-gun, Gunma 379-1617, Japan"}
-,{"p":"horumonsuzu","x":"35.63198","y":"139.447276","n":"ホルモンすず (Horumonsuzu) Yakiniku","t":"0","c":"66","s":"4.3","d":"0","a":"61,104,104,104","l":"1-chōme-8-17 Nagayama, Tama, Tokyo-to 206-0025, Japan"}
-,{"p":"venusfort","x":"35.6244166","y":"139.7790958","n":"RUBY CAFE VENUSFORT店","t":"2","c":"50","s":"3.8","d":"0","a":"61,104,104,104","l":"1 Chome-3-15 Aomi, Koto City, Tokyo 135-0064, Japan"}
-,{"p":"hairmake","x":"35.6444295","y":"139.7073653","n":"hair make MINT","t":"999","c":"20","s":"4.8","d":"0","a":"61,104,104,104","l":"Japan, 〒150-0022 Tokyo-to, Shibuya City, Ebisuminami, 2-chōme−5−9 内藤ビル2F"}
-,{"p":"bluebaobabafrica","x":"35.6587038","y":"139.7430404","n":"Blue Baobab Africa - ブルー バオバブ アフリカ","t":"0","c":"34","s":"4.0","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0041 Tokyo, 港区麻布台２－２－１２2, 三貴 ビル 2F"}
+,{"p":"audreydiving","x":"26.2379402","y":"127.6892317","n":"Audrey Diving Service - オードリーダイビングサービス","t":"999","c":"5","s":"4.6","d":"0","a":"60,61,59,104","l":"102-1 Aja, Naha, Okinawa 900-0003, Japan"}
+,{"p":"hawaiankombucha","x":"34.7045896","y":"135.2056888","n":"Hawaiian Kombucha","t":"4","c":"2","s":"5.0","d":"0","a":"136,3,60,61","l":"1-4-18, 1-chōme-4 Kamiwakadōri, Chūō-ku, Kobe, Hyogo 651-0067, Japan"}
+,{"p":"crossfitshohaku","x":"35.0264428","y":"135.7360836","n":"クロスフィット松柏 CrossFit Shohaku","t":"999","c":"10","s":"5.0","d":"0","a":"60,61,59,104","l":"1, 114 Higashitatechō, Kamigyō-ku, Kyoto, 602-8377, Japan"}
+,{"p":"lphairsalon","x":"34.9923942","y":"135.7569949","n":"LP Hair Salon","t":"999","c":"3","s":"3.7","d":"0","a":"60,61,59,104","l":"８２１６ Higashiwakamatsuchō, Shimogyō-ku, Kyoto, 600-8305, Japan"}
+,{"p":"ruinsminakami","x":"36.771307","y":"138.970286","n":"Ruins Minakami - ルインズ 水上","t":"0","c":"9","s":"4.8","d":"0","a":"60,61,59,104","l":"685 Yubara, Minakami, Tone-gun, Gunma 379-1617, Japan"}
+,{"p":"horumonsuzu","x":"35.63198","y":"139.447276","n":"ホルモンすず (Horumonsuzu) Yakiniku","t":"0","c":"66","s":"4.3","d":"0","a":"60,61,59,104","l":"1-chōme-8-17 Nagayama, Tama, Tokyo-to 206-0025, Japan"}
+,{"p":"venusfort","x":"35.6244166","y":"139.7790958","n":"RUBY CAFE VENUSFORT店","t":"2","c":"50","s":"3.8","d":"0","a":"60,61,59,104","l":"1 Chome-3-15 Aomi, Koto City, Tokyo 135-0064, Japan"}
+,{"p":"hairmake","x":"35.6444295","y":"139.7073653","n":"hair make MINT","t":"999","c":"20","s":"4.8","d":"0","a":"60,61,59,104","l":"Japan, 〒150-0022 Tokyo-to, Shibuya City, Ebisuminami, 2-chōme−5−9 内藤ビル2F"}
+,{"p":"bluebaobabafrica","x":"35.6587038","y":"139.7430404","n":"Blue Baobab Africa - ブルー バオバブ アフリカ","t":"0","c":"34","s":"4.0","d":"0","a":"60,61,59,104","l":"Japan, 〒106-0041 Tokyo, 港区麻布台２－２－１２2, 三貴 ビル 2F"}
 ,{"p":"eletokyo","x":"35.656938","y":"139.735302","n":"ELETOKYO","t":"2","c":"187","s":"3.7","d":"0","a":"127,33,32,31","l":"Japan, 〒106-0045 Tokyo, Minato City, 4, 麻布十番１丁目４−５ 深尾ビル １F / B１F"}
-,{"p":"villatokyo","x":"35.6639704","y":"139.7305542","n":"VILLA TOKYO 六本木","t":"2","c":"111","s":"4.6","d":"0","a":"61,104,104,104","l":"7-chōme-13-7 Roppongi, Minato City, Tokyo-to 106-0032, Japan"}
+,{"p":"villatokyo","x":"35.6639704","y":"139.7305542","n":"VILLA TOKYO 六本木","t":"2","c":"111","s":"4.6","d":"0","a":"60,61,59,104","l":"7-chōme-13-7 Roppongi, Minato City, Tokyo-to 106-0032, Japan"}
 ,{"p":"v2tokyo","x":"35.6639015","y":"139.7306322","n":"V2 TOKYO","t":"2","c":"379","s":"4.0","d":"0","a":"127,33,32,31","l":"7-chōme-13-7 Roppongi, Minato City, Tokyo-to 106-0032, Japan"}
-,{"p":"memoriesbar","x":"35.6635542","y":"139.7333784","n":"MEMORIES BAR","t":"2","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Japan, 〒106-0032 Tokyo-to, Minato City, Roppongi, 3-chōme−10−11 青木ビル6F"}
+,{"p":"memoriesbar","x":"35.6635542","y":"139.7333784","n":"MEMORIES BAR","t":"2","c":"0","s":"0.0","d":"0","a":"127,33,32,31","l":"Japan, 〒106-0032 Tokyo-to, Minato City, Roppongi, 3-chōme−10−11 青木ビル6F"}
 ,{"p":"wallstreet","x":"35.6621986","y":"139.7351789","n":"WALL STREET GRILL& BAR","t":"2","c":"2","s":"5.0","d":"0","a":"61,29,31,32","l":"陽光セントラルビル六本木 １F, 3-chōme-15-22 丁目 Roppongi, Minato City, Tokyo-to 106-0032, Japan"}
-,{"p":"secretbeautysalon","x":"35.6715746","y":"139.7697616","n":"ハイパーナイフ 本格リンパ 美容矯正専門店 銀座Secret Beauty Salon","t":"999","c":"5","s":"4.8","d":"0","a":"61,104,104,104","l":"Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 2 Chome−13−１６ アヴァンティーク銀座２丁目参番館"}
-,{"p":"ramenshopjinambo","x":"35.7200756","y":"139.6525785","n":"Ramen Shop Jinambo 6-chōme-3-4 Nogata","t":"3","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Nakano City, Tokyo-to 165-0027, Japan "}
-,{"p":"coaster","x":"35.6573733","y":"139.6676032","n":"Coaster クラフトビール＆キッチン","t":"0","c":"44","s":"4.4","d":"0","a":"61,104,104,104","l":"Japan, 〒155-0032 Tokyo, Setagaya City, Daizawa, 5 Chome−19−１３, Kosei Haimu, １F"}
+,{"p":"secretbeautysalon","x":"35.6715746","y":"139.7697616","n":"ハイパーナイフ 本格リンパ 美容矯正専門店 銀座Secret Beauty Salon","t":"999","c":"5","s":"4.8","d":"0","a":"60,61,59,104","l":"Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 2 Chome−13−１６ アヴァンティーク銀座２丁目参番館"}
+,{"p":"ramenshopjinambo","x":"35.7200756","y":"139.6525785","n":"Ramen Shop Jinambo 6-chōme-3-4 Nogata","t":"3","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Nakano City, Tokyo-to 165-0027, Japan "}
+,{"p":"coaster","x":"35.6573733","y":"139.6676032","n":"Coaster クラフトビール＆キッチン","t":"0","c":"44","s":"4.4","d":"0","a":"60,61,59,104","l":"Japan, 〒155-0032 Tokyo, Setagaya City, Daizawa, 5 Chome−19−１３, Kosei Haimu, １F"}
 ,{"p":"malaychan","x":"35.730472","y":"139.706181","n":"Malaychan - キッチンマレーチャン","t":"0","c":"138","s":"3.9","d":"0","a":"59,104,104,104","l":"3 Chome-22-6 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan"}
-,{"p":"rosebakeshop","x":"8.5070075","y":"125.9773064","n":"Rose Bakeshop","t":"1","c":"5","s":"4.6","d":"0","a":"61,104,104,104","l":"Roxas St, Barangay 4, San Francisco, Agusan del Sur, Philippines"}
+,{"p":"rosebakeshop","x":"8.5070075","y":"125.9773064","n":"Rose Bakeshop","t":"1","c":"5","s":"4.6","d":"0","a":"60,61,59,104","l":"Roxas St, Barangay 4, San Francisco, Agusan del Sur, Philippines"}
 ,{"p":"bunk5021","x":"14.5634905","y":"121.0302437","n":"BUNK 5021 HOSTEL","t":"5","c":"35","s":"4.3","d":"0","a":"104,104,104,104","l":"P Burgos, Makati, Metro Manila, Philippines"}
-,{"p":"orobmanila","x":"14.574839","y":"121.007437","n":"2409 Oro-B","t":"4","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"San Andres Bukid, Metro Manila, Philippines"}
-,{"p":"fruitopia","x":"1.3241299","y":"103.8140835","n":"Fruitopia - Hawker stall","t":"1","c":"8","s":"4.8","d":"0","a":"61,104,104,104","l":"2 Adam Rd, Singapore 289876"}
-,{"p":"intermissionbar","x":"1.3019177","y":"103.8642677","n":"Intermission Bar at The Projector","t":"2","c":"30","s":"4.6","d":"0","a":"61,104,104,104","l":"6001 Beach Rd, #05-00, Singapore 199589"}
-,{"p":"thehangar","x":"1.3004156","y":"103.8597222","n":"The Hangar","t":"2","c":"321","s":"4.0","d":"0","a":"61,104,104,104","l":"25 Arab St, Singapore 199724"}
-,{"p":"meatandgreen","x":"1.2865508","y":"103.8493014","n":"Meat And Green - Salad Shop","t":"0","c":"45","s":"4.5","d":"0","a":"61,104,104,104","l":"38 Circular Rd, Singapore 049394"}
+,{"p":"orobmanila","x":"14.574839","y":"121.007437","n":"2409 Oro-B","t":"4","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"San Andres Bukid, Metro Manila, Philippines"}
+,{"p":"fruitopia","x":"1.3241299","y":"103.8140835","n":"Fruitopia - Hawker stall","t":"1","c":"8","s":"4.8","d":"0","a":"60,61,59,104","l":"2 Adam Rd, Singapore 289876"}
+,{"p":"intermissionbar","x":"1.3019177","y":"103.8642677","n":"Intermission Bar at The Projector","t":"2","c":"30","s":"4.6","d":"0","a":"60,61,59,104","l":"6001 Beach Rd, #05-00, Singapore 199589"}
+,{"p":"thehangar","x":"1.3004156","y":"103.8597222","n":"The Hangar","t":"2","c":"321","s":"4.0","d":"0","a":"60,61,59,104","l":"25 Arab St, Singapore 199724"}
+,{"p":"meatandgreen","x":"1.2865508","y":"103.8493014","n":"Meat And Green - Salad Shop","t":"0","c":"45","s":"4.5","d":"0","a":"60,61,59,104","l":"38 Circular Rd, Singapore 049394"}
 ,{"p":"pattayabeergarden","x":"12.928118","y":"100.87435","n":"Pattaya Beer Garden","t":"0","c":"1878","s":"4.2","d":"0","a":"32,97,15,8","l":"Beach Road, Pattaya City, Bang Lamung District, Chon Buri, Thailand"}
 ,{"p":"cocotte","x":"13.7374603","y":"100.5700932","n":"Cocotte Soi","t":"0","c":"707","s":"4.4","d":"0","a":"97,138,109,71","l":"Sukhumvit 39, Khlong Tan Nuea, Watthana, Bangkok, Thailand"}
 ,{"p":"catmosphere","x":"18.8063742","y":"98.9580105","n":"Catmosphere Cat Cafe","t":"2","c":"290","s":"4.4","d":"0","a":"29,142,108,16","l":"Huaykaew Road, Su Thep, Mueang Chiang Mai District, Chiang Mai, Thailand"}
@@ -451,12 +451,12 @@
 ,{"p":"bbqprasita","x":"13.7141906","y":"100.5931822","n":"BBQ Prasita Ribs Food Truck","t":"1","c":"1937","s":"4.3","d":"0","a":"62,59,60,61","l":"W Market, 1599 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Khet Watthana, Krung Thep Maha Nakhon, Bangkok 10110, Thailand"}
 ,{"p":"ninivegames","x":"13.713553","y":"100.592633","n":"Ninive Games Co.Ltd.","t":"4","c":"145","s":"4.7","d":"0","a":"62,59,60,61","l":"1108/13-14 Sukumvit Plus Soy 1, Pra Kanong Nua, Klong Toey, Bangkok 10110, Thailand"}
 ,{"p":"battlefieldbangkok","x":"13.6844322","y":"100.6128806","n":"Battlefield Bangkok","t":"4","c":"123","s":"4.7","d":"0","a":"62,59,60,61","l":"71 Sukhumvit 101/1 Rd, Khwaeng Bang Chak, Prakanong, Krung Thep Maha Nakhon 10260, Thailand"}
-,{"p":"multihousefamilyclub","x":"9.786688","y":"100.003883","n":"Multi House - Family Beach Club","t":"0","c":"97","s":"4.8","d":"0","a":"61,104,104,104","l":"97/3 mu 7, Chaloklum, Koh Phangan, Thailand Chaloklum Muli House, Tambon Ko Pha-ngan, Amphoe Ko Pha-ngan, Chang Wat Surat Thani 84280, Thailand"}
-,{"p":"BEACHUB","x":"9.756502","y":"99.961923","n":"BEACHUB - 3 Star Hotel","t":"5","c":"93","s":"4.3","d":"0","a":"61,104,104,104","l":"Moo 8 Koh Phangan, Thailand, Koh Phangan, Srithanu, Chang Wat Surat Thani 84280, Thailand"}
-,{"p":"onelovedome","x":"9.7373137","y":"99.9795797","n":"One Love Dome - 3 Star Hotel","t":"5","c":"6","s":"5.0","d":"0","a":"61,104,104,104","l":"Ko Pha-ngan, Ko Pha-ngan District, Surat Thani 84280, Thailand"}
-,{"p":"12x12bar","x":"13.7366519","y":"100.5854455","n":"12 × 12 Bar","t":"2","c":"53","s":"4.3","d":"0","a":"61,104,104,104","l":"810/22 Thara Rom 2 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
-,{"p":"innerbeauty","x":"13.7896996","y":"100.5777717","n":"Inner Beauty - อินเนอร์บิวติ้ - Hair Salon","t":"999","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Sutthisan Winitchai Rd, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand"}
-,{"p":"satoshihouse","x":"20.2612048","y":"100.0883656","n":"Satoshi House","t":"5","c":"2","s":"5.0","d":"0","a":"61,104,104,104","l":"236 Pasakhangwaeng Waeng Chiang Rai 57150 TH, Ban Pasakhangwaeng Waeng, Amphoe Chiang Saen, Chang Wat Chiang Rai 57150, Thailand"}
+,{"p":"multihousefamilyclub","x":"9.786688","y":"100.003883","n":"Multi House - Family Beach Club","t":"0","c":"97","s":"4.8","d":"0","a":"60,61,59,104","l":"97/3 mu 7, Chaloklum, Koh Phangan, Thailand Chaloklum Muli House, Tambon Ko Pha-ngan, Amphoe Ko Pha-ngan, Chang Wat Surat Thani 84280, Thailand"}
+,{"p":"BEACHUB","x":"9.756502","y":"99.961923","n":"BEACHUB - 3 Star Hotel","t":"5","c":"93","s":"4.3","d":"0","a":"60,61,59,104","l":"Moo 8 Koh Phangan, Thailand, Koh Phangan, Srithanu, Chang Wat Surat Thani 84280, Thailand"}
+,{"p":"onelovedome","x":"9.7373137","y":"99.9795797","n":"One Love Dome - 3 Star Hotel","t":"5","c":"6","s":"5.0","d":"0","a":"60,61,59,104","l":"Ko Pha-ngan, Ko Pha-ngan District, Surat Thani 84280, Thailand"}
+,{"p":"12x12bar","x":"13.7366519","y":"100.5854455","n":"12 × 12 Bar","t":"2","c":"53","s":"4.3","d":"0","a":"60,61,59,104","l":"810/22 Thara Rom 2 Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
+,{"p":"innerbeauty","x":"13.7896996","y":"100.5777717","n":"Inner Beauty - อินเนอร์บิวติ้ - Hair Salon","t":"999","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Sutthisan Winitchai Rd, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand"}
+,{"p":"satoshihouse","x":"20.2612048","y":"100.0883656","n":"Satoshi House","t":"5","c":"2","s":"5.0","d":"0","a":"60,61,59,104","l":"236 Pasakhangwaeng Waeng Chiang Rai 57150 TH, Ban Pasakhangwaeng Waeng, Amphoe Chiang Saen, Chang Wat Chiang Rai 57150, Thailand"}
 ,{"p":"pregame","x":"13.7434457","y":"100.5561131","n":"PreGame - A Cheap Bar","t":"2","c":"4","s":"4.5","d":"0","a":"59,104,104,104","l":"23/6 Sukhumvit Soi 11, Khlong Toei, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
 ,{"p":"limlaongow","x":"13.7448092","y":"100.5337207","n":"LIM-LAO-NGOW","t":"0","c":"90","s":"3.9","d":"0","a":"59,104,104,104","l":"388 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"}
 ,{"p":"localtimebangkok","x":"13.7157913","y":"100.5921968","n":"Local Time Bangkok Hostel","t":"5","c":"38","s":"4.7","d":"0","a":"59,104,104,104","l":"28/2 Sukhumvit 69 Alley, Khwaeng Phra Khanong Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
@@ -473,16 +473,16 @@
 ,{"p":"8oneleven","x":"13.7426927","y":"100.5566131","n":"8 on eleven","t":"2","c":"170","s":"4.2","d":"0","a":"59,104,104,104","l":"14 Soi Sukhumvit 11, Klongtoie Nuea Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
 ,{"p":"marcel","x":"13.7229837","y":"100.5272963","n":"Marcel","t":"2","c":"90","s":"4.2","d":"0","a":"59,104,104,104","l":"28, 12 Sathon Soi 10, Khwaeng Silom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"}
 ,{"p":"devilish","x":"13.6846694","y":"100.612418","n":"Devilish Chews+Brews","t":"0","c":"161","s":"4.7","d":"0","a":"59,104,104,104","l":"29-29/1 Sukhumvit Soi 101/1 Road Di Wavery Place Community Mall, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand"}
-,{"p":"pilgrimskitchen","x":"16.559342","y":"104.746683","n":"Pilgrims kitchen & Inn","t":"5","c":"130","s":"4.3","d":"0","a":"61,104,104,104","l":"Savannakhet 13000, Laos"}
-,{"p":"osakajapanese","x":"17.9644823","y":"102.6055884","n":"Osaka - Japanese","t":"0","c":"30","s":"3.7","d":"0","a":"61,104,104,104","l":"Rue Nokeokoummane, Vientiane, Laos"}
-,{"p":"discountstore","x":"24.789712","y":"93.9145154","n":"DISCOUNT STORE Clothing","t":"4","c":"67","s":"4.3","d":"0","a":"61,104,104,104","l":"Lukram Leirak Rd, Mayaikoibi, Imphal, Manipur 795001, India"}
-,{"p":"radhakrishna","x":"21.1930898","y":"72.8412773","n":"Radha Krishna Textile Market","t":"4","c":"7","s":"4.3","d":"0","a":"61,104,104,104","l":"J 2703-4, Ring Road, Moti Begumwadi, Surat, Gujarat 395010, India"}
+,{"p":"pilgrimskitchen","x":"16.559342","y":"104.746683","n":"Pilgrims kitchen & Inn","t":"5","c":"130","s":"4.3","d":"0","a":"60,61,59,104","l":"Savannakhet 13000, Laos"}
+,{"p":"osakajapanese","x":"17.9644823","y":"102.6055884","n":"Osaka - Japanese","t":"0","c":"30","s":"3.7","d":"0","a":"60,61,59,104","l":"Rue Nokeokoummane, Vientiane, Laos"}
+,{"p":"discountstore","x":"24.789712","y":"93.9145154","n":"DISCOUNT STORE Clothing","t":"4","c":"67","s":"4.3","d":"0","a":"60,61,59,104","l":"Lukram Leirak Rd, Mayaikoibi, Imphal, Manipur 795001, India"}
+,{"p":"radhakrishna","x":"21.1930898","y":"72.8412773","n":"Radha Krishna Textile Market","t":"4","c":"7","s":"4.3","d":"0","a":"60,61,59,104","l":"J 2703-4, Ring Road, Moti Begumwadi, Surat, Gujarat 395010, India"}
 ,{"p":"cryptokonix","x":"30.036797","y":"73.996707","n":"CryptoKonix - Consultant","t":"999","c":"2","s":"5.0","d":"0","a":"62,59,60,61","l":"Jandwala, hunwanta, Abohar, Punjab 152132, India"}
-,{"p":"craftbrewandco","x":"22.2814932","y":"114.153489","n":"Craft Brew & Co.","t":"0","c":"62","s":"3.7","d":"0","a":"61,104,104,104","l":"17 Old Bailey St, Central, Hong Kong"}
-,{"p":"gardenmeow","x":"22.2833022","y":"114.1520564","n":"Garden Meow - 喵一下","t":"2","c":"143","s":"4.0","d":"0","a":"61,104,104,104","l":"Hong Kong, Central, 鴨巴甸街35號元創方B座地下HG01-HG05室"}
-,{"p":"olivierisrael","x":"32.0718606","y":"34.7691912","n":"L'Olivier","t":"2","c":"49","s":"4.1","d":"0","a":"61,104,104,104","l":"Yona HaNavi St 48, Tel Aviv-Yafo, Israel"}
-,{"p":"nonnoangelopizza","x":"32.087664","y":"34.7731046","n":"Nonno Angelo Pizza","t":"0","c":"214","s":"4.4","d":"0","a":"61,104,104,104","l":"Ben Yehuda St 147, Tel Aviv-Yafo, 6340309, Israel"}
-,{"p":"eduardosrestaurant","x":"32.8189315","y":"34.999972","n":"Eduardo's Restaurant","t":"0","c":"129","s":"4.6","d":"0","a":"61,104,104,104","l":"Derech HaAtsma'ut 37, Haifa, Israel"}
+,{"p":"craftbrewandco","x":"22.2814932","y":"114.153489","n":"Craft Brew & Co.","t":"0","c":"62","s":"3.7","d":"0","a":"60,61,59,104","l":"17 Old Bailey St, Central, Hong Kong"}
+,{"p":"gardenmeow","x":"22.2833022","y":"114.1520564","n":"Garden Meow - 喵一下","t":"2","c":"143","s":"4.0","d":"0","a":"60,61,59,104","l":"Hong Kong, Central, 鴨巴甸街35號元創方B座地下HG01-HG05室"}
+,{"p":"olivierisrael","x":"32.0718606","y":"34.7691912","n":"L'Olivier","t":"2","c":"49","s":"4.1","d":"0","a":"60,61,59,104","l":"Yona HaNavi St 48, Tel Aviv-Yafo, Israel"}
+,{"p":"nonnoangelopizza","x":"32.087664","y":"34.7731046","n":"Nonno Angelo Pizza","t":"0","c":"214","s":"4.4","d":"0","a":"60,61,59,104","l":"Ben Yehuda St 147, Tel Aviv-Yafo, 6340309, Israel"}
+,{"p":"eduardosrestaurant","x":"32.8189315","y":"34.999972","n":"Eduardo's Restaurant","t":"0","c":"129","s":"4.6","d":"0","a":"60,61,59,104","l":"Derech HaAtsma'ut 37, Haifa, Israel"}
 ,{"p":"bitcoincoffeebar","x":"10.76731","y":"106.693444","n":"B Coffee and Bar","t":"2","c":"24","s":"4.0","d":"0","a":"59,104,104,104","l":"74 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam"}
 ,{"p":"ducatuscafe","x":"-8.684123","y":"115.1682889","n":"DUCATUS CAFE","t":"2","c":"17","s":"4.8","d":"0","a":"29,11,8,136","l":"Sunset Road, Seminyak, Badung Regency, Bali, Indonesia"}
 ,{"p":"kismetrestaurantlounge","x":"-8.51189","y":"115.264006","n":"Kismet Restaurant and Lounge","t":"0","c":"624","s":"4.5","d":"0","a":"59,104,104,104","l":"Jl. Goutama Sel. No.27X, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia"}
@@ -490,10 +490,10 @@
 ,{"p":"ducatuscafesingapore","x":"1.2784458","y":"103.848261","n":"Ducatus Cafe Singapore","t":"2","c":"22","s":"4.1","d":"0","a":"15,16,8,150","l":"Singapore, Malaysia, Asia"}
 ,{"p":"qamara","x":"6.0814119","y":"102.2072121","n":"QAMARO COKLAT - Chocolate Shop","t":"0","c":"0.0","s":"0","d":"0","a":"62,59,60,61","l":"Kampung Wakaf Merah, Kampung Tendong, 17030 Pasir Mas, Kelantan, Malaysia"}
 ,{"p":"baencafe","x":"5.332393","y":"100.217897","n":"Baen Cafe Power Of Sedekah","t":"0","c":"2","s":"4.5","d":"0","a":"62,59,60,61","l":"11000 Balik Pulau, Penang, Malaysia"}
-,{"p":"coincafeandbar","x":"11.5483212","y":"104.9205696","n":"Coin Cafe & Bar","t":"0","c":"36","s":"4.6","d":"0","a":"61,104,104,104","l":"#5D Eo Street 360, 12304, Phnom Penh, Cambodia"}
+,{"p":"coincafeandbar","x":"11.5483212","y":"104.9205696","n":"Coin Cafe & Bar","t":"0","c":"36","s":"4.6","d":"0","a":"60,61,59,104","l":"#5D Eo Street 360, 12304, Phnom Penh, Cambodia"}
 ,{"p":"aubergedusoleil","x":"10.6067083","y":"104.1803797","n":"Auberge du Soleil","t":"5","c":"102","s":"4.5","d":"0","a":"59,104,104,104","l":"23 Street 728, Krong Kampot, Cambodia"}
 ,{"p":"gringoloco","x":"-28.0012452","y":"153.4309136","n":"Gringo Loco Cantina","t":"2","c":"168","s":"3.6","d":"0","a":"156,129,138,31","l":"Esplanade, Surfers Paradise QLD, Australia"}
-,{"p":"charlato","x":"43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"61,104,104,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
+,{"p":"charlato","x":"43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"60,61,59,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
 ,{"p":"restaurant1903","x":"-31.9444011","y":"115.8634259","n":"1903 Restaurant","t":"0","c":"116","s":"4.3","d":"0","a":"67,100,97,143","l":"Robinson Avenue, Perth WA, Australia"}
 ,{"p":"urbanpizza","x":"-33.885727","y":"151.177249","n":"Urban Pizza Bar","t":"1","c":"83","s":"4.4","d":"0","a":"14,102,109,110","l":"Layton Street, Camperdown NSW, Australia"}
 ,{"p":"verucasalt","x":"-37.885791","y":"144.987916","n":"Veruca Salt","t":"0","c":"84","s":"4.5","d":"0","a":"8,9,11,124","l":"Ormond Road, Elwood VIC, Australia"}
@@ -535,29 +535,29 @@
 ,{"p":"altbrew","x":"-19.2617703","y":"146.815679","n":"Alt Brew","t":"2","c":"3","s":"4.0","d":"0","a":"8,99,29,109","l":"Flinders Street, Townsville City QLD, Australia"}
 ,{"p":"thewatermark","x":"-19.2479035","y":"146.812666","n":"The Watermark Townsville Restaurant & Hotel","t":"0","c":"624","s":"4.3","d":"0","a":"100,97,138,163","l":"The Strand, North Ward QLD, Australia"}
 ,{"p":"thedownunderbar","x":"-16.9212842","y":"145.7754019","n":"The Downunder Bar","t":"2","c":"134","s":"4.5","d":"0","a":"31,32,162,132","l":"Lake Street, Cairns City QLD, Australia"}
-,{"p":"moksharoom","x":"-19.260168","y":"146.8195679","n":"Moksha Room Hair & Beauty","t":"999","c":"11","s":"4.5","d":"0","a":"61,104,104,104","l":"Shop 4/2 Dibbs St, South Townsville QLD 4810, Australia"}
-,{"p":"conviniencestore489","x":"-19.2625694","y":"146.8143262","n":"489 Convenience Store Pty Ltd","t":"3","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"489 Flinders St, Townsville QLD 4810, Australia"}
-,{"p":"missiontworepair","x":"-19.2618979","y":"146.8152576","n":"Mission 2 Repair","t":"4","c":"13","s":"4.3","d":"0","a":"61,104,104,104","l":"440 Flinders St, Townsville QLD 4810, Australia"}
-,{"p":"swaggerandjaxx","x":"-19.2662925","y":"146.8102876","n":"Swagger and Jaxx Barber And Coffee","t":"4","c":"44","s":"4.7","d":"0","a":"61,104,104,104","l":"1/679 Flinders St, Townsville QLD 4810, Australia"}
-,{"p":"grandcentralcafe","x":"-19.2671078","y":"146.8114545","n":"Grand Central Cafe","t":"2","c":"8","s":"4.1","d":"0","a":"61,104,104,104","l":"10 Little Fletcher St, Townsville QLD 4810, Australia"}
-,{"p":"stripescoffee","x":"-19.265611","y":"146.7962433","n":"Stripes Coffee","t":"2","c":"23","s":"4.7","d":"0","a":"61,104,104,104","l":"20 Echlin St, West End QLD 4810, Australia"}
-,{"p":"aitkenvalebeautyspot","x":"-19.2971564","y":"146.7693873","n":"Aitkenvale Beauty Spot","t":"999","c":"18","s":"4.9","d":"0","a":"61,104,104,104","l":"260 Ross River Rd, Aitkenvale QLD 4814, Australia"}
-,{"p":"annandaleminimart","x":"-19.3139397","y":"146.7713191","n":"Annandale Mini Mart & Newsagency","t":"3","c":"1","s":"2.0","d":"0","a":"61,104,104,104","l":"56 Yolanda Dr, Annandale QLD 4814, Australia"}
-,{"p":"australianwarfightercoffee","x":"-19.3170437","y":"146.7910452","n":"Australian warfighter coffee","t":"2","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Shop 3, Annandale Shopping Centre, 67 MacArthur Dr, Annandale QLD 4814, Australia"}
-,{"p":"townsvillehelivopters","x":"-19.2440397","y":"146.77583","n":"Townsville Helicopters","t":"999","c":"13","s":"4.7","d":"0","a":"61,104,104,104","l":"153 Old Common Rd, Rowes Bay QLD 4814, Australia"}
-,{"p":"australianlaundries","x":"-19.272882","y":"146.760418","n":"Australian Laundries Pty Ltd","t":"999","c":"3","s":"3.7","d":"0","a":"61,104,104,104","l":"369 Bayswater Rd, Garbutt QLD 4812, Australia"}
-,{"p":"xfittropics","x":"-19.2351477","y":"146.6983311","n":"Crossfit Tropics","t":"999","c":"7","s":"5.0","d":"0","a":"61,104,104,104","l":"89 Barramundi Circuit, Burdell QLD 4818, Australia"}
-,{"p":"slapandpickle","x":"-16.9231245","y":"145.7741742","n":"Slap and Pickle Sandwich & Tapas Bar","t":"2","c":"51","s":"4.7","d":"0","a":"61,104,104,104","l":"62 Shields St, Cairns City QLD 4870, Australia"}
-,{"p":"blvktempletattoo","x":"-16.922754","y":"145.7756783","n":"Blvk Temple Tattoo","t":"999","c":"38","s":"4.8","d":"0","a":"61,104,104,104","l":"Shop 3/87 Lake St, Cairns City QLD 4870, Australia"}
-,{"p":"australianway","x":"-27.386369","y":"153.119478","n":"Australian Way","t":"4","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"Shop 4C20 Departures Lvl 4 Brisbane International Airport, Eagle Farm QLD 4009, Australia"}
-,{"p":"carryonluggage","x":"-27.4040072","y":"153.1093885","n":"Carry On Luggage Store","t":"4","c":"1","s":"1.0","d":"0","a":"61,104,104,104","l":"Shop 4L01 Departures Level, Brisbane Intenational Airport, Eagle Farm QLD 4009, Australia"}
-,{"p":"jamrocjamaican","x":"-28.045365","y":"153.407605","n":"JAMROC Jamaican Jerk Chicken","t":"0","c":"97","s":"4.6","d":"0","a":"61,104,104,104","l":"Q Super Centre c51a Corner of Bermuda &, Markeri St, Mermaid Waters QLD 4218, Australia"}
-,{"p":"blackmarkettattoo","x":"-28.0786845","y":"153.3894605","n":"Blackmarket Tattoo Co | Gold Coast Tattoo Studio","t":"999","c":"76","s":"5.0","d":"0","a":"61,104,104,104","l":"1/76 Robina Town Centre Dr, Robina QLD 4226, Australia"}
-,{"p":"createbyrencounter","x":"-33.8307092","y":"151.2238517","n":"CREATE by ReNCOUNTER - Hair Salon","t":"999","c":"0","s":"0.0","d":"0","a":"61,104,104,104","l":"shop 1/3-5 Waters Rd, Neutral Bay NSW 2089, Australia"}
-,{"p":"vrcorner","x":"-33.885529","y":"151.202483","n":"VR Corner","t":"999","c":"51","s":"4.1","d":"0","a":"61,104,104,104","l":"49 Regent St, Chippendale NSW 2008, Australia"}
-,{"p":"cintacottage","x":"-38.3683307","y":"145.7049483","n":"Cinta Cottage","t":"5","c":"5","s":"5.0","d":"0","a":"61,104,104,104","l":"15 Victoria Rd, Loch VIC 3945, Australia"}
-,{"p":"hansasteakgrill","x":"-38.007529","y":"145.095691","n":"Hansa’s Steak & Grill","t":"0","c":"117","s":"4.7","d":"0","a":"61,104,104,104","l":"24 Percy St, Mordialloc VIC 3195, Australia"}
-,{"p":"sensuspa","x":"-37.8152048","y":"144.9565878","n":"Sensu Spa","t":"999","c":"72","s":"4.6","d":"0","a":"61,104,104,104","l":"T03/570 Bourke St, Melbourne VIC 3000, Australia"}
+,{"p":"moksharoom","x":"-19.260168","y":"146.8195679","n":"Moksha Room Hair & Beauty","t":"999","c":"11","s":"4.5","d":"0","a":"60,61,59,104","l":"Shop 4/2 Dibbs St, South Townsville QLD 4810, Australia"}
+,{"p":"conviniencestore489","x":"-19.2625694","y":"146.8143262","n":"489 Convenience Store Pty Ltd","t":"3","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"489 Flinders St, Townsville QLD 4810, Australia"}
+,{"p":"missiontworepair","x":"-19.2618979","y":"146.8152576","n":"Mission 2 Repair","t":"4","c":"13","s":"4.3","d":"0","a":"60,61,59,104","l":"440 Flinders St, Townsville QLD 4810, Australia"}
+,{"p":"swaggerandjaxx","x":"-19.2662925","y":"146.8102876","n":"Swagger and Jaxx Barber And Coffee","t":"4","c":"44","s":"4.7","d":"0","a":"60,61,59,104","l":"1/679 Flinders St, Townsville QLD 4810, Australia"}
+,{"p":"grandcentralcafe","x":"-19.2671078","y":"146.8114545","n":"Grand Central Cafe","t":"2","c":"8","s":"4.1","d":"0","a":"60,61,59,104","l":"10 Little Fletcher St, Townsville QLD 4810, Australia"}
+,{"p":"stripescoffee","x":"-19.265611","y":"146.7962433","n":"Stripes Coffee","t":"2","c":"23","s":"4.7","d":"0","a":"60,61,59,104","l":"20 Echlin St, West End QLD 4810, Australia"}
+,{"p":"aitkenvalebeautyspot","x":"-19.2971564","y":"146.7693873","n":"Aitkenvale Beauty Spot","t":"999","c":"18","s":"4.9","d":"0","a":"60,61,59,104","l":"260 Ross River Rd, Aitkenvale QLD 4814, Australia"}
+,{"p":"annandaleminimart","x":"-19.3139397","y":"146.7713191","n":"Annandale Mini Mart & Newsagency","t":"3","c":"1","s":"2.0","d":"0","a":"60,61,59,104","l":"56 Yolanda Dr, Annandale QLD 4814, Australia"}
+,{"p":"australianwarfightercoffee","x":"-19.3170437","y":"146.7910452","n":"Australian warfighter coffee","t":"2","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Shop 3, Annandale Shopping Centre, 67 MacArthur Dr, Annandale QLD 4814, Australia"}
+,{"p":"townsvillehelivopters","x":"-19.2440397","y":"146.77583","n":"Townsville Helicopters","t":"999","c":"13","s":"4.7","d":"0","a":"60,61,59,104","l":"153 Old Common Rd, Rowes Bay QLD 4814, Australia"}
+,{"p":"australianlaundries","x":"-19.272882","y":"146.760418","n":"Australian Laundries Pty Ltd","t":"999","c":"3","s":"3.7","d":"0","a":"60,61,59,104","l":"369 Bayswater Rd, Garbutt QLD 4812, Australia"}
+,{"p":"xfittropics","x":"-19.2351477","y":"146.6983311","n":"Crossfit Tropics","t":"999","c":"7","s":"5.0","d":"0","a":"60,61,59,104","l":"89 Barramundi Circuit, Burdell QLD 4818, Australia"}
+,{"p":"slapandpickle","x":"-16.9231245","y":"145.7741742","n":"Slap and Pickle Sandwich & Tapas Bar","t":"2","c":"51","s":"4.7","d":"0","a":"60,61,59,104","l":"62 Shields St, Cairns City QLD 4870, Australia"}
+,{"p":"blvktempletattoo","x":"-16.922754","y":"145.7756783","n":"Blvk Temple Tattoo","t":"999","c":"38","s":"4.8","d":"0","a":"60,61,59,104","l":"Shop 3/87 Lake St, Cairns City QLD 4870, Australia"}
+,{"p":"australianway","x":"-27.386369","y":"153.119478","n":"Australian Way","t":"4","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"Shop 4C20 Departures Lvl 4 Brisbane International Airport, Eagle Farm QLD 4009, Australia"}
+,{"p":"carryonluggage","x":"-27.4040072","y":"153.1093885","n":"Carry On Luggage Store","t":"4","c":"1","s":"1.0","d":"0","a":"60,61,59,104","l":"Shop 4L01 Departures Level, Brisbane Intenational Airport, Eagle Farm QLD 4009, Australia"}
+,{"p":"jamrocjamaican","x":"-28.045365","y":"153.407605","n":"JAMROC Jamaican Jerk Chicken","t":"0","c":"97","s":"4.6","d":"0","a":"60,61,59,104","l":"Q Super Centre c51a Corner of Bermuda &, Markeri St, Mermaid Waters QLD 4218, Australia"}
+,{"p":"blackmarkettattoo","x":"-28.0786845","y":"153.3894605","n":"Blackmarket Tattoo Co | Gold Coast Tattoo Studio","t":"999","c":"76","s":"5.0","d":"0","a":"60,61,59,104","l":"1/76 Robina Town Centre Dr, Robina QLD 4226, Australia"}
+,{"p":"createbyrencounter","x":"-33.8307092","y":"151.2238517","n":"CREATE by ReNCOUNTER - Hair Salon","t":"999","c":"0","s":"0.0","d":"0","a":"60,61,59,104","l":"shop 1/3-5 Waters Rd, Neutral Bay NSW 2089, Australia"}
+,{"p":"vrcorner","x":"-33.885529","y":"151.202483","n":"VR Corner","t":"999","c":"51","s":"4.1","d":"0","a":"60,61,59,104","l":"49 Regent St, Chippendale NSW 2008, Australia"}
+,{"p":"cintacottage","x":"-38.3683307","y":"145.7049483","n":"Cinta Cottage","t":"5","c":"5","s":"5.0","d":"0","a":"60,61,59,104","l":"15 Victoria Rd, Loch VIC 3945, Australia"}
+,{"p":"hansasteakgrill","x":"-38.007529","y":"145.095691","n":"Hansa’s Steak & Grill","t":"0","c":"117","s":"4.7","d":"0","a":"60,61,59,104","l":"24 Percy St, Mordialloc VIC 3195, Australia"}
+,{"p":"sensuspa","x":"-37.8152048","y":"144.9565878","n":"Sensu Spa","t":"999","c":"72","s":"4.6","d":"0","a":"60,61,59,104","l":"T03/570 Bourke St, Melbourne VIC 3000, Australia"}
 ,{"p":"baguettemenot","x":"-31.946842","y":"115.8255113","n":"Baguette Me Not","t":"0","c":"77","s":"4.6","d":"0","a":"59,104,104,104","l":"Unit 3/420 Hay St, Subiaco WA 6008, Australia"}
 ,{"p":"thewinedoctor","x":"-33.877267","y":"151.204406","n":"The Wine Doctor","t":"4","c":"14","s":"4.6","d":"0","a":"59,104,104,104","l":"Suite 5, Level 5 383/377 Sussex St, Sydney NSW 2000, Australia"}
 ,{"p":"cafe935","x":"-31.9889582","y":"115.9056771","n":"Cafe935","t":"2","c":"88","s":"4.1","d":"0","a":"59,104,104,104","l":"935 Albany Hwy, East Victoria Park WA 6101, Australia"}
@@ -689,7 +689,7 @@
 ,{"p":"altosdeleste","x":"7.7724126","y":"-72.209355","n":"Panaderia Altos del Este","t":"1","c":"69","s":"4.0","d":"0","a":"115,116,117,142","l":"San Cristobal, Tachira, Venezuela"}
 ,{"p":"buddhabar","x":"10.4806044","y":"-66.8553371","n":"Rest. Buddha Bar Caracas","t":"0","c":"370","s":"4.5","d":"0","a":"67,109,56,138","l":"212 Calle Orinoco, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"wowfles","x":"10.5193129","y":"-66.9381218","n":"WOWFLES Venezuela","t":"0","c":"9","s":"3.7","d":"0","a":"59,104,104,104","l":"Calle Ruperto Lugo 1A, Caracas 1030, Capital District, Venezuela"}
-,{"p":"paradisesushi","x":"10.481771","y":"-66.938941","n":"Paradise Sushi Lounge","t":"0","c":"83","s":"4.5","d":"0","a":"100,94,55,99","l":"1020 Av Paez, El Paraiso, Frente a la plaza Washington, Caracas 1020, Distrito Capital, Venezuela"}
+,{"p":"paradisesushi","x":"10.481771","y":"-66.938941","n":"Paradise Sushi Lounge","t":"0","c":"83","s":"4.5","d":"0","a":"100,94,55,67","l":"1020 Av Paez, El Paraiso, Frente a la plaza Washington, Caracas 1020, Distrito Capital, Venezuela"}
 ,{"p":"sweetfamily","x":"10.4916371","y":"-66.8770576","n":"Sweet Family","t":"2","c":"0","s":"0.0","d":"0","a":"59,133,29,9","l":"Torre Citibank, Av. Casanova, Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"gourmetplanet","x":"10.4974526","y":"-66.8229002","n":"GourmetPlanet - C.C. Boleita Center","t":"0","c":"9","s":"4.8","d":"0","a":"15,8,55,138","l":"Caracas 1071, Miranda, Venezuela"}
 ,{"p":"amarelocoffeeandtea","x":"10.4688787","y":"-64.1770069","n":"Amarelo Coffee&Tea - CC hipergalerias","t":"2","c":"36","s":"4.8","d":"0","a":"59,29,136,8","l":"CC hipergalerias, Avenida Humboldt, Cumaná 6101, Sucre, Venezuela"}
@@ -866,12 +866,12 @@
 ,{"p":"pollochef","x":"6.1686592","y":"-75.5875762","n":"PolloChef","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle 38A Sur #41 65, Envigado, Antioquia, Colombia"}
 ,{"p":"publichouselaureles","x":"6.2461097","y":"-75.5960508","n":"Public House Laureles","t":"0","c":"129","s":"4.3","d":"0","a":"59,104,104,104","l":"Av. Nutibara ##75-14, Medellín, Antioquia, Colombia"}
 ,{"p":"bearspizzeria","x":"6.2460827","y":"-75.5967351","n":"Bear's Pizzería","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cq. 75 ##39-99 a 39-5, Medellín, Antioquia, Colombia"}
-,{"p":"sushiworld","x":"6.1773127","y":"-75.5864123","n":"Sushi World Envigado","t":"0","c":"291","s":"4.6","d":"0","a":"59,104,104,104","l":"Cl. 30a Sur ## 44 A 57, Envigado, Antioquia, Colombia"}
+,{"p":"sushiworld","x":"6.1773127","y":"-75.5864123","n":"Sushi World Envigado","t":"0","c":"291","s":"4.6","d":"0","a":"59,67,104,104","l":"Cl. 30a Sur ## 44 A 57, Envigado, Antioquia, Colombia"}
 ,{"p":"arpoe","x":"7.8935369","y":"-72.4995075","n":"Arpoe","t":"2","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Av. 0 ##4 - 56, Cúcuta, Norte de Santander, Colombia"}
 ,{"p":"llanerada","x":"7.8378075","y":"-72.508783","n":"La llanerada de juancho","t":"0","c":"68","s":"4.6","d":"0","a":"59,104,104,104","l":"Los Patios, Norte de Santander, Colombia"}
 ,{"p":"elbalcondelasdelicias","x":"6.2392422","y":"-75.5861778","n":"El Balcón De Las Delicias","t":"0","c":"2","s":"5.0","d":"0","a":"59,104,104,104","l":"Av. 33 #65C-117, Medellín, Antioquia, Colombia"}
 ,{"p":"DELIYOGUEN","x":"6.2460084","y":"-75.5956268","n":"DELIYOGUEN","t":"1","c":"172","s":"4.6","d":"0","a":"59,104,104,104","l":"Av. 74B ###39B - 28, Medellín, Antioquia, Colombia"}
-,{"p":"sushiworldmedellin","x":"6.2104155","y":"-75.5724379","n":"SUSHI WORLD MEDELLIN","t":"0","c":"221","s":"4.5","d":"0","a":"59,104,104,104","l":"Carrera 77, Calle 9#43b30 ##39 - 72, Medellín, Antioquia, Colombia"}
+,{"p":"sushiworldmedellin","x":"6.2104155","y":"-75.5724379","n":"SUSHI WORLD MEDELLIN","t":"0","c":"221","s":"4.5","d":"0","a":"59,67,104,104","l":"Carrera 77, Calle 9#43b30 ##39 - 72, Medellín, Antioquia, Colombia"}
 ,{"p":"sazonpaisa","x":"6.209122","y":"-75.5678452","n":"SAZON PAISA","t":"0","c":"34","s":"3.8","d":"0","a":"59,104,104,104","l":"BaoBar Singaporean Restaurant, 9a, Parque Lleras, Medellín, Antioquia, Colombia"}
 ,{"p":"elcarrielpizzas","x":"6.1708533","y":"-75.627928","n":"El Carriel Burger & Grill Pizzeria","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Cl. 35 #61-11, Itagüi, Antioquia, Colombia"}
 ,{"p":"elcarrielburger","x":"6.2094276","y":"-75.5763151","n":"El Carriel Burger & Grill Las Vegas","t":"0","c":"1","s":"1.0","d":"0","a":"59,104,104,104","l":"Cra. 48 #5-18, Medellín, Antioquia, Colombia"}
@@ -902,7 +902,7 @@
 ,{"p":"andromedavip","x":"6.2388293","y":"-75.598911","n":"ANDROMEDA vip","t":"2","c":"10","s":"4.9","d":"0","a":"115,16,8,31","l":"Av. 33 #78-231 a 78-1, Medellín, Antioquia, Colombia"}
 ,{"p":"laparilla3380","x":"6.2386487","y":"-75.6017914","n":"La Parrilla 80-33 Carnes","t":"0","c":"283","s":"4.6","d":"0","a":"59,104,104,104","l":"Av. 33 #80b-13, Medellín, Antioquia, Colombia"}
 ,{"p":"mrfood73","x":"6.2481004","y":"-75.5924077","n":"Mr. Food","t":"0","c":"3","s":"3.0","d":"0","a":"59,104,104,104","l":"Cra. 73 ##41-2 a 41-88, Medellín, Antioquia, Colombia"}
-,{"p":"avilasushi","x":"6.2423592","y":"-75.5832214","n":"Avila Sushi","t":"0","c":"3","s":"3.7","d":"0","a":"59,104,104,104","l":"Cra. 65 ###38-01, Medellín, Antioquia, Colombia"}
+,{"p":"avilasushi","x":"6.2423592","y":"-75.5832214","n":"Avila Sushi","t":"0","c":"3","s":"3.7","d":"0","a":"59,67,104,104","l":"Cra. 65 ###38-01, Medellín, Antioquia, Colombia"}
 ,{"p":"mdechorizo","x":"6.2410167","y":"-75.5968276","n":"MDE Chorizo Company","t":"0","c":"301","s":"4.5","d":"0","a":"59,104,104,104","l":"Cra. 76 ##34-16, Medellín, Antioquia, Colombia"}
 ,{"p":"paellasnacks","x":"6.2103259","y":"-75.571404","n":"Paella Snack's","t":"0","c":"3","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 43b ## 09 - 19, Medellín, Antioquia, Colombia"}
 ,{"p":"latineria","x":"6.2099726","y":"-75.5713607","n":"Latinería","t":"2","c":"585","s":"4.6","d":"0","a":"59,139,133,55","l":"Cl. 9 #43b 17, Medellín, Antioquia, Colombia"}
