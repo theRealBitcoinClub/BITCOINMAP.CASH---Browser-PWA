@@ -1,4 +1,12 @@
-[{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
+[{"p":"bekinekool","x":"13.7142306","y":"100.596799","n":"BKK - Be Kine Kool","t":"0","c":"8","s":"5.0","d":"0","a":"59,60,61,104","l":"58/2 Pridi Banomyong Soi 2, Phra Khanong Nuea, Watthana, Bangkok 10110, Tailandia"}
+,{"p":"kemono","x":"-30.041175","y":"-51.219156","n":"Kemono Sushi","t":"0","c":"726","s":"4.5","d":"0","a":"59,60,61,104","l":"R. Joaquim Nabuco, 55 - Cidade Baixa, Porto Alegre - RS, 90050-340, Brasil"}
+,{"p":"misterx","x":"-30.0418219","y":"-51.2213975","n":"Mister X","t":"0","c":"945","s":"4.1","d":"0","a":"59,60,61,104","l":"R. José do Patrocínio, 827 - Cidade Baixa, Porto Alegre - RS, 90050-001, Brasil"}
+,{"p":"insoniabar","x":"-30.0417259","y":"-51.2211081","n":"IN Sônia Bar","t":"2","c":"275","s":"4.5","d":"0","a":"59,60,61,104","l":"R. José do Patrocínio, 822 - Cidade Baixa, Porto Alegre - RS, 90050-000, Brasil"}
+,{"p":"madrugasbar","x":"-30.0315877","y":"-51.2242712","n":"Madrugas Bar e Restaurante","t":"0","c":"29","s":"4.6","d":"0","a":"59,60,61,104","l":"Av. Sen. Salgado Filho, 359 - Centro Histórico, Porto Alegre - RS, 90010-490, Brasil"}
+,{"p":"theporterhouse","x":"47.3501422","y":"8.7197637","n":"The Porter House","t":"2","c":"4.1","s":"677","d":"0","a":"59,60,61,104","l":"Brunnenstrasse 1, 8610 Uster, Swiss"}
+,{"p":"maysbangkok","x":"13.7351171","y":"100.55796","n":"MAYs Bangkok","t":"0","c":"78","s":"4.8","d":"0","a":"59,60,61,104","l":"Sukhumvit 12 Alley, Khlong Toei, Khet Khlong Toei, Bangkok 10110, Thailand"}
+,{"p":"mayspattaya","x":"12.9052937","y":"100.8731365","n":"MAYs Pattaya","t":"0","c":"371","s":"4.5","d":"0","a":"59,60,61,104","l":"เลขที่ 315/73 Bang Lamung District, Chon Buri 20150, Pattaya, Thailand"}
+,{"p":"baanrimnaam","x":"13.7334779","y":"100.5118317","n":"Baan Rim Naam","t":"0","c":"47","s":"4.5","d":"0","a":"59,60,61,104","l":"378 Soi Wanit 2, Talat Noi, Samphanthawong, Bangkok 10100, Thailand"}
 ,{"p":"trakisabanagrande","x":"10.4956528","y":"-66.879833","n":"Traki - Sabana Grande","t":"4","c":"637","s":"4.0","d":"0","a":"53,65,54,107","l":"Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"trakisanmartin","x":"10.4927233","y":"-66.9378026","n":"Traki - Av. San Martin","t":"4","c":"1047","s":"4.1","d":"0","a":"53,65,54,107","l":"Caracas 1020, Distrito Capital, Venezuela"}
 ,{"p":"trakilosilustres","x":"10.4825164","y":"-66.8962459","n":"Traki - Los Ilustres","t":"4","c":"357","s":"3.9","d":"0","a":"53,65,54,107","l":"Caracas 1041, Distrito Capital, Venezuela"}
@@ -32,19 +40,10 @@
 ,{"p":"trakivalera","x":"9.3136648","y":"-70.6092791","n":"Traki Valera","t":"4","c":"201","s":"4.1","d":"0","a":"53,65,54,107","l":"Calle 10, Valera 3101, Trujillo, Venezuela"}
 ,{"p":"trakiurena","x":"7.9180469","y":"-72.4511717","n":"Ciudad Traki Ureña","t":"4","c":"140","s":"3.8","d":"0","a":"53,65,54,107","l":"Calle 8, Ureña 5048, Táchira, Venezuela"}
 ,{"p":"trakiseptima","x":"7.7720617","y":"-72.2309983","n":"TRAKI - Septima Avenida","t":"4","c":"234","s":"3.9","d":"0","a":"53,65,54,107","l":"Séptima Avenida, San Cristóbal 5001, Táchira, Venezuela"}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
+,{"p":"cafedavinci","x":"48.034866","y":"14.20937","n":"Cafe Da Vinci - Cafeteria","t":"2","c":"158","s":"4.5","d":"0","a":"59,60,61,104","l":"Hauptpl. 13, 4540 Bad Hall, Austria"}
 ,{"p":"picosburgerbar","x":"8.5603316","y":"-71.2366702","n":"Picos Burgers & Bar","t":"0","c":"14","s":"4.9","d":"0","a":"59,60,61,104","l":"Ejido 5111, Mérida, Venezuela"}
-,{"p":"dolceandbake","x":"8.5642667","y":"-71.1906173","n":"Dolce and Bake","t":"0","c":"267","s":"4.5","d":"0","a":"59,60,61,104","l":""}
-,{"p":"comfortbyharlan","x":"12.9220222","y":"100.8623564","n":"Comfort by Harlan","t":"0","c":"114","s":"4.5","d":"0","a":"59,60,61,104","l":"378/531 Moo 12, Kasetsin Soi 2, Pattaya City, Bang Lamung District, Chon Buri 20260, Tailandia"}
+,{"p":"dolceandbake","x":"8.5642667","y":"-71.1906173","n":"Dolce and Bake","t":"0","c":"267","s":"4.5","d":"0","a":"59,60,61,104","l":"Mérida 5115, Mérida, Venezuela"}
+,{"p":"comfortbyharlan","x":"12.9220222","y":"100.8623564","n":"Comfort by Harlan","t":"0","c":"114","s":"4.5","d":"0","a":"59,60,61,104","l":"378/531 Moo 12, Kasetsin Soi 2, Pattaya City, Bang Lamung District, Chon Buri 20260, Thailand"}
 ,{"p":"plazamayorshoppingmall","x":"8.5976773","y":"-71.1500039","n":"Plaza Mayor Shopping Mall","t":"4","c":"633","s":"3.9","d":"0","a":"59,60,61,104","l":"Av. Las Américas, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"cchistorycenter","x":"8.5972814","y":"-71.1459093","n":"C.C History Center","t":"4","c":"405","s":"4.2","d":"0","a":"59,60,61,104","l":"Calle 24 Rangel, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"piemonteshopping","x":"8.5812016","y":"-71.1812675","n":"Pie Monte Shopping Center - Centro Comercial Pie de Monte","t":"4","c":"1563","s":"4.4","d":"0","a":"59,60,61,104","l":"Av. los Próceres, Mérida 5101, Mérida, Venezuela"}
@@ -108,7 +107,7 @@
 ,{"p":"kosymassagecut","x":"13.7393499","y":"100.563207","n":"KOSY Massage & Cut","t":"999","c":"147","s":"4.9","d":"0","a":"91,27,104,104","l":"22/1 ซอย สุขุมวิท 23 แขวง คลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร 10110 - 22/1 Soi Sukhumvit 23, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand"}
 ,{"p":"welcomeinnvillaphuket","x":"7.81933","y":"98.337324","n":"Welcome inn Villa Phuket","t":"5","c":"18","s":"4.5","d":"0","a":"163,90,120,38","l":"Soi Wiset Suk 1. 97/55 Rawai Phuket 83130, Thailand"}
 ,{"p":"bgbvillas","x":"7.82748","y":"98.297501","n":"Kata On Sea by bGb Villas and Resorts","t":"5","c":"67","s":"4.1","d":"0","a":"163,31,24,27","l":"96/6 Taina Rd, Kata Center, Kata, Phuket, 83100, Thailand"}
-,{"p":"WelcomeInnKaronBeach","x":"7.849788","y":"98.295042","n":"Welcome inn Karon Beach","t":"5","c":"44","s":"4.3","d":"0","a":"163,31,24,27","l":"ถนน ปฏัก ตำบล กะรน อำเภอเมืองภูเก็ต ภูเก็ต 83100 - Patak Rd,526/21+22 Karon, Amphoe Mueang, Phuket 83100, Thailand"}
+,{"p":"welcomeinnkaronbeach","x":"7.849788","y":"98.295042","n":"Welcome inn Karon Beach","t":"5","c":"44","s":"4.3","d":"0","a":"163,31,24,27","l":"ถนน ปฏัก ตำบล กะรน อำเภอเมืองภูเก็ต ภูเก็ต 83100 - Patak Rd,526/21+22 Karon, Amphoe Mueang, Phuket 83100, Thailand"}
 ,{"p":"desmarsuepermarket","x":"41.0186312","y":"28.9462233","n":"سوبر ماركت تركي عربي Desmar Süpermarket","t":"3","c":"6","s":"4.3","d":"0","a":"4,17,114,115","l":"Akşemsettin, Sarıgüzel Cd. No:61, 34080 Fatih/İstanbul, Turquía"}
 ,{"p":"fruteriaayaritach","x":"10.515897","y":"-66.946133","n":"Frutería Aya Ritach","t":"3","c":"0","s":"0.0","d":"0","a":"4,17,114,115","l":"Bulevar Avenida España, Metro Plaza Sucre, Catia, Caracas 1030, Distrito Capital, Venezuela"}
 ,{"p":"lalima","x":"41.4059946","y":"2.1567663","n":"La Lima, comedor vegano","t":"0","c":"11","s":"5.0","d":"0","a":"3,5,6,11","l":"Carrer de l'Alzina, Barcelona, Spain"}
