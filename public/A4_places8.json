@@ -1,4 +1,26 @@
 [{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
+,{"p":"trakisabanagrande","x":"10.4956528","y":"-66.879833","n":"Traki - Sabana Grande","t":"4","c":"637","s":"4.0","d":"0","a":"53,65,54,107","l":"Caracas 1050, Distrito Capital, Venezuela"}
+,{"p":"trakisanmartin","x":"10.4927233","y":"-66.9378026","n":"Traki - Av. San Martin","t":"4","c":"1047","s":"4.1","d":"0","a":"53,65,54,107","l":"Caracas 1020, Distrito Capital, Venezuela"}
+,{"p":"trakilosilustres","x":"10.4825164","y":"-66.8962459","n":"Traki - Los Ilustres","t":"4","c":"357","s":"3.9","d":"0","a":"53,65,54,107","l":"Caracas 1041, Distrito Capital, Venezuela"}
+,{"p":"trakiciudad","x":"10.2100906","y":"-68.0073224","n":"Ciudad Traki","t":"4","c":"1126","s":"4.0","d":"0","a":"53,65,54,107","l":"Valencia 2001, Carabobo, Venezuela"}
+,{"p":"trakisandiego","x":"10.1837787","y":"-67.9760613","n":"Traki","t":"4","c":"846","s":"4.1","d":"0","a":"53,65,54,107","l":"C. C. Metropolis Shopping Valencia, II Etapa, Nivel Agua, San Diego, Estado Carabobo, San Diego, Carabobo, Venezuela"}
+,{"p":"trakivalenciacentro","x":"10.1799035","y":"-68.0050362","n":"Traki Valencia Centro","t":"4","c":"537","s":"3.8","d":"0","a":"53,65,54,107","l":"Avenida 102 Montes De Oca, Valencia 2001, Carabobo, Venezuela"}
+,{"p":"trakimaracay","x":"10.25303","y":"-67.6056006","n":"Traki Av. Bolivar","t":"4","c":"557","s":"3.9","d":"0","a":"53,65,54,107","l":"Maracay 2103, Aragua, Venezuela"}
+,{"p":"trakitiendas","x":"10.1863434","y":"-67.4615971","n":"Traki Tiendas","t":"4","c":"120","s":"4.0","d":"0","a":"53,65,54,107","l":"Cagua 2122, Aragua, Venezuela"}
+,{"p":"trakinegramatea","x":"10.2280111","y":"-67.3169105","n":"Traki C.C. Morichal","t":"4","c":"218","s":"3.9","d":"0","a":"53,65,54,107","l":"24 Calle 17, La Victoria 2121, Aragua, Venezuela"}
+,{"p":"trakicalabozo","x":"8.9312486","y":"-67.4279693","n":"Traki Calabozo","t":"4","c":"107","s":"4.0","d":"0","a":"53,65,54,107","l":"Carrera 12 San Jose, Calabozo 2312, Guárico, Venezuela"}
+,{"p":"trakivallepascua","x":"9.2222684","y":"-66.033985","n":"Traki Valle de la Pascua","t":"4","c":"4","s":"4.5","d":"0","a":"53,65,54,107","l":"Troncal 13, Valle de la Pascua 2350, Guárico, Venezuela"}
+,{"p":"trakimaiquetia","x":"10.5944344","y":"-66.9525494","n":"Traki Maiquetia","t":"4","c":"4.0","s":"263","d":"0","a":"53,65,54,107","l":"Frente a la Plaza Lourdes, Calle Real de Maiquetía, Maiquetía, Vargas, Venezuela"}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
+,{"p":"traki","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"53,65,54,107","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
@@ -6,9 +28,12 @@
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
 ,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"","x":"","y":"","n":"","t":"","c":"","s":"","d":"0","a":"59,60,61,104","l":""}
-,{"p":"piemonteshopping","x":"8.5812016","y":"-71.1812675","n":"Pie Monte Shopping Center - Centro Comercial Pie de Monte","t":"","c":"1563","s":"4.4","d":"0","a":"59,60,61,104","l":"Av. los Próceres, Mérida 5101, Mérida, Venezuela"}
+,{"p":"picosburgerbar","x":"8.5603316","y":"-71.2366702","n":"Picos Burgers & Bar","t":"0","c":"14","s":"4.9","d":"0","a":"59,60,61,104","l":"Ejido 5111, Mérida, Venezuela"}
+,{"p":"dolceandbake","x":"8.5642667","y":"-71.1906173","n":"Dolce and Bake","t":"0","c":"267","s":"4.5","d":"0","a":"59,60,61,104","l":""}
+,{"p":"comfortbyharlan","x":"12.9220222","y":"100.8623564","n":"Comfort by Harlan","t":"0","c":"114","s":"4.5","d":"0","a":"59,60,61,104","l":"378/531 Moo 12, Kasetsin Soi 2, Pattaya City, Bang Lamung District, Chon Buri 20260, Tailandia"}
+,{"p":"plazamayorshoppingmall","x":"8.5976773","y":"-71.1500039","n":"Plaza Mayor Shopping Mall","t":"4","c":"633","s":"3.9","d":"0","a":"59,60,61,104","l":"Av. Las Américas, Mérida 5101, Mérida, Venezuela"}
+,{"p":"cchistorycenter","x":"8.5972814","y":"-71.1459093","n":"C.C History Center","t":"4","c":"405","s":"4.2","d":"0","a":"59,60,61,104","l":"Calle 24 Rangel, Mérida 5101, Mérida, Venezuela"}
+,{"p":"piemonteshopping","x":"8.5812016","y":"-71.1812675","n":"Pie Monte Shopping Center - Centro Comercial Pie de Monte","t":"4","c":"1563","s":"4.4","d":"0","a":"59,60,61,104","l":"Av. los Próceres, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"maxcolchonH","x":"40.5064285","y":"-3.3319295","n":"Maxcolchon H - Mattress Store","t":"4","c":"184","s":"4.4","d":"0","a":"60,59,61,63","l":"CC Quadernillos, Av. de Don Juan Tenorio, S/N, Local B12, 28805 Alcalá de Henares, Madrid, Spain"}
 ,{"p":"maxcolchonG","x":"40.4290861","y":"-3.6674877","n":"Maxcolchon G - Mattress Store","t":"4","c":"121","s":"4.4","d":"0","a":"60,59,61,63","l":"Calle de Alcalá, 201, 28028 Madrid, Spain"}
 ,{"p":"maxcolchonF","x":"40.4553321","y":"-3.702353","n":"Maxcolchon F - Mattress Store","t":"4","c":"130","s":"4.6","d":"0","a":"60,59,61,63","l":"Calle de Bravo Murillo, 194, bajo, 28020 Madrid, Spain"}
