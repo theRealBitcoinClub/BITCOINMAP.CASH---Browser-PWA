@@ -509,7 +509,6 @@
 ,{"p":"aspireclub","x":"13.7296126","y":"100.571307","n":"Aspire Club Phromphong","t":"999","c":"98","s":"5.0","d":"0","a":"62,59,60,61","l":"725 Sukhumvit Road Metropolis Building, 8th Floor, BTS Skytrain, Bangkok 10110, Thailand"}
 ,{"p":"themissingburro","x":"13.7306573","y":"100.580485","n":"The Missing Burro","t":"0","c":"297","s":"4.6","d":"0","a":"62,59,60,61","l":"145 Sing Waet Lom Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
 ,{"p":"alexandergermaneatery","x":"13.7301012","y":"100.5900608","n":"Alexander's German Eatery","t":"0","c":"167","s":"4.5","d":"0","a":"62,59,60,61","l":"37/3 Charoen Chai Alley, Khongtan Neua, Khet Watthana, Krung Thep Maha Nakhon, Bangkok 10110, Thailand"}
-,{"p":"thecapsule","x":"13.7243709","y":"100.5834739","n":"The CAPSULE - UnionSPACE Bangkok","t":"999","c":"56","s":"4.7","d":"0","a":"62,59,60,61","l":"30 Soi Sukhumvit 61, Krung Thep Maha Nakhon, Bangkok 10110, Thailand"}
 ,{"p":"elitefightclub","x":"13.7267141","y":"100.5731067","n":"Elite Fight Club - Muay Thai Boxing Gym","t":"999","c":"45","s":"4.8","d":"0","a":"62,59,60,61","l":"758/22 วอเตอร์ไดมอนด์ ทาวเวอร์ Sukhumvit 30/1 Alley, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand"}
 ,{"p":"blackpagoda","x":"13.7287614","y":"100.5321282","n":"Black Pagoda - Strip Club","t":"2","c":"29","s":"4.2","d":"0","a":"62,59,60,61","l":"Phat Pong 2 Alley, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"}
 ,{"p":"whiteline","x":"13.7273797","y":"100.5305236","n":"Whiteline","t":"2","c":"83","s":"4.1","d":"0","a":"62,59,60,61","l":"Silom 8 Alley, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon, Bangkok 10500, Thailand"}
@@ -567,7 +566,7 @@
 ,{"p":"coincafeandbar","x":"11.5483212","y":"104.9205696","n":"Coin Cafe & Bar","t":"0","c":"36","s":"4.6","d":"0","a":"60,61,59,104","l":"#5D Eo Street 360, 12304, Phnom Penh, Cambodia"}
 ,{"p":"aubergedusoleil","x":"10.6067083","y":"104.1803797","n":"Auberge du Soleil","t":"5","c":"102","s":"4.5","d":"0","a":"59,104,104,104","l":"23 Street 728, Krong Kampot, Cambodia"}
 ,{"p":"gringoloco","x":"-28.0012452","y":"153.4309136","n":"Gringo Loco Cantina","t":"2","c":"168","s":"3.6","d":"0","a":"156,129,138,31","l":"Esplanade, Surfers Paradise QLD, Australia"}
-,{"p":"charlato","x":"43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"60,61,59,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
+,{"p":"charlato","x":"-43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"60,61,59,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
 ,{"p":"restaurant1903","x":"-31.9444011","y":"115.8634259","n":"1903 Restaurant","t":"0","c":"116","s":"4.3","d":"0","a":"67,100,97,143","l":"Robinson Avenue, Perth WA, Australia"}
 ,{"p":"urbanpizza","x":"-33.885727","y":"151.177249","n":"Urban Pizza Bar","t":"1","c":"83","s":"4.4","d":"0","a":"14,102,109,110","l":"Layton Street, Camperdown NSW, Australia"}
 ,{"p":"verucasalt","x":"-37.885791","y":"144.987916","n":"Veruca Salt","t":"0","c":"84","s":"4.5","d":"0","a":"8,9,11,124","l":"Ormond Road, Elwood VIC, Australia"}

@@ -7,6 +7,7 @@
 ,{"p":"maysbangkok","x":"13.7351171","y":"100.55796","n":"MAYs Bangkok","t":"0","c":"78","s":"4.8","d":"0","a":"59,60,61,104","l":"Sukhumvit 12 Alley, Khlong Toei, Khet Khlong Toei, Bangkok 10110, Thailand"}
 ,{"p":"mayspattaya","x":"12.9052937","y":"100.8731365","n":"MAYs Pattaya","t":"0","c":"371","s":"4.5","d":"0","a":"59,60,61,104","l":"เลขที่ 315/73 Bang Lamung District, Chon Buri 20150, Pattaya, Thailand"}
 ,{"p":"baanrimnaam","x":"13.7334779","y":"100.5118317","n":"Baan Rim Naam","t":"0","c":"47","s":"4.5","d":"0","a":"59,60,61,104","l":"378 Soi Wanit 2, Talat Noi, Samphanthawong, Bangkok 10100, Thailand"}
+,{"p":"comfortbyharlan","x":"12.9220222","y":"100.8623564","n":"Comfort by Harlan","t":"0","c":"114","s":"4.5","d":"0","a":"59,60,61,104","l":"378/531 Moo 12, Kasetsin Soi 2, Pattaya City, Bang Lamung District, Chon Buri 20260, Thailand"}
 ,{"p":"trakisabanagrande","x":"10.4956528","y":"-66.879833","n":"Traki - Sabana Grande","t":"4","c":"637","s":"4.0","d":"0","a":"53,65,54,107","l":"Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"trakisanmartin","x":"10.4927233","y":"-66.9378026","n":"Traki - Av. San Martin","t":"4","c":"1047","s":"4.1","d":"0","a":"53,65,54,107","l":"Caracas 1020, Distrito Capital, Venezuela"}
 ,{"p":"trakilosilustres","x":"10.4825164","y":"-66.8962459","n":"Traki - Los Ilustres","t":"4","c":"357","s":"3.9","d":"0","a":"53,65,54,107","l":"Caracas 1041, Distrito Capital, Venezuela"}
@@ -43,7 +44,6 @@
 ,{"p":"cafedavinci","x":"48.034866","y":"14.20937","n":"Cafe Da Vinci - Cafeteria","t":"2","c":"158","s":"4.5","d":"0","a":"59,60,61,104","l":"Hauptpl. 13, 4540 Bad Hall, Austria"}
 ,{"p":"picosburgerbar","x":"8.5603316","y":"-71.2366702","n":"Picos Burgers & Bar","t":"0","c":"14","s":"4.9","d":"0","a":"59,60,61,104","l":"Ejido 5111, Mérida, Venezuela"}
 ,{"p":"dolceandbake","x":"8.5642667","y":"-71.1906173","n":"Dolce and Bake","t":"0","c":"267","s":"4.5","d":"0","a":"59,60,61,104","l":"Mérida 5115, Mérida, Venezuela"}
-,{"p":"comfortbyharlan","x":"12.9220222","y":"100.8623564","n":"Comfort by Harlan","t":"0","c":"114","s":"4.5","d":"0","a":"59,60,61,104","l":"378/531 Moo 12, Kasetsin Soi 2, Pattaya City, Bang Lamung District, Chon Buri 20260, Thailand"}
 ,{"p":"plazamayorshoppingmall","x":"8.5976773","y":"-71.1500039","n":"Plaza Mayor Shopping Mall","t":"4","c":"633","s":"3.9","d":"0","a":"59,60,61,104","l":"Av. Las Américas, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"cchistorycenter","x":"8.5972814","y":"-71.1459093","n":"C.C History Center","t":"4","c":"405","s":"4.2","d":"0","a":"59,60,61,104","l":"Calle 24 Rangel, Mérida 5101, Mérida, Venezuela"}
 ,{"p":"piemonteshopping","x":"8.5812016","y":"-71.1812675","n":"Pie Monte Shopping Center - Centro Comercial Pie de Monte","t":"4","c":"1563","s":"4.4","d":"0","a":"59,60,61,104","l":"Av. los Próceres, Mérida 5101, Mérida, Venezuela"}
@@ -509,7 +509,6 @@
 ,{"p":"aspireclub","x":"13.7296126","y":"100.571307","n":"Aspire Club Phromphong","t":"999","c":"98","s":"5.0","d":"0","a":"62,59,60,61","l":"725 Sukhumvit Road Metropolis Building, 8th Floor, BTS Skytrain, Bangkok 10110, Thailand"}
 ,{"p":"themissingburro","x":"13.7306573","y":"100.580485","n":"The Missing Burro","t":"0","c":"297","s":"4.6","d":"0","a":"62,59,60,61","l":"145 Sing Waet Lom Alley, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand"}
 ,{"p":"alexandergermaneatery","x":"13.7301012","y":"100.5900608","n":"Alexander's German Eatery","t":"0","c":"167","s":"4.5","d":"0","a":"62,59,60,61","l":"37/3 Charoen Chai Alley, Khongtan Neua, Khet Watthana, Krung Thep Maha Nakhon, Bangkok 10110, Thailand"}
-,{"p":"thecapsule","x":"13.7243709","y":"100.5834739","n":"The CAPSULE - UnionSPACE Bangkok","t":"999","c":"56","s":"4.7","d":"0","a":"62,59,60,61","l":"30 Soi Sukhumvit 61, Krung Thep Maha Nakhon, Bangkok 10110, Thailand"}
 ,{"p":"elitefightclub","x":"13.7267141","y":"100.5731067","n":"Elite Fight Club - Muay Thai Boxing Gym","t":"999","c":"45","s":"4.8","d":"0","a":"62,59,60,61","l":"758/22 วอเตอร์ไดมอนด์ ทาวเวอร์ Sukhumvit 30/1 Alley, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand"}
 ,{"p":"blackpagoda","x":"13.7287614","y":"100.5321282","n":"Black Pagoda - Strip Club","t":"2","c":"29","s":"4.2","d":"0","a":"62,59,60,61","l":"Phat Pong 2 Alley, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"}
 ,{"p":"whiteline","x":"13.7273797","y":"100.5305236","n":"Whiteline","t":"2","c":"83","s":"4.1","d":"0","a":"62,59,60,61","l":"Silom 8 Alley, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon, Bangkok 10500, Thailand"}
@@ -567,7 +566,7 @@
 ,{"p":"coincafeandbar","x":"11.5483212","y":"104.9205696","n":"Coin Cafe & Bar","t":"0","c":"36","s":"4.6","d":"0","a":"60,61,59,104","l":"#5D Eo Street 360, 12304, Phnom Penh, Cambodia"}
 ,{"p":"aubergedusoleil","x":"10.6067083","y":"104.1803797","n":"Auberge du Soleil","t":"5","c":"102","s":"4.5","d":"0","a":"59,104,104,104","l":"23 Street 728, Krong Kampot, Cambodia"}
 ,{"p":"gringoloco","x":"-28.0012452","y":"153.4309136","n":"Gringo Loco Cantina","t":"2","c":"168","s":"3.6","d":"0","a":"156,129,138,31","l":"Esplanade, Surfers Paradise QLD, Australia"}
-,{"p":"charlato","x":"43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"60,61,59,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
+,{"p":"charlato","x":"-43.5681747","y":"172.7590154","n":"Charlato","t":"1","c":"21","s":"5.0","d":"0","a":"60,61,59,104","l":"23 Marriner St, Sumner, Christchurch 8081, New Zealand"}
 ,{"p":"restaurant1903","x":"-31.9444011","y":"115.8634259","n":"1903 Restaurant","t":"0","c":"116","s":"4.3","d":"0","a":"67,100,97,143","l":"Robinson Avenue, Perth WA, Australia"}
 ,{"p":"urbanpizza","x":"-33.885727","y":"151.177249","n":"Urban Pizza Bar","t":"1","c":"83","s":"4.4","d":"0","a":"14,102,109,110","l":"Layton Street, Camperdown NSW, Australia"}
 ,{"p":"verucasalt","x":"-37.885791","y":"144.987916","n":"Veruca Salt","t":"0","c":"84","s":"4.5","d":"0","a":"8,9,11,124","l":"Ormond Road, Elwood VIC, Australia"}
