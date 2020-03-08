@@ -35,15 +35,15 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    { url: 'A4_places8.json', revision: '383681' },
-    { url: 'A1_jquery-3.3.1.min.js', revision: '383680' },
-    { url: 'A1_markerclusterer.min.js', revision: '383680' },
-    { url: 'A2_script.min.js', revision: '383680' },
-    { url: 'A1_maptilerlayer.js', revision: '383680' },
-    { url: 'A1_popper1.14.3.min.js', revision: '383680' },
-    { url: 'A1_noty.min.js', revision: '383680' },
-    { url: 'A1_noty.min.css', revision: '383680' },
-    { url: 'A1_bootstrap4.1.1.min.js', revision: '383680' },
-    { url: 'A1_bootstrap4.1.1.min.css', revision: '383680' },
-    { url: 'A3_styles.min.css', revision: '383680' }
+    { url: 'A5_places8.json', revision: '383682' },
+    { url: 'A1_jquery-3.3.1.min.js', revision: '383682' },
+    { url: 'A1_markerclusterer.min.js', revision: '383682' },
+    { url: 'A5_script.min.js', revision: '383682' },
+    { url: 'A1_maptilerlayer.js', revision: '383682' },
+    { url: 'A1_popper1.14.3.min.js', revision: '383682' },
+    { url: 'A1_noty.min.js', revision: '383682' },
+    { url: 'A1_noty.min.css', revision: '383682' },
+    { url: 'A1_bootstrap4.1.1.min.js', revision: '383682' },
+    { url: 'A1_bootstrap4.1.1.min.css', revision: '383682' },
+    { url: 'A3_styles.min.css', revision: '383682' }
 ]);
