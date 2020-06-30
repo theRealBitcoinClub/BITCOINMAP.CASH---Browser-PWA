@@ -179,6 +179,17 @@ var tagText = [
     'XPay ₿'
 ];
 
+function getQueryVariable(variable)
+{
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
+
 function loadIcons() {
     var xmlhttp = new XMLHttpRequest();
 
@@ -186,8 +197,15 @@ function loadIcons() {
         if (xmlhttp.readyState == XMLHttpRequest.DONE) { // XMLHttpRequest.DONE == 4
             if (xmlhttp.status == 200) {
                 var all_places = JSON.parse(xmlhttp.responseText);
+                //var filter = getQueryVariable("filter");
+                var bmapid = getQueryVariable("bmapid");
+                //var placesId = getQueryVariable("placesid");
+
                 for (var i = 0; i < all_places.length; i++) {
                     var place = all_places[i];
+                    if (bmapid != null && bmapid != '' && place.p != bmapid)
+                        continue;
+
                     place.position = new google
                         .maps
                         .LatLng(place.x, place.y);
