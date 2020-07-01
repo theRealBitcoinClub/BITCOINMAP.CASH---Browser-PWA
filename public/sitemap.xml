@@ -6,12 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
             <url>
             <loc>https://bitcoinmap.cash/</loc>
-            <lastmod>2019-05-26T20:16:05+00:00</lastmod>
+            <lastmod>2020-06-30T20:16:05+00:00</lastmod>
             <priority>1.00</priority>
             </url>
             <url>
             <loc>https://bitcoinmap.cash/teaser/</loc>
-            <lastmod>2019-05-26T20:16:05+00:00</lastmod>
+            <lastmod>2019-06-30T20:16:05+00:00</lastmod>
             <priority>0.80</priority>
             </url>
+    <url>
+        <loc>https://bitcoinmap.cash/satohiskodex.pdf</loc>
+        <lastmod>2019-06-30T20:16:05+00:00</lastmod>
+        <priority>0.50</priority>
+    </url>
+    <url>
+        <loc>https://bitcoinmap.cash/presentation-the-real-bitcoin-club-bch-bitcoin-cash-2018-03-03-20-00.pdf</loc>
+        <lastmod>2019-06-30T20:16:05+00:00</lastmod>
+        <priority>0.50</priority>
+    </url>
+    <url>
+        <loc>https://bitcoinmap.cash/Bitcoin-white-paper-satoshi-nakamoto.pdf</loc>
+        <lastmod>2019-06-30T20:16:05+00:00</lastmod>
+        <priority>0.50</priority>
+    </url>
+    <url>
+        <loc>https://bitcoinmap.cash/all-your-base-are-belong-to-bitcoin.pdf</loc>
+        <lastmod>2019-06-30T20:16:05+00:00</lastmod>
+        <priority>0.50</priority>
+    </url>
 </urlset>
