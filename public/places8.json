@@ -689,7 +689,7 @@
 ,{"p":"gold2020","x":"10.507029","y":"-66.9087953","n":"Distribuidora GOLD 2020 alimentos frutas supermercado","t":"3","c":"1","s":"5.0","d":"0","a":"19,5,50,65","l":"Avenida Fuerzas Armadas, Caracas 1010, Distrito Capital, Venezuela"}
 ,{"p":"crowndonuts","x":"10.4961772","y":"-66.8542148","n":"Crown Donuts","t":"1","c":"10","s":"4.9","d":"0","a":"59,146,109,139","l":"Mercado Municipal de Chacao, Calle Cecilio Acosta, Pueblo de Chacao Diagonal a la entrada del estacionamiento del, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"nonnabella","x":"10.4912958","y":"-66.8691137","n":"Nonna Bella Sabana Grande","t":"0","c":"341","s":"4.2","d":"0","a":"102,14,100,16","l":"Bulevar de Sabana Grande, Caracas 1060, Distrito Capital"}
-,{"p":"churchchickenccamericas","x":"10.4589722","y":"66.8292446","n":"Texas Chicken","t":"0","c":"30","s":"3.5","d":"0","a":"59,71,101,143","l":"Caracas 1061, Distrito Capital"}
+,{"p":"churchchickenccamericas","x":"10.4589722","y":"-66.8292446","n":"Texas Chicken","t":"0","c":"30","s":"3.5","d":"0","a":"59,71,101,143","l":"Caracas 1061, Distrito Capital"}
 ,{"p":"araxiburger","x":"10.484667","y":"-66.862312","n":"Araxi Burger Grill & Gourmet","t":"0","c":"645","s":"4.4","d":"0","a":"7,111,99,133","l":"Calle Madrid, Caracas 1080, Distrito Capital"}
 ,{"p":"doncarlos","x":"10.4949858","y":"-66.8784462","n":"Restaurant Don Carlos - C.C. Sabana Grande - sótano 43","t":"0","c":"0","s":"0.0","d":"0","a":"59,111,56,138","l":"Calle Villaflor, Caracas 1050, Distrito Capital"}
 ,{"p":"lapaleteriaartesanal","x":"10.495231","y":"-66.832742","n":"La Paletería Artesanal - C.C. Millennium","t":"1","c":"0","s":"0.0","d":"0","a":"59,109,18,8","l":"Los Dos Caminos, Caracas 1070, Miranda, Venezuela"}
