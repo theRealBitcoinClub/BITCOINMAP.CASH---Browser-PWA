@@ -110,7 +110,7 @@ $tagText = array('Spicy 🌶️',
                      'Chips 🍟',
                      'Italian 🇮🇹',
                      'Whiskey 🥃',
-                     ' - - - ', //This is number 104 the no tag indicator, currently not used //TODO hide this field from the suggestions
+                     ' - - - ', //This is number 104 the no tag indicator, currently not used
                      'Bourbon 🥃', //105
                      'Liquor 🥃',
                      'Men ♂️',
@@ -272,6 +272,7 @@ foreach ($json as $key => $value) {
       echo "<hr />";
     }
     $firstRun = false;
+    $directions = "https://google.com/maps/search/?api=1&query=" . $value['x'] . "," . $value['y'];
 
     echo "<div class='piccontainer'><img width='640' height='480' alt='" . $name . "' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
     echo "<h3 class='name'><a href='/?id=$id'>$name</a></h3>";
@@ -285,7 +286,7 @@ foreach ($json as $key => $value) {
     echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
     echo "<h4 class='discount'>$discountText[$discount]</h4>";
     echo "<h4 class='tags'>$tags</h4>";
-    echo "<div class='batschcontainer'><a href='https://realbitcoinclub.epizy.com/$id'><img alt='Google Maps Badge' class='batsch' src='google-maps-badge282x84.png' /></a>";
-    echo "<a href='https://bitcoinmap.cash/localbitcoinmap'><img class='batsch' alt='Google Play Badge' src='google-play-badge282x84.png' /></a></div>";
+    echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
+    echo "<a href='https://bitcoinmap.cash/localbitcoinmap' target='_blank'><img class='batsch' alt='Google Play Badge' src='img/badges/google-play-badge564x168.png' /></a></div>";
 }
 ?>
