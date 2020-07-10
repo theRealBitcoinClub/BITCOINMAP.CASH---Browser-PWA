@@ -201,6 +201,8 @@ echo "<br />";
 echo "<br />";
 echo "<br />";
 
+$hasPlaces = false;
+
 foreach ($json as $key => $value) {
     if ($filter === "restaurant" && $value['t'] !== "0") {
       continue;
@@ -275,6 +277,7 @@ foreach ($json as $key => $value) {
     if (!$firstRun) {
       echo "<hr />";
     }
+    $hasPlaces = true;
     $firstRun = false;
     $directions='#';
 
@@ -294,5 +297,9 @@ foreach ($json as $key => $value) {
     echo "<h4 class='tags'>$tags</h4>";
     echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
     echo "<a href='https://bitcoinmap.cash/localbitcoinmap' target='_blank'><img class='batsch' alt='Google Play Badge' src='img/badges/google-play-badge564x168.png' /></a></div>";
+}
+
+if (!$hasPlaces) {
+echo "<h3>Please select a different category, tag or location!</h3>";
 }
 ?>
