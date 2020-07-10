@@ -200,6 +200,8 @@ $imageType = $isChrome ? 'webp' : 'gif';
 echo "<br />";
 echo "<br />";
 echo "<br />";
+//echo "<div class='firstItem' width='100%' height='100px'></div>";
+
 
 $hasPlaces = false;
 

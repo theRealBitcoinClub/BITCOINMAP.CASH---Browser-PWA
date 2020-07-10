@@ -46,6 +46,10 @@
       }
     ],
     "redirects": [ {
+      "source": "/realbitcoinclub",
+      "destination": "http://realbitcoinclub.epizy.com/",
+      "type": 302
+    },{
       "source": "/places",
       "destination": "http://bitcoinplaces.epizy.com/",
       "type": 302
