@@ -272,6 +272,8 @@ foreach ($json as $key => $value) {
       echo "<hr />";
     }
     $firstRun = false;
+    $directions='#';
+
     $directions = "https://google.com/maps/search/?api=1&query=" . $value['x'] . "," . $value['y'];
 
     echo "<div class='piccontainer'><img width='640' height='480' alt='" . $name . "' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
@@ -286,7 +288,10 @@ foreach ($json as $key => $value) {
     echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
     echo "<h4 class='discount'>$discountText[$discount]</h4>";
     echo "<h4 class='tags'>$tags</h4>";
+    if ($value['x'] > 0)
     echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
+    else
+    echo "<div class='batschcontainer'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' />";
     echo "<a href='https://bitcoinmap.cash/localbitcoinmap' target='_blank'><img class='batsch' alt='Google Play Badge' src='img/badges/google-play-badge564x168.png' /></a></div>";
 }
 ?>
