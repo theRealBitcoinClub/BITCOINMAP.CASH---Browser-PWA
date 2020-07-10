@@ -97,6 +97,10 @@ a {
       width:100%;
     }
 
+    .error {
+      background-image: url('https://via.placeholder.com/640x480/EEEEEE/555555?text=IMAGE%20NOT%20AVAILABLE%20;-(');
+    }
+
     .loading {
       background: url('/spinner160grey.gif') 50% 50% no-repeat #EEE;
     }
