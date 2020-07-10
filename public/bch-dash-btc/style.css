@@ -26,6 +26,10 @@ a {
   color: #478558;
 }
 
+.batsch hover {
+  opacity: 0.5;
+}
+
 .actionbar {
   margin: 0px;
   padding: 0px;
