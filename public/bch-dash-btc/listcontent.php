@@ -234,10 +234,10 @@ foreach ($json as $key => $value) {
         continue;
       }
 
-       $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . $tagText[$s] . "</a> - ";
+       $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . $tagText[$s] . "</a>&nbsp;&nbsp;";
        array_push($tagsArray, $tagText[$s]);
     }
-    $tags = substr($tags, 0, strlen($tags) - 2);
+    $tags = substr($tags, 0, strlen($tags) - 6);
     $location = $value['l'];
     $splittedLocation = explode(", ",$location);
     $stars = $value['s'];
@@ -278,11 +278,11 @@ foreach ($json as $key => $value) {
 
     echo "<div class='piccontainer'><img width='640' height='480' alt='" . $name . "' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
     echo "<h3 class='name'><a href='/?id=$id'>$name</a></h3>";
-    echo "<div class='secondrow'><span class='reviews'>Reviews: $stars ($count)</span>";
+    echo "<div class='secondrow'><span class='reviews'>⭐ $stars</span>";
     if (strlen($category) > 1)
       echo "<a href='/?category=$category'><img class='icon' alt='" . $category . "' src='img/icons/icon$type.png' /><a/>";
     else
-      echo "<img class='icon'  alt='icon" . $type . "' src='img/icons/icon$type.png' />";
+      echo "<img class='icon' alt='icon" . $type . "' src='img/icons/icon$type.png' />";
     echo "<a class='location' href='/?location=$splittedLocation[0]'>$splittedLocation[0]</a>";
     echo ", <a class='location' href='/?location=$splittedLocation[1]'>$splittedLocation[1]</a>";
     echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
