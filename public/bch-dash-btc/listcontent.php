@@ -286,7 +286,7 @@ foreach ($json as $key => $value) {
     echo "<a class='location' href='/?location=$splittedLocation[0]'>$splittedLocation[0]</a>";
     echo ", <a class='location' href='/?location=$splittedLocation[1]'>$splittedLocation[1]</a>";
     echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
-    echo "<h4 class='discount'>$discountText[$discount]</h4>";
+    //echo "<h4 class='discount'>$discountText[$discount]</h4>";
     echo "<h4 class='tags'>$tags</h4>";
     if ($value['x'] > 0)
     echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
