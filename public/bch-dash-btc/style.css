@@ -97,6 +97,10 @@ a {
       width:100%;
     }
 
+    .loading {
+      background: url('/spinner160grey.gif') 50% 50% no-repeat #EEE;
+    }
+
     .batsch {
       height: auto;
       width: 48%;

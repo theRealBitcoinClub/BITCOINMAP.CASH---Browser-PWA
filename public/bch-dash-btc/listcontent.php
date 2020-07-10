@@ -214,10 +214,14 @@ foreach ($json as $key => $value) {
       continue;
     } else if ($filter === "hotel" && $value['t'] !== "5") {
       continue;
+    } else if ($filter === "hotel" && $value['t'] !== "99") {
+      continue;
     }
     $category = $categories[$value['t']];
 
     $id = $value['p'];
+    $posx = $value['x'];
+    $posy = $value['y'];
 
     if (isset($_GET['id']) && $param_id !== $id)
       continue;
@@ -274,9 +278,9 @@ foreach ($json as $key => $value) {
     $firstRun = false;
     $directions='#';
 
-    $directions = "https://google.com/maps/search/?api=1&query=" . $value['x'] . "," . $value['y'];
+    $directions = "https://google.com/maps/search/?api=1&query=" . $posx . "," . $posy;
 
-    echo "<div class='piccontainer'><img width='640' height='480' alt='" . $name . "' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
+    echo "<div width='640' height='480' class='piccontainer'><img width='640' height='480' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
     echo "<h3 class='name'><a href='/?id=$id'>$name</a></h3>";
     echo "<div class='secondrow'><span class='reviews'>⭐ $stars</span>";
     if (strlen($category) > 1)
@@ -288,10 +292,7 @@ foreach ($json as $key => $value) {
     echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
     //echo "<h4 class='discount'>$discountText[$discount]</h4>";
     echo "<h4 class='tags'>$tags</h4>";
-    if ($value['x'] > 0)
     echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
-    else
-    echo "<div class='batschcontainer'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' />";
     echo "<a href='https://bitcoinmap.cash/localbitcoinmap' target='_blank'><img class='batsch' alt='Google Play Badge' src='img/badges/google-play-badge564x168.png' /></a></div>";
 }
 ?>
