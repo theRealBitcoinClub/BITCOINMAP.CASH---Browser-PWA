@@ -290,9 +290,9 @@ foreach ($json as $key => $value) {
       echo "<a href='/?category=$category'><img class='icon' alt='" . $category . "' src='img/icons/icon$type.png' /><a/>";
     else
       echo "<img class='icon' alt='icon" . $type . "' src='img/icons/icon$type.png' />";
-    echo "<a class='location' href='/?location=$splittedLocation[0]'>$splittedLocation[0]</a>";
-    echo ", <a class='location' href='/?location=$splittedLocation[1]'>$splittedLocation[1]</a>";
-    echo ", <a class='location' href='/?location=$splittedLocation[2]'>$splittedLocation[2]</a></div>";
+    echo "<a class='location' href='/?location=" . urlencode($splittedLocation[0]) . "'>$splittedLocation[0]</a>";
+    echo ", <a class='location' href='/?location=" . urlencode($splittedLocation[1]) . "'>$splittedLocation[1]</a>";
+    echo ", <a class='location' href='/?location=" . urlencode($splittedLocation[2]) . "'>$splittedLocation[2]</a></div>";
     //echo "<h4 class='discount'>$discountText[$discount]</h4>";
     echo "<h4 class='tags'>$tags</h4>";
     echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a>";
@@ -300,6 +300,6 @@ foreach ($json as $key => $value) {
 }
 
 if (!$hasPlaces) {
-echo "<h3>Please select a different category, tag or location!</h3>";
+echo "<h3>&nbsp;Please select a different category, tag or location!</h3>";
 }
 ?>
