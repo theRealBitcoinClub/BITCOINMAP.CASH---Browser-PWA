@@ -57,6 +57,18 @@
       "source": "/bitcoinplaces",
       "destination": "http://bitcoinplaces.epizy.com/",
       "type": 302
+    },{
+      "source": "/bitcoinplace",
+      "destination": "http://bitcoinplaces.epizy.com/",
+      "type": 302
+    },{
+      "source": "/place",
+      "destination": "http://bitcoinplaces.epizy.com/",
+      "type": 302
+    },{
+      "source": "/p",
+      "destination": "http://bitcoinplaces.epizy.com/",
+      "type": 302
     }, {
       "source": "/trbc",
       "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqp0kpntfxygx3e6d4mr9c5ef5ucxdcjk5zkgtevss&dash=XiHdw8SVoNtJqno6GnxKQS2Snxh7BTuR39",
