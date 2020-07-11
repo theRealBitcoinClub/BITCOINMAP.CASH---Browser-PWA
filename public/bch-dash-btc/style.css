@@ -52,7 +52,6 @@ a {
     font-size: 22px;
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-style: double;
     text-decoration-color: #CCC;
   }
 
@@ -99,6 +98,8 @@ a {
 
     .error {
       background-image: url('https://via.placeholder.com/640x480/EEEEEE/555555?text=IMAGE%20NOT%20AVAILABLE%20;-(');
+      width: 640px;
+      height: 480px;
     }
 
     .loading {

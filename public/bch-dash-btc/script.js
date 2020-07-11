@@ -24,6 +24,10 @@ function loadMore() {
                     .getElementById("list")
                     .innerHTML += xmlhttp.responseText;
 
+                document
+                    .getElementById("startupHint")
+                    .innerHTML = '';
+
                 new LazyLoad({elements_selector: ".lazy"});
             } else if (xmlhttp.status == 400) {
                 alert('There was an error 400');

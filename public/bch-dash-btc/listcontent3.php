@@ -188,22 +188,18 @@ $param_id = isset($_GET['id']) ? $_GET['id'] : '';
 $tagfilter = isset($_GET['tag']) ? $_GET['tag'] : '';
 $param_location = isset($_GET['location']) ? $_GET['location'] : '';
 
-if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || isset($_GET['location'])) {
-    $categories = array("restaurant","food","bar","super","shop","hotel");
+$categories = array("restaurant","food","bar","super","shop","hotel");
 
-    $hasPlaces = false;
-    $counter = 1;
+$hasPlaces = false;
+$counter = 1;
 
-    printCurrentFilterSettings($category, $tagfilter, $param_location);
-    $counter = printItemsFromThisJSONfile($tagText, "places.json", $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces);
+printCurrentFilterSettings($category, $tagfilter, $param_location);
+$counter = printItemsFromThisJSONfile($tagText, "placesP3.json", $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces);
+//printItemsFromThisJSONfile("placesP2.json");
+//printItemsFromThisJSONfile("placesP3.json");
 
-    if ($counter === 1) {
-        echo "<div class='alert alert-danger' role='alert'>";
-        echo "<strong>&nbsp;0 places found!</strong>";
-        echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
-    }
-} else {
-    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div></div>";
+if ($counter === 1) {
+    echo "<h3>&nbsp;Please select a different category, tag or location!</h3>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
@@ -336,16 +332,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['tag'])) {
-        echo "<div class='btn-group'>";
-          echo "<button type='button' class='btn btn-primary'>" . $tagfilter . "</button>";
-          echo "<button type='button' class='btn btn-primary dropdown-toggle' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>";
-            echo "<span class='caret'></span>";
-            echo "<span class='sr-only'>Toggle Dropdown</span>";
-          echo "</button>";
-          echo "<ul class='dropdown-menu'>";
-            echo "<li><a href='/'>Clear</a></li>"; /*?" . str_replace("tag=" . $_GET['tag'], "", $_SERVER['QUERY_STRING']) . "*/
-          echo "</ul>";
-        echo "</div>";
+        echo "&nbsp;Tag:<span style='color:#CCC'>" . $tagfilter . "</span>&nbsp;";
     }
 
     if (isset($_GET['location'])) {
