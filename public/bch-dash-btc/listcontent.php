@@ -332,24 +332,30 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
         }
 
         if ($catType !== -1)
-            echo "&nbsp;Cat:<img class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' />&nbsp;";
+        echo "<div class='btn-group'>";
+          echo "<button type='button' class='btn btn-success'><a href='/'><img style='width:24px;height:24px;padding:0px;margin:0px;' class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' /></a></button>";
+          echo "<button type='button' class='btn btn-success'>";
+            echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
+          echo "</button>";
+        echo "</div>&nbsp;&nbsp;";
     }
 
     if (isset($_GET['tag'])) {
         echo "<div class='btn-group'>";
-          echo "<button type='button' class='btn btn-primary'>" . $tagfilter . "</button>";
-          echo "<button type='button' class='btn btn-primary dropdown-toggle' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>";
-            echo "<span class='caret'></span>";
-            echo "<span class='sr-only'>Toggle Dropdown</span>";
+          echo "<button type='button' class='btn btn-primary'><a href='/'><b>" . $tagfilter . "</b></a></button>";
+          echo "<button type='button' class='btn btn-primary'>";
+            echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
           echo "</button>";
-          echo "<ul class='dropdown-menu'>";
-            echo "<li><a href='/'>Clear</a></li>"; /*?" . str_replace("tag=" . $_GET['tag'], "", $_SERVER['QUERY_STRING']) . "*/
-          echo "</ul>";
-        echo "</div>";
+        echo "</div>&nbsp;&nbsp;";
     }
 
     if (isset($_GET['location'])) {
-        echo "&nbsp;Loc:" . $param_location . "&nbsp;";
+        echo "<div class='btn-group'>";
+          echo "<button type='button' class='btn btn-info'><a href='/'><b>" . $param_location . "</b></a></button>";
+          echo "<button type='button' class='btn btn-info'>";
+            echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
+          echo "</button>";
+        echo "</div>";
     }
 
     echo "</h5>";
