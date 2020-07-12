@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4><h5>You passed the reading test!</h5><h6>You have hawk eyes!</h6><b>Choose a filter from the top menu now!</b></div>";
+    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4><small>You passed the reading test!</small><br/><br/><b>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
@@ -255,8 +255,9 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         if (isset($_GET['tag'])) {
           $containsTag = false;
           foreach ($tagsArray as $valueTag) {
-            if (strtolower($valueTag) === strtolower($tagfilter)) {
-            //Also show similar tag results if (strpos(strtolower($valueTag), strtolower(substr($tagfilter, 0, -2))) !== false) {
+            //if (strtolower($valueTag) === strtolower($tagfilter)) {
+            //Also show similar tag results
+            if (strpos(strtolower($valueTag), strtolower(substr($tagfilter, 0, -2))) !== false) {
               $containsTag = true;
             }
           }
