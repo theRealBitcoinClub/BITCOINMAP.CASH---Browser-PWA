@@ -26,8 +26,19 @@ a {
   color: #478558;
 }
 
-.batsch hover {
-  opacity: 0.5;
+.batsch:hover {
+  opacity: 1;
+}
+
+.socialicons:hover {
+  opacity: 1;
+}
+
+.socialicons {
+  opacity: 0.80;
+  padding:5px;
+  width:115px;
+  height:112px;
 }
 
 .actionbar {
@@ -76,6 +87,10 @@ a {
     padding: 10px;
   }
 
+  a:active {
+      outline: none;
+  }
+
   .tags {
     text-align: center;
     font-size: 18px;
@@ -109,9 +124,9 @@ a {
     .batsch {
       height: auto;
       width: 48%;
-      padding-top: 10px;
-      padding-left: 2%;
+      margin-top: 10px;
       margin-bottom: 10px;
+      opacity: 0.80;
     }
     .batschcontainer, .piccontainer {
       text-align: center;

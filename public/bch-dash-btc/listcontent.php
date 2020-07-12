@@ -294,7 +294,8 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         echo ", <a class='location' href='/?location=" . urlencode($splittedLocation[2]) . "'>$splittedLocation[2]</a></div>";
         //echo "<h4 class='discount'>$discountText[$discount]</h4>";
         echo "<h4 class='tags'>$tags</h4>";
-        echo "<div class='batschcontainer'><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a></div>";
+        echo "<div class='batschcontainer'><a target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcoincoffee.club%3Fid%3D" . $id . "' target='_blank'><img class='socialicons' alt='Facebook' src='facebook-icon.png' /></a>";
+        echo "<a target='_blank' href='https://twitter.com/share?url=http%3A%2F%2Fcoincoffee.club%3Fid%3D" . $id . "&via=BarrioBitcoin&text=Check%20this%20%23bitcoin%20place%20on%20%23CoinCoffeeClub%3A'><img class='socialicons' alt='Twitter' src='twitter2.png' style='margin-right:10px' /></a><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a></div>";
         echo "<br />";
         echo "<br />";
         echo "<br />";
