@@ -37,8 +37,9 @@ a {
 .socialicons {
   opacity: 0.80;
   padding:5px;
-  width:115px;
-  height:112px;
+  height: auto;
+                     width: 14%;
+
 }
 
 .actionbar {
@@ -128,6 +129,7 @@ a {
       margin-bottom: 10px;
       opacity: 0.80;
     }
+
     .batschcontainer, .piccontainer {
       text-align: center;
       margin: auto;
@@ -185,6 +187,10 @@ a {
   .pic {
     height:480px;
     width:640px;
+  }
+  .socialicons {
+    height: 93px;
+    width: 93px;
   }
   .batsch {
     height: 93px;
