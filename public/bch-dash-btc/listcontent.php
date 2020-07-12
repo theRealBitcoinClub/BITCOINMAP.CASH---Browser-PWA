@@ -268,9 +268,9 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         if (isset($_GET['location'])) {
           $containsLocation = false;
           foreach ($splittedLocation as $valueLoc) {
-            //if (strtolower(trim($valueLoc)) === strtolower($param_location)) {
+            if (strtolower(trim($valueLoc)) === strtolower($param_location)) {
             //Also show similar location results
-            if (strpos(strtolower(trim($valueLoc)), strtolower(substr($param_location, 0, -2))) !== false) {
+            //if (strpos(strtolower(trim($valueLoc)), strtolower(substr($param_location, 0, -2))) !== false) {
               $containsLocation = true;
             }
           }
