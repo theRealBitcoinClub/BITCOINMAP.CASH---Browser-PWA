@@ -1,18 +1,18 @@
 @charset "utf-8";
 
 body {
-  background-color: #000000;
+  background-color: #111111;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
 
 .primaryColor {
-      background-color: #36a69e;
+      background-color: #5dcb79;
       color: #ffffff;
 }
 
 .primaryDarkColor {
-    background-color: #339c9a;
+    background-color: #5dcb79;
     color: #ffffff;
 }
 
