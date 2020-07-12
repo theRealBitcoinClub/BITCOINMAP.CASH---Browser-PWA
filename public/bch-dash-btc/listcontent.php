@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div></div>";
+    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
@@ -243,11 +243,6 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         $tags = "";
         $tagsArray = array();
         foreach ($splitted as $s) {
-          //if ($s === "104") {
-            //$tags = "Write History -> Spend Bitcoin!!!";
-            //continue;
-          //}
-
            $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . $tagText[$s] . "</a>&nbsp;&nbsp;";
            array_push($tagsArray, $tagText[$s]);
         }
