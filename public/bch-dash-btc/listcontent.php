@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4></div>";
+    echo "<div id='startupHint'><div class='alert alert-warning' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4><h5>You passed the reading test!</h5><h6>You have hawk eyes!</h6><b>Choose a filter from the top menu now!</b></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
