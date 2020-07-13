@@ -1,1 +1,243 @@
-@charset"utf-8";body{background-color:#000000;color:#ffffff;font-family:"Roboto", sans-serif}.primaryColor{background-color:#36a69e;color:#ffffff}.primaryDarkColor{background-color:#339c9a;color:#ffffff}.colorAccent{background-color:#3bb8af;color:#ffffff}a{text-decoration:none;color:#478558}.actionbar{margin:0;padding:0}.discount{padding-top:10px;padding-left:10px;padding-right:10px;font-size:19px;text-align:center;color:#e91e63}.name{text-align:center;padding-top:10px;padding-left:10px;padding-right:10px;font-size:22px;font-weight:bold}.secondrow{margin:auto;text-align:center}.location,.reviews{padding-top:10px;font-size:12px}.reviews{color:#ffff00aa;padding-left:10px}.icon{padding:10px}.tags{text-align:center;font-size:18px;font-weight:bold;padding-top:10px}.pic{text-align:center;margin:auto;height:auto;width:100%}.batsch{height:auto;width:48%;padding-top:10px;padding-left:2%;margin-bottom:10px}.batschcontainer,.piccontainer{text-align:center;margin:auto}@media (min-width: 480px){.name{font-size:30px}.location,.reviews{font-size:16px}.discount{font-size:28px}.tags{font-size:24px}}@media (min-width: 560px){.name{font-size:36px}.location,.reviews{font-size:18px}.discount{font-size:32px}.tags{font-size:28px}}@media (min-width: 640px){.pic{height:480px;width:640px}.batsch{height:84px;width:282px}.name{font-size:42px}.location,.reviews{font-size:21px}.discount{font-size:36px}.tags{font-size:30px}}@media (min-width: 992px){...}@media (min-width: 1200px){...}
+@charset "utf-8";
+
+body {
+  background-color: #111111;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.primaryColor {
+      background-color: #0e7a3c;
+      color: #ffffff;
+}
+
+.primaryDarkColor {
+    background-color: #0e7a3c;
+    color: #ffffff;
+}
+
+.colorAccent {
+  background-color: #3bb8af;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #0e7a3c;
+}
+
+.batsch:hover {
+  opacity: 1;
+}
+
+.socialicons:hover {
+  opacity: 1;
+}
+
+.socialicons {
+  opacity: 0.80;
+  padding:5px;
+  height: auto;
+  width: 14%;
+  vertical-align: middle;
+}
+
+.actionbar {
+  margin: 0px;
+  padding: 0px;
+}
+
+  .discount {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 19px;
+    text-align: center;
+    color: #e91e63;
+  }
+
+  .name {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #CCC;
+  }
+
+  .secondrow {
+    margin: auto;
+    text-align: center;
+  }
+
+  .reviews, .location {
+    padding-top: 10px;
+    font-size: 12px;
+  }
+
+  .reviews {
+    color: #FFD700;
+    padding-left: 10px;
+  }
+
+  .icon {
+  width: 32px;
+  height: 32px;
+    padding: 10px;
+  }
+
+  a:active {
+      outline: none;
+  }
+
+  .tags {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+
+  .location a {
+    color: #AAA;}
+
+  .tags a {
+    color: #CCC;}
+
+    .pic {
+      text-align: center;
+      margin: auto;
+      height:auto;
+      width:100%;
+    }
+
+    .error {
+      background-image: url('https://via.placeholder.com/640x480/EEEEEE/555555?text=IMAGE%20NOT%20AVAILABLE%20;-(');
+      width: 640px;
+      height: 480px;
+    }
+
+    .loading {
+      background: url('/spinner160grey.gif') 50% 50% no-repeat #EEE;
+    }
+
+    .batsch {
+      height: auto;
+      width: 48%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      opacity: 0.80;
+    }
+
+    .batschcontainer, .piccontainer {
+      text-align: center;
+      margin: auto;
+    }
+
+  @media (min-width: 480px) {
+  .icon {
+  width: 36px;
+  height: 36px;
+    padding: 10px;
+  }
+
+    .name {
+      font-size: 30px;
+    }
+
+    .reviews, .location {
+      font-size: 16px;
+    }
+
+      .discount {
+        font-size: 28px;
+      }
+
+    .tags {
+      font-size: 24px;
+    }
+  }
+
+@media (min-width: 560px) {
+  .icon {
+  width: 42px;
+  height: 42px;
+    padding: 10px;
+  }
+
+  .name {
+    font-size: 36px;
+  }
+
+  .reviews, .location {
+    font-size: 18px;
+  }
+
+    .discount {
+      font-size: 32px;
+    }
+
+  .tags {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 640px) {
+  .pic {
+    height:480px;
+    width:640px;
+  }
+  .socialicons {
+    height: 93px;
+    width: 93px;
+  }
+  .batsch {
+    height: 93px;
+    width: 314px;
+  }
+  .icon {
+  width: 48px;
+  height: 48px;
+    padding: 10px;
+  }
+
+    .name {
+      font-size: 42px;
+    }
+
+    .reviews, .location {
+      font-size: 21px;
+    }
+
+      .discount {
+        font-size: 36px;
+      }
+
+    .tags {
+      font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) {
+
+  .icon {
+  width: 52px;
+  height: 52px;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 1200px) {
+                               }
+
+
+
+                               a:hover {
+                                 color: yellow;
+                                 text-decoration:none;
+                               }
+                               a {
+                                color:#EEE;
+                               }
+

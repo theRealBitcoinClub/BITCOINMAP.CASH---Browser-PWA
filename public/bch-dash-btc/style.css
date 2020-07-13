@@ -6,13 +6,23 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.nav-link:hover {
+  background-color:#FFFFFF22;
+  border-radius:6px;
+  text-decoration:underline;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
 .primaryColor {
-      background-color: #5dcb79;
+      background-color: #0e7a3c;
       color: #ffffff;
 }
 
 .primaryDarkColor {
-    background-color: #5dcb79;
+    background-color: #0e7a3c;
     color: #ffffff;
 }
 
@@ -23,7 +33,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #478558;
+  color: #0e7a3c;
 }
 
 .batsch:hover {
