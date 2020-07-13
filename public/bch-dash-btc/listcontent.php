@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2 style='color:#ccc;'>Drink a coffee paid with Bitcoin today!</h2><h3 style='color:#ccc;'>Coinect with the Coimunity!</h3><h4 style='color:#ccc;'>Satoshi Nakamoto is alive!</h4><small style='color:#ccc;'>You passed the reading test!</small><br/><br/><b style='color:#ccc;'>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div>";
+    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><div style='padding:10px;'><h2 style='color:#ccc;'>Drink a coffee paid with Bitcoin today!</h2><h3 style='color:#ccc;'>Coinect with the Coimunity!</h3><h4 style='color:#ccc;'>Satoshi Nakamoto is alive!</h4><small style='color:#ccc;'>You passed the reading test!</small><br/><br/><b style='color:#ccc;'>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
@@ -327,7 +327,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
         }
 
         if ($catType !== -1)
-        echo "<div class='btn-group'>";
+        echo "<div class='btn-group' onclick='goToHome();'>";
           echo "<button type='button' class='btn btn-success'><a href='/'><img style='width:24px;height:24px;padding:0px;margin:0px;' class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' /></a></button>";
           echo "<button type='button' class='btn btn-success'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
@@ -336,7 +336,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['tag'])) {
-        echo "<div class='btn-group'>";
+        echo "<div class='btn-group' onclick='goToHome();'>";
           echo "<button type='button' class='btn btn-primary'><a href='/'><b>" . $tagfilter . "</b></a></button>";
           echo "<button type='button' class='btn btn-primary'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
@@ -345,7 +345,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['location'])) {
-        echo "<div class='btn-group'>";
+        echo "<div class='btn-group' onclick='goToHome();'>";
           echo "<button type='button' class='btn btn-info'><a href='/'><b>" . $param_location . "</b></a></button>";
           echo "<button type='button' class='btn btn-info'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
