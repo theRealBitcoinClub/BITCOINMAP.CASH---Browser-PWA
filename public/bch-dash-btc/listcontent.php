@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2>Drink a coffee paid with Bitcoin today!</h2><h3>Coinect with the Coimunity!</h3><h4>Satoshi Nakamoto is alive!</h4><small>You passed the reading test!</small><br/><br/><b>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div>";
+    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><h2 style='color:#ccc;'>Drink a coffee paid with Bitcoin today!</h2><h3 style='color:#ccc;'>Coinect with the Coimunity!</h3><h4 style='color:#ccc;'>Satoshi Nakamoto is alive!</h4><small style='color:#ccc;'>You passed the reading test!</small><br/><br/><b style='color:#ccc;'>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
