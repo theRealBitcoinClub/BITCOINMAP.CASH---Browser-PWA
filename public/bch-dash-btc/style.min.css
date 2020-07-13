@@ -6,6 +6,20 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.nav-link:hover {
+  background-color:#FFFFFF22;
+  border-radius:6px;
+  text-decoration:underline;
+}
+
+.dropdown-item:hover {
+  text-decoration:underline;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
 .primaryColor {
       background-color: #0e7a3c;
       color: #ffffff;
