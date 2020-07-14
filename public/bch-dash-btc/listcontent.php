@@ -312,23 +312,30 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
 
     if (isset($_GET['category'])) {
         $catType=-1;
+        $catTitle="";
         if ($category === "restaurant") {
           $catType=0;
+          $catTitle="Restaurant";
         } else if ($category === "food") {
           $catType=1;
+          $catTitle="Take-Away";
         } else if ($category === "bar") {
           $catType=2;
+          $catTitle="Cafe/Bar/Club";
         } else if ($category === "super") {
           $catType=3;
+          $catTitle="Supermarket";
         } else if ($category === "shop") {
           $catType=4;
+          $catTitle="Shop";
         } else if ($category === "hotel") {
           $catType=5;
+          $catTitle="Hotel/BnB";
         }
 
         if ($catType !== -1)
         echo "<div class='btn-group' onclick='goToHome(1,\"category=" . $category . "\");'>";
-          echo "<button type='button' class='btn btn-success'><a href='#'><img style='width:24px;height:24px;padding:0px;margin:0px;' class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' /></a></button>";
+          echo "<button type='button' class='btn btn-success'><a href='#'><img style='width:24px;height:24px;padding:0px;margin:0px;' class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' /><b>&nbsp;" . $catTitle . "</b></a></button>";
           echo "<button type='button' class='btn btn-success'>";
             echo "<a href='#'><b style='font-size:larger;'>X</b></a>";
           echo "</button>";
