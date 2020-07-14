@@ -284,7 +284,7 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         $directionsBMAP = "http://bmap.cash?x=" . $posx . "&y=" . $posy;
 
         echo "<div width='640' height='480' class='piccontainer'><img width='640' height='480' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
-        echo "<h3 class='name'>$counter)&nbsp;<a title='BMAP: $name' href='http://bmap.cash/place?id=$id'>$name</a></h3>";
+        echo "<h3 class='name'>$counter)&nbsp;<a title='BMAP: $name' href='http://coincoffee.club?id=$id'>$name</a></h3>";
         echo "<div class='secondrow'><span class='reviews'>⭐ $stars</span>";
         if (strlen($category) > 1)
           echo "<a href='/?category=$category'><img class='icon' alt='" . $category . "' src='img/icons/icon$type.png' /><a/>";
