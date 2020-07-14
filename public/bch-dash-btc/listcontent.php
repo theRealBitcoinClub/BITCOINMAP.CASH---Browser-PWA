@@ -327,7 +327,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
         }
 
         if ($catType !== -1)
-        echo "<div class='btn-group' onclick='goToHome();'>";
+        echo "<div class='btn-group' onclick='goToHome(1,\"category=" . $category . "\");'>";
           echo "<button type='button' class='btn btn-success'><a href='/'><img style='width:24px;height:24px;padding:0px;margin:0px;' class='icon' alt='" . $category . "' src='img/icons/icon$catType.png' /></a></button>";
           echo "<button type='button' class='btn btn-success'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
@@ -336,7 +336,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['tag'])) {
-        echo "<div class='btn-group' onclick='goToHome();'>";
+        echo "<div class='btn-group' onclick='goToHome(2,\"tag=" . $tagfilter . "\");'>";
           echo "<button type='button' class='btn btn-primary'><a href='/'><b>" . $tagfilter . "</b></a></button>";
           echo "<button type='button' class='btn btn-primary'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
@@ -345,7 +345,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['location'])) {
-        echo "<div class='btn-group' onclick='goToHome();'>";
+        echo "<div class='btn-group' onclick='goToHome(3,\"location=" . $param_location . "\");'>";
           echo "<button type='button' class='btn btn-info'><a href='/'><b>" . $param_location . "</b></a></button>";
           echo "<button type='button' class='btn btn-info'>";
             echo "<a href='/'><b style='font-size:larger;'>X</b></a>";
