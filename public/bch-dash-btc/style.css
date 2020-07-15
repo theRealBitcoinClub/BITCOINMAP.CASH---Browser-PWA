@@ -12,12 +12,6 @@ body {
   text-decoration:underline;
 }
 
-.contentContainer {
-    width:100%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .dropdown-item:hover {
   text-decoration:underline;
 }
@@ -130,6 +124,7 @@ a {
       margin: auto;
       height:auto;
       width:100%;
+      border-radius:5%;
     }
 
     .error {
@@ -204,10 +199,6 @@ a {
 }
 
 @media (min-width: 640px) {
-
-.contentContainer {
-    width:660px;
-}
   .pic {
     height:480px;
     width:640px;
