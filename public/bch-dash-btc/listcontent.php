@@ -243,7 +243,7 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         $tags = "";
         $tagsArray = array();
         foreach ($splitted as $s) {
-           $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . $tagText[$s] . "</a>&nbsp;&nbsp;";
+           $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . str_replace(" ","&nbsp;", $tagText[$s]) . "</a>&nbsp;";
            array_push($tagsArray, $tagText[$s]);
         }
         $tags = substr($tags, 0, strlen($tags) - 6);
@@ -283,7 +283,7 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         $directions = "https://google.com/maps/search/?api=1&query=" . $posx . "," . $posy;
         $directionsBMAP = "http://bmap.cash?x=" . $posx . "&y=" . $posy;
 
-        echo "<div width='640' height='480' class='piccontainer'><img width='640' height='480' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
+        echo "<div class='contentContainer'><div width='640' height='480' class='piccontainer'><img width='640' height='480' class='pic lazy' data-src='https://bitcoinmap.cash/img/app/$id.gif' /></div>";
         echo "<h3 class='name'>$counter)&nbsp;<a title='BMAP: $name' href='http://coincoffee.club?id=$id'>$name</a></h3>";
         echo "<div class='secondrow'><span class='reviews'>⭐ $stars</span>";
         if (strlen($category) > 1)
@@ -296,7 +296,7 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         //echo "<h4 class='discount'>$discountText[$discount]</h4>";
         echo "<h4 class='tags'>$tags</h4>";
         echo "<div class='batschcontainer'><a target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcoincoffee.club%3Fid%3D" . $id . "' target='_blank'><img class='socialicons' alt='Facebook' src='facebook-icon.png' /></a>";
-        echo "<a target='_blank' href='https://twitter.com/share?url=http%3A%2F%2Fcoincoffee.club%3Fid%3D" . $id . "&via=BarrioBitcoin&text=Check%20this%20%23bitcoin%20place%20on%20%23CoinCoffeeClub%3A'><img class='socialicons' alt='Twitter' src='twitter2.png' /></a><a href='$directionsBMAP' target='_blank'><img class='socialicons' alt='Bitcoin Maps' src='bitcoinmap-icon-192x192.png' style='padding:0px;margin-right: 0.4%;' /></a><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a></div>";
+        echo "<a target='_blank' href='https://twitter.com/share?url=http%3A%2F%2Fcoincoffee.club%3Fid%3D" . $id . "&via=BarrioBitcoin&text=Check%20this%20%23bitcoin%20place%20on%20%23CoinCoffeeClub%3A'><img class='socialicons' alt='Twitter' src='twitter2.png' /></a><a href='$directionsBMAP' target='_blank'><img class='socialicons' alt='Bitcoin Maps' src='bitcoinmap-icon-192x192.png' style='padding:0px;margin-right: 0.4%;' /></a><a href='$directions' target='_blank'><img class='batsch' alt='Google Maps Badge' src='img/badges/google-maps-badge564x168.png' /></a></div></div>";
         echo "<br />";
         echo "<br />";
         echo "<hr />";
