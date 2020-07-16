@@ -6,6 +6,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.btn-group {
+    margin-bottom:10px;
+}
+
 .nav-link:hover {
   background-color:#FFFFFF22;
   border-radius:6px;

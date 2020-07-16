@@ -203,7 +203,7 @@ if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || iss
         echo "<i>&nbsp;Please select a different category, tag or location!</i></div>";
     }
 } else {
-    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><div style='padding:10px;'><h2 style='color:#ccc;'>Drink a coffee paid with Bitcoin today!</h2><h3 style='color:#ccc;'>Coinect with the Coimunity!</h3><h4 style='color:#ccc;'>Satoshi Nakamoto is alive!</h4><small style='color:#ccc;'>You passed the reading test!</small><br/><br/><b style='color:#ccc;'>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a></div></div>";
+    echo "<div id='startupHint'><div class='alert alert-success' role='alert'>&nbsp;Please choose a filter from the top menu ↑</div><div style='padding:10px;'><h2 style='color:#ccc;'>Drink a coffee paid with Bitcoin today!</h2><h3 style='color:#ccc;'>Coinect with the Coimunity!</h3><h4 style='color:#ccc;'>Satoshi Nakamoto is alive!</h4><small style='color:#ccc;'>You passed the reading test!</small><br/><br/><b style='color:#ccc;'>Choose a filter from the top menu or click: <a href='http://coincoffee.club?category=restaurant&tag=Burger'><u>Best Bitcoin Burger Restaurants</u></a><br/><br/><b style='color:#ccc;'>You can search for Cryptocurrency Places at specific locations: <a href='http://coincoffee.club?location=Tokyo'><u>Bitcoin Places Tokyo</u></a><br/><br/><b style='color:#ccc;'>On May 22 the Crypto community celebrates Bitcoin Pizza Day, be prepared: <a href='http://coincoffee.club?location=USA&tag=Pizza'><u>Bitcoin Pizza Places in U.S.A.</u></a></div></div>";
 }
 
 function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces){
@@ -243,8 +243,9 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
         $tags = "";
         $tagsArray = array();
         foreach ($splitted as $s) {
-           $tags .= "<a href='/?tag=" . $tagText[$s] . "'>" . str_replace(" ","&nbsp;", $tagText[$s]) . "</a>&nbsp;";
-           array_push($tagsArray, $tagText[$s]);
+           $text=$tagText[$s];
+           $tags .= "<a href='#' onclick='addThisFilter(2,\"" . $text . "\");'>" . str_replace(" ","&nbsp;", $text) . "</a>&nbsp;";
+           array_push($tagsArray, $text);
         }
         $tags = substr($tags, 0, strlen($tags) - 6);
         $location = $currentItem['l'];
@@ -308,7 +309,7 @@ function printItemsFromThisJSONfile($tagText, $fileName, $counter, $category, $p
 }
 
 function printCurrentFilterSettings($category, $tagfilter, $param_location) {
-    echo "<h5 style='color:#EEE;'>&nbsp;";
+    echo "<div style='margin-left:10px'>";
 
     if (isset($_GET['category'])) {
         $catType=-1;
@@ -360,7 +361,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
         echo "</div>";
     }
 
-    echo "</h5>";
+    echo "</div>";
 }
 
 ?>
