@@ -344,7 +344,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['tag'])) {
-        echo "<div class='btn-group' onclick='goToHome(2,\"tag=" . $tagfilter . "\");'>";
+        echo "<div class='btn-group' onclick='goToHome(2,\"tag=" . urlencode($tagfilter) . "\");'>";
           echo "<button type='button' class='btn btn-primary'><a href='#'><b>" . $tagfilter . "</b></a></button>";
           echo "<button type='button' class='btn btn-primary'>";
             echo "<a href='#'><b style='font-size:larger;'>X</b></a>";
@@ -353,7 +353,7 @@ function printCurrentFilterSettings($category, $tagfilter, $param_location) {
     }
 
     if (isset($_GET['location'])) {
-        echo "<div class='btn-group' onclick='goToHome(3,\"location=" . $param_location . "\");'>";
+        echo "<div class='btn-group' onclick='goToHome(3,\"location=" . urlencode($param_location) . "\");'>";
           echo "<button type='button' class='btn btn-info'><a href='#'><b>" . $param_location . "</b></a></button>";
           echo "<button type='button' class='btn btn-info'>";
             echo "<a href='#'><b style='font-size:larger;'>X</b></a>";
