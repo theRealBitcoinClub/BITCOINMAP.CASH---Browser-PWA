@@ -183,20 +183,19 @@ $tagText = array('Spicy 🌶️',
                      'CryptoBuyer ₿',
                      'XPay ₿');
 
-$category = isset($_GET['category']) ? $_GET['category'] : '';
-$param_id = isset($_GET['id']) ? $_GET['id'] : '';
-$tagfilter = isset($_GET['tag']) ? $_GET['tag'] : '';
-$param_location = isset($_GET['location']) ? $_GET['location'] : '';
+    $category = isset($_GET['category']) ? $_GET['category'] : '';
+    $param_id = isset($_GET['id']) ? $_GET['id'] : '';
+    $tagfilter = isset($_GET['tag']) ? $_GET['tag'] : '';
+    $param_location = isset($_GET['location']) ? $_GET['location'] : '';
 
-if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || isset($_GET['location'])) {
-    $categories = array("restaurant","food","bar","super","shop","hotel");
+    if (isset($_GET['category']) || isset($_GET['id']) || isset($_GET['tag']) || isset($_GET['location'])) {
+        $categories = array("restaurant","food","bar","super","shop","hotel");
 
-    $hasPlaces = false;
-    $counter = 1;
+        $hasPlaces = false;
+        $counter = 1;
 
-    printCurrentFilterSettings($category, $tagfilter, $param_location);
-    $counter = printItemsFromThisJSONfile($tagText, "places.json", $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces);
-
+        printCurrentFilterSettings($category, $tagfilter, $param_location);
+        $counter = printItemsFromThisJSONfile($tagText, "places.json", $counter, $category, $param_id, $tagfilter, $param_location, $categories, $hasPlaces);
     if ($counter === 1) {
         echo "<div class='alert alert-danger' role='alert'>";
         echo "<strong>&nbsp;0 places found!</strong>";
