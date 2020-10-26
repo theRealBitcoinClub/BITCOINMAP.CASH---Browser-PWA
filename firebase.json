@@ -86,7 +86,7 @@
       "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
       "type": 301
     }, {
-      "source": "/coinectorapp",
+      "source": "/coinector",
       "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector",
       "type": 301
     }, {
