@@ -382,8 +382,8 @@ function initMap(allPlaces) {
 
         var baseUrl = '';
         var directions = 'https://google.com/maps/search/?api=1&query=' + currentMerchant.x + ',' + currentMerchant.y;
-        var gplay = '<a target="_blank" href="https://play.google.com/store/apps/details?id=club.ther' +
-            'ealbitcoin.bchmap"><img class="batschLeft" src="' + baseUrl + 'img/google-play-badge' + badgeSize + '.png"></a>'
+        var gplay = '<a target="_blank" href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector' +
+            '"><img class="batschLeft" src="' + baseUrl + 'img/google-play-badge' + badgeSize + '.png"></a>'
         var dir = '<a target="_blank" href="' + directions + '"><img class="batschRight" src="' + baseUrl + 'img/google-maps-badge' + badgeSize + '.png"></a>'
         var photo = baseUrl + 'img/app/' + currentMerchant.p;
         var type = icons[currentMerchant.type].title;
