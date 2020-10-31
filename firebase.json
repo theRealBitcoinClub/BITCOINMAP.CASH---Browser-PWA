@@ -45,66 +45,87 @@
         ]
       }
     ],
-    "redirects": [ {
-      "source": "/iphone",
-      "destination": "https://apps.apple.com/us/app/coinmap-bitcoin-map/id1522720562",
-      "type": 301
-    },{
-      "source": "/trbc",
-      "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqp0kpntfxygx3e6d4mr9c5ef5ucxdcjk5zkgtevss&dash=XiHdw8SVoNtJqno6GnxKQS2Snxh7BTuR39",
-      "type": 301
-    }, {
-      "source": "/cafelemans",
-      "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqflpcrguu8wnud3yhy302jt9a4hht822gvzuuu374&dash=XkXE3JJCvNZqc6zXg664MNyYxRpPB4suZG",
-      "type": 301
-    }, {
-      "source": "/qr",
-      "destination": "/bitcoin-bch-dash-qr-code-generator",
-      "type": 301
-    }, {
-      "source": "/submit",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdOZO7kOgq6_PTTiuKWlVaNSjRH0TmL7KHC1RMunad0qFe3ag/viewform",
-      "type": 301
-    }, {
-      "source": "/enviar",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdoF9GuW10T1VwD89kNYAK6EVOlqRCuDaIJB4RO34QvnzYsog/viewform",
-      "type": 301
-    }, {
-      "source": "/04242190606",
-      "destination": "/bitcoin-bch-dash-qr-code-generator?dash=XyjVDbwhSD5nWrjwNHWG8Aj2qFaCfZQnoo",
-      "type": 301
-    }, {
-      "source": "/04123335448",
-      "destination": "/bitcoin-bch-dash-qr-code-generator?dash=Xuj4jhHyyBen5UsBh3Py41GzMWsVhkhK5S",
-      "type": 301
-    }, {
-      "source": "/localbitcoinmap",
-      "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
-      "type": 301
-    }, {
-      "source": "/android",
-      "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
-      "type": 301
-    }, {
-      "source": "/coinector",
-      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector",
-      "type": 301
-    }, {
-      "source": "/dashtext",
-      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.dashtext",
-      "type": 301
-    }, {
-      "source": "/cointext",
-      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointext",
-      "type": 301
-    }, {
-      "source": "/cointigo",
-      "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointigo",
-      "type": 301
-    }, {
-      "source": "/teaser",
-      "destination": "/coinmap",
-      "type": 301
-    } ]
+    "redirects": [
+      {
+        "source": "/iphone",
+        "destination": "https://apps.apple.com/us/app/coinmap-bitcoin-map/id1522720562",
+        "type": 301
+      },
+      {
+        "source": "/trbc",
+        "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqp0kpntfxygx3e6d4mr9c5ef5ucxdcjk5zkgtevss&dash=XiHdw8SVoNtJqno6GnxKQS2Snxh7BTuR39",
+        "type": 301
+      },
+      {
+        "source": "/cafelemans",
+        "destination": "/bitcoin-bch-dash-qr-code-generator?bch=qqflpcrguu8wnud3yhy302jt9a4hht822gvzuuu374&dash=XkXE3JJCvNZqc6zXg664MNyYxRpPB4suZG",
+        "type": 301
+      },
+      {
+        "source": "/qr",
+        "destination": "/bitcoin-bch-dash-qr-code-generator",
+        "type": 301
+      },
+      {
+        "source": "/submit",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdOZO7kOgq6_PTTiuKWlVaNSjRH0TmL7KHC1RMunad0qFe3ag/viewform",
+        "type": 301
+      },
+      {
+        "source": "/add",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdOZO7kOgq6_PTTiuKWlVaNSjRH0TmL7KHC1RMunad0qFe3ag/viewform",
+        "type": 301
+      },
+      {
+        "source": "/enviar",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdoF9GuW10T1VwD89kNYAK6EVOlqRCuDaIJB4RO34QvnzYsog/viewform",
+        "type": 301
+      },
+      {
+        "source": "/04242190606",
+        "destination": "/bitcoin-bch-dash-qr-code-generator?dash=XyjVDbwhSD5nWrjwNHWG8Aj2qFaCfZQnoo",
+        "type": 301
+      },
+      {
+        "source": "/04123335448",
+        "destination": "/bitcoin-bch-dash-qr-code-generator?dash=Xuj4jhHyyBen5UsBh3Py41GzMWsVhkhK5S",
+        "type": 301
+      },
+      {
+        "source": "/localbitcoinmap",
+        "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
+        "type": 301
+      },
+      {
+        "source": "/android",
+        "destination": "https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap",
+        "type": 301
+      },
+      {
+        "source": "/coinector",
+        "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector",
+        "type": 301
+      },
+      {
+        "source": "/dashtext",
+        "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.dashtext",
+        "type": 301
+      },
+      {
+        "source": "/cointext",
+        "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointext",
+        "type": 301
+      },
+      {
+        "source": "/cointigo",
+        "destination": "https://play.google.com/store/apps/details?id=cash.bitcoinmap.cointigo",
+        "type": 301
+      },
+      {
+        "source": "/teaser",
+        "destination": "/coinmap",
+        "type": 301
+      }
+    ]
   }
 }
