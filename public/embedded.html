@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Coinmap Bitcoin Map - Bitcoinmap Cash Crypto Coin BMAP</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#38a2ac"/>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Expires" content="0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="A1_bootstrap4.1.1.min.css">
+    <script src="A1_jquery-3.3.1.min.js"></script>
+    <script src="A1_markerclusterer.min.js"></script>
+    <script src="A5_script.min.js"></script>
+    <script>
+        if('serviceWorker'in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('A2_sw.js');});}
+
+    </script>
+    <script type="text/javascript">$(document).keyup(function(e){if(e.keyCode==27){imatsch();}});
+
+
+    </script>
+    <link rel="stylesheet" href="A4_styles.min.css">
+</head>
+<body>
+<div class="overlay overlay-data">
+    <div id="overlay-content"></div>
+</div>
+<div id="legend"><img class="legend" id="legendimg"
+                      style="position: absolute; z-index:99;bottom: 30px;"
+                      alt="Bitcoin Map Categories" title="Bitcoin Map Categories"
+                      src="bitcoinmaplegendmapscategories220x391.png"></div>
+<div id="locator"><img class="locator" onclick="doGeoLocation();" id="locatorimg"
+                       style="position: absolute; z-index:99;top: 80px; right:15px"
+                       alt="Locator Icon" src="locatorimg.jpg"></div>
+<style>
+    .gdrzweghffcdr:hover{opacity:1.0;}#locatorimg{border-radius:30%; height: 6%; right: 1%;}#locatorimg:hover{opacity:0.5; cursor:pointer;}@media (max-width: 767px){#legendimg{height: 20%; left: 1px;}}@media (min-width: 768px){#locatorimg{height:5%;}#legendimg{height: 25%; left: 0px;}}@media (min-width: 1024px){#legendimg{height: 30%; left: -2px;}}
+
+
+</style>
+<div id="map" style="position:relative;top:0px;"></div>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVDl8Ng3iT4xfX2r6Fj1SvJJvndz73JOI&callback=loadIcons&language=ES"></script>
+
+</script>
+<script async src="A1_popper1.14.3.min.js"></script>
+<script async src="A1_bootstrap4.1.1.min.js"></script>
+<!--script async src="https://www.googletagmanager.com/gtag/js?id=G-0KY2J0L4B0"></script><script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'G-0KY2J0L4B0');</script-->
+</body>
+</html>

@@ -47,6 +47,11 @@
     ],
     "redirects": [
       {
+        "source": "/ios",
+        "destination": "https://apps.apple.com/us/app/coinmap-bitcoin-map/id1522720562",
+        "type": 301
+      },
+      {
         "source": "/iphone",
         "destination": "https://apps.apple.com/us/app/coinmap-bitcoin-map/id1522720562",
         "type": 301
