@@ -4,7 +4,7 @@
 ,{"p":"fanatic","x":"9.5639874","y":"-69.2035326","n":"Fanatic Sport Bar","t":"2","c":"142","s":"4.4","d":"0","a":"31,32,71,99","l":"Calle 31, Acarigua, Portuguesa, Venezuela"}
 ,{"p":"steakburger","x":"9.5667649","y":"-69.215185","n":"Steak Burger","t":"0","c":"174","s":"4.6","d":"0","a":"7,99,137,100","l":"Avenida Las Lagrimas, Araure, Portuguesa, Venezuela"}
 ,{"p":"lasogagrillbar","x":"9.5637874","y":"-69.2132714","n":"La Soga Grill & Bar","t":"0","c":"158","s":"4.6","d":"0","a":"7,111,99,100","l":"Araure, Portuguesa, Venezuela"}
-,{"p":"litalia","x":"9.558281","y":"-69.204444","n":"L'Italia Restaurant","t":"0","c":"21","s":"4.2","d":"0","a":"102,108,71,15","l":"Acarigua, Portuguesa, Venezuela"}
+,{"p":"litalia","x":"9.558281","y":"-69.204444","n":"LItalia Restaurant","t":"0","c":"21","s":"4.2","d":"0","a":"102,108,71,15","l":"Acarigua, Portuguesa, Venezuela"}
 ,{"p":"altosdeleste","x":"7.7724126","y":"-72.209355","n":"Panaderia Altos del Este","t":"1","c":"69","s":"4.0","d":"0","a":"115,116,117,142","l":"San Cristobal, Tachira, Venezuela"}
 ,{"p":"buddhabar","x":"10.4806044","y":"-66.8553371","n":"Rest. Buddha Bar Caracas","t":"0","c":"370","s":"4.5","d":"0","a":"67,109,56,138","l":"212 Calle Orinoco, Caracas 1060, Miranda, Venezuela"}
 ,{"p":"wowfles","x":"10.5193129","y":"-66.9381218","n":"WOWFLES Venezuela","t":"0","c":"9","s":"3.7","d":"0","a":"59,104,104,104","l":"Calle Ruperto Lugo 1A, Caracas 1030, Capital District, Venezuela"}
@@ -36,9 +36,9 @@
 ,{"p":"bonappetit","x":"10.494118","y":"-66.8780864","n":"Bon Appetit - C.C. City Market nivel Feria","t":"2","c":"1","s":"2.0","d":"0","a":"59,104,104,104","l":"Calle Unión, Bulevar de Sabana Grande, Caracas 1050, Distrito Capital, Venezuela"}
 ,{"p":"planetsandwich","x":"10.4974977","y":"-66.8229553","n":"Planet Sandwich","t":"0","c":"0","s":"0.0","d":"0","a":"59,15,16,115","l":"Final Calle Imboca, Caracas, Miranda, 1071, Venezuela"}
 ,{"p":"hachebistro","x":"10.5031157","y":"-66.8312804","n":"Hache Bistro","t":"0","c":"76","s":"4.3","d":"0","a":"59,15,143,115","l":"Dentro de Centro Cultural Los Galpones, Transversal 8, Avenida Sucre, Caracas 1071, Miranda, Venezuela"}
-,{"p":"churchchickenlacascada","x":"10.3551461","y":"-67.0024613","n":"Church's Chicken","t":"0","c":"11","s":"3.5","d":"0","a":"71,143,16,101","l":"Centro Comercial Ciudad La Cascada, Nivel Feria, Local Local: N2-13, Carretera Panamericana, Municipio Carrizal, Miranda, Venezuela"}
+,{"p":"churchchickenlacascada","x":"10.3551461","y":"-67.0024613","n":"Churchs Chicken","t":"0","c":"11","s":"3.5","d":"0","a":"71,143,16,101","l":"Centro Comercial Ciudad La Cascada, Nivel Feria, Local Local: N2-13, Carretera Panamericana, Municipio Carrizal, Miranda, Venezuela"}
 ,{"p":"fortalezayvida","x":"10.5037123","y":"-66.9529092","n":"Cafetin fortaleza y vida - C.C. Propatria","t":"2","c":"0","s":"0.0","d":"0","a":"59,29,9,8","l":"Caracas 1030, Distrito Capital, Venezuela"}
-,{"p":"comoncasa","x":"10.5042652","y":"-66.911813","n":"COMO n' CASA - C.C. El Gallo De Oro","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1012, Distrito Capital, Venezuela"}
+,{"p":"comoncasa","x":"10.5042652","y":"-66.911813","n":"COMO n CASA - C.C. El Gallo De Oro","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Caracas 1012, Distrito Capital, Venezuela"}
 ,{"p":"planetsandwich","x":"10.4974977","y":"-66.8229553","n":"Planet Sandwich - C.C. Boleíta Center","t":"0","c":"0","s":"0.0","d":"0","a":"59,15,16,115","l":"Caracas 1071, Miranda, Venezuela"}
 ,{"p":"mediterraneogourmet","x":"10.4972026","y":"-66.8514195","n":"Mediterráneo Gourmet","t":"0","c":"3","s":"5.0","d":"0","a":"59,8,109,133","l":"Avenida Eugenio Mendoza, Caracas 1060, Distrito Capital"}
 ,{"p":"practipizza","x":"10.372183","y":"-66.9697335","n":"Practipizza","t":"0","c":"3","s":"3.7","d":"0","a":"59,14,16,8","l":"San Antonio de Los Altos 1204, Miranda"}
@@ -141,7 +141,7 @@
 ,{"p":"apiainnsamoa","x":"-13.8474364","y":"-171.778085","n":"Apia Inn Samoa","t":"5","c":"1","s":"5.0","d":"0","a":"156,129,138,31","l":"Apia, Samoa, Island"}
 ,{"p":"doccafe","x":"-34.6007987","y":"-58.3766964","n":"DOC Café","t":"2","c":"43","s":"4.9","d":"0","a":"29,10,11,12","l":"Maipú 625, C1006 ACG, Buenos Aires, Argentina"}
 ,{"p":"verduleriaarcoiris","x":"-32.1787009","y":"-64.1173234","n":"Verduleria Arco Iris","t":"3","c":"17","s":"4.8","d":"0","a":"59,104,104,104","l":"25 de Febrero 140, Río Tercero, Córdoba, Argentina"}
-,{"p":"qpatacon","x":"6.1630242","y":"-75.5814668","n":"Q'patacon","t":"0","c":"24","s":"4.4","d":"0","a":"59,104,104,104","l":"Cra. 29a ##65, Envigado, Antioquia, Colombia"}
+,{"p":"qpatacon","x":"6.1630242","y":"-75.5814668","n":"Qpatacon","t":"0","c":"24","s":"4.4","d":"0","a":"59,104,104,104","l":"Cra. 29a ##65, Envigado, Antioquia, Colombia"}
 ,{"p":"bolosazoncostena","x":"6.1762556","y":"-75.5838155","n":"Bololó Sazón Costeña","t":"0","c":"214","s":"4.4","d":"0","a":"59,104,104,104","l":"Transversal 31 Sur # 32D - 21, Envigado, Antioquia, Colombia"}
 ,{"p":"puntonaranja","x":"6.2512262","y":"-75.5821656","n":"PUNTO NARANJA","t":"3","c":"22","s":"3.8","d":"0","a":"59,104,104,104","l":"Cra. 64 #45A-12, Medellín, Antioquia, Colombia"}
 ,{"p":"chezalice","x":"6.1736829","y":"-75.58481","n":"CHEZ ALICE ATELIER GOURMET","t":"0","c":"67","s":"4.8","d":"0","a":"59,104,104,104","l":"Tv. 33 Sur #3353, Envigado, Antioquia, Colombia"}
@@ -173,7 +173,7 @@
 ,{"p":"lmdistribuidora","x":"6.1697852","y":"-75.5846356","n":"Distribuidora L&M","t":"4","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Cl. 36 Sur ##39-38, Envigado, Antioquia, Colombia"}
 ,{"p":"orangegrill","x":"6.2563608","y":"-75.5787331","n":"Orange Grill - Orange CE","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Cra. 64b ##61-66, Medellín, Antioquia, Colombia"}
 ,{"p":"mercadosdelrancho","x":"6.2520578","y":"-75.6084825","n":"Mercados Del Rancho","t":"3","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cl. 43 ##90-50, Medellín, Antioquia, Colombia"}
-,{"p":"rellenitas","x":"6.1750926","y":"-75.5839805","n":"Rellenitas D'","t":"0","c":"29","s":"4.6","d":"0","a":"59,104,104,104","l":"Dg. 32d ##32B-09, Envigado, Antioquia, Colombia"}
+,{"p":"rellenitas","x":"6.1750926","y":"-75.5839805","n":"Rellenitas D","t":"0","c":"29","s":"4.6","d":"0","a":"59,104,104,104","l":"Dg. 32d ##32B-09, Envigado, Antioquia, Colombia"}
 ,{"p":"premiumpizza","x":"6.231076","y":"-75.592791","n":"Premium Pizza Alitas Y Arroz S.A.S.","t":"0","c":"43","s":"4.4","d":"0","a":"59,104,104,104","l":"Cra. 72 ## 29-61, Medellín, Antioquia, Colombia"}
 ,{"p":"ruta40company","x":"6.155606","y":"-75.5826227","n":"Ruta40 Company","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Clle40Fsur#25A23, Envigado, Antioquia, Colombia"}
 ,{"p":"zacatecas","x":"6.243155","y":"-75.6019976","n":"Zacatecas Restaurante Mexicano","t":"0","c":"203","s":"4.6","d":"0","a":"59,104,104,104","l":"Cra. 80b ##35-07, Medellín, Antioquia, Colombia"}
@@ -209,7 +209,7 @@
 ,{"p":"lamiaexpress","x":"7.1153228","y":"-73.1079234","n":"La Mia Express","t":"0","c":"30","s":"4.5","d":"0","a":"59,104,104,104","l":"La Quinta, Cra. 36 ##49-45, Bucaramanga, Santander, Colombia"}
 ,{"p":"dimariagelateria","x":"6.2467056","y":"-75.590518","n":"DiMaria Gelateria","t":"1","c":"6","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 71, Cq. 4 ##09, Medellín, Antioquia, Colombia"}
 ,{"p":"losquesoditos","x":"6.1630187","y":"-75.5819018","n":"los quesuditos","t":"0","c":"5","s":"4.4","d":"0","a":"59,104,104,104","l":"Cl. 39B Sur #29a-27, Envigado, Antioquia, Colombia"}
-,{"p":"tokachicharron","x":"6.1706463","y":"-75.5927825","n":"Toka by The Chicharron's Factory","t":"0","c":"37","s":"4.4","d":"0","a":"59,104,104,104","l":"Cl. 39 Sur #46 - 35, Envigado, Antioquia, Colombia"}
+,{"p":"tokachicharron","x":"6.1706463","y":"-75.5927825","n":"Toka by The Chicharrons Factory","t":"0","c":"37","s":"4.4","d":"0","a":"59,104,104,104","l":"Cl. 39 Sur #46 - 35, Envigado, Antioquia, Colombia"}
 ,{"p":"sanpatelosbar","x":"6.173117","y":"-75.5855734","n":"San Patelos bar","t":"2","c":"9","s":"4.2","d":"0","a":"59,106,33,32","l":"Dg. 40 ##33 sur 59, Envigado, Antioquia, Colombia"}
 ,{"p":"snacksazon","x":"6.1622253","y":"-75.5822404","n":"Snack Sazon","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cl. 40 Sur ###29a 20, Envigado, Antioquia, Colombia"}
 ,{"p":"elpandemilola","x":"6.1740397","y":"-75.5851766","n":"El Pan de mi Lola","t":"1","c":"4","s":"5.0","d":"0","a":"59,104,104,104","l":"Dirección Diagonal 39 con transversal con 32c sur - 6. Barrio, Envigado, Antioquia, Colombia"}
@@ -232,7 +232,7 @@
 ,{"p":"latortata","x":"4.649932","y":"-74.058985","n":"La Tortata","t":"1","c":"4","s":"4.8","d":"0","a":"59,104,104,104","l":"Cl. 66 ##7-18, Bogotá, Colombia"}
 ,{"p":"pollochef","x":"6.1686592","y":"-75.5875762","n":"PolloChef","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle 38A Sur #41 65, Envigado, Antioquia, Colombia"}
 ,{"p":"publichouselaureles","x":"6.2461097","y":"-75.5960508","n":"Public House Laureles","t":"0","c":"129","s":"4.3","d":"0","a":"59,104,104,104","l":"Av. Nutibara ##75-14, Medellín, Antioquia, Colombia"}
-,{"p":"bearspizzeria","x":"6.2460827","y":"-75.5967351","n":"Bear's Pizzería","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cq. 75 ##39-99 a 39-5, Medellín, Antioquia, Colombia"}
+,{"p":"bearspizzeria","x":"6.2460827","y":"-75.5967351","n":"Bears Pizzería","t":"0","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Cq. 75 ##39-99 a 39-5, Medellín, Antioquia, Colombia"}
 ,{"p":"sushiworld","x":"6.1773127","y":"-75.5864123","n":"Sushi World Envigado","t":"0","c":"291","s":"4.6","d":"0","a":"59,67,104,104","l":"Cl. 30a Sur ## 44 A 57, Envigado, Antioquia, Colombia"}
 ,{"p":"arpoe","x":"7.8935369","y":"-72.4995075","n":"Arpoe","t":"2","c":"1","s":"5.0","d":"0","a":"59,104,104,104","l":"Av. 0 ##4 - 56, Cúcuta, Norte de Santander, Colombia"}
 ,{"p":"llanerada","x":"7.8378075","y":"-72.508783","n":"La llanerada de juancho","t":"0","c":"68","s":"4.6","d":"0","a":"59,104,104,104","l":"Los Patios, Norte de Santander, Colombia"}
@@ -261,8 +261,8 @@
 ,{"p":"lanuevapalma","x":"6.2290877","y":"-75.5964566","n":"LA NUEVA PALMA","t":"0","c":"7","s":"4.3","d":"0","a":"59,104,104,104","l":"Cl. 28 #76-35, Medellín, Antioquia, Colombia"}
 ,{"p":"blackcoffeehouse","x":"6.1695039","y":"-75.5845162","n":"Black Coffee House","t":"2","c":"5","s":"4.6","d":"0","a":"59,29,133,16","l":"Cra. 39 #39 sur 21, Envigado, Antioquia, Colombia"}
 ,{"p":"Laparriladelvenado","x":"6.1659176","y":"-75.6210514","n":"La Parrilla del Venado","t":"0","c":"16","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 50A ##34-50, Itagüi, Antioquia, Colombia"}
-,{"p":"mariosarepas","x":"6.2425428","y":"-75.5999712","n":"Mario's Arepas","t":"0","c":"4","s":"4.0","d":"0","a":"59,104,104,104","l":"Cl. 35 ##79-65 a 79-1, Medellín, Antioquia, Colombia"}
-,{"p":"mariospizza","x":"6.242639","y":"-75.5997305","n":"Mario's Pizza","t":"0","c":"5","s":"3.8","d":"0","a":"59,104,104,104","l":"Cl. 35 ###79-10, Medellín, Antioquia, Colombia"}
+,{"p":"mariosarepas","x":"6.2425428","y":"-75.5999712","n":"Marios Arepas","t":"0","c":"4","s":"4.0","d":"0","a":"59,104,104,104","l":"Cl. 35 ##79-65 a 79-1, Medellín, Antioquia, Colombia"}
+,{"p":"mariospizza","x":"6.242639","y":"-75.5997305","n":"Marios Pizza","t":"0","c":"5","s":"3.8","d":"0","a":"59,104,104,104","l":"Cl. 35 ###79-10, Medellín, Antioquia, Colombia"}
 ,{"p":"lemuah","x":"6.240113","y":"-75.587955","n":"Le muah","t":"0","c":"7","s":"4.6","d":"0","a":"59,104,104,104","l":"Cl 34#66a-54, Medellín, Antioquia, Colombia"}
 ,{"p":"publichouse33","x":"6.239006","y":"-75.5975417","n":"Public House 33","t":"0","c":"298","s":"4.3","d":"0","a":"59,104,104,104","l":"Av. 33 ## 76 - 100, Medellín, Antioquia, Colombia"}
 ,{"p":"naturalgreenmarket","x":"6.232027","y":"-75.5989726","n":"NaturalGreen Market Mercado Saludable","t":"3","c":"10","s":"4.5","d":"0","a":"59,104,104,104","l":"ChIJYdbUl5UpRI4RlsmLyjm2IAM"}
@@ -271,7 +271,7 @@
 ,{"p":"mrfood73","x":"6.2481004","y":"-75.5924077","n":"Mr. Food","t":"0","c":"3","s":"3.0","d":"0","a":"59,104,104,104","l":"Cra. 73 ##41-2 a 41-88, Medellín, Antioquia, Colombia"}
 ,{"p":"avilasushi","x":"6.2423592","y":"-75.5832214","n":"Avila Sushi","t":"0","c":"3","s":"3.7","d":"0","a":"59,67,104,104","l":"Cra. 65 ###38-01, Medellín, Antioquia, Colombia"}
 ,{"p":"mdechorizo","x":"6.2410167","y":"-75.5968276","n":"MDE Chorizo Company","t":"0","c":"301","s":"4.5","d":"0","a":"59,104,104,104","l":"Cra. 76 ##34-16, Medellín, Antioquia, Colombia"}
-,{"p":"paellasnacks","x":"6.2103259","y":"-75.571404","n":"Paella Snack's","t":"0","c":"3","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 43b ## 09 - 19, Medellín, Antioquia, Colombia"}
+,{"p":"paellasnacks","x":"6.2103259","y":"-75.571404","n":"Paella Snacks","t":"0","c":"3","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 43b ## 09 - 19, Medellín, Antioquia, Colombia"}
 ,{"p":"latineria","x":"6.2099726","y":"-75.5713607","n":"Latinería","t":"2","c":"585","s":"4.6","d":"0","a":"59,139,133,55","l":"Cl. 9 #43b 17, Medellín, Antioquia, Colombia"}
 ,{"p":"bambuburguer","x":"7.8437879","y":"-72.4696897","n":"Bambu Burguer Fast Food","t":"0","c":"0","s":"0.0","d":"0","a":"59,104,104,104","l":"Calle 17 #12-55 Barrio La Palmita, Villa Del Rosario, Norte de Santander, Colombia"}
 ,{"p":"mrfoods","x":"6.242876","y":"-75.6014311","n":"Mr Foods","t":"0","c":"9","s":"5.0","d":"0","a":"59,104,104,104","l":"Cl. 35 ##80a-36, Medellín, Antioquia, Colombia"}
@@ -279,7 +279,7 @@
 ,{"p":"laestacionenvigado","x":"6.1760013","y":"-75.5826337","n":"La Estacion","t":"0","c":"116","s":"4.5","d":"0","a":"59,104,104,104","l":"Dg. 32 #32 Sur-16 a 32 Sur-22,, Envigado, Antioquia, Colombia"}
 ,{"p":"duepizza","x":"6.1631637","y":"-75.5935839","n":"DUEPIZZA","t":"0","c":"5","s":"4.8","d":"0","a":"59,104,104,104","l":"Carrera 42b # 45a Sur-20, Envigado, Antioquia, Colombia"}
 ,{"p":"amalur","x":"6.2463562","y":"-75.5899408","n":"Amalur Café Bar","t":"2","c":"42","s":"4.6","d":"0","a":"8,31,15,32","l":"Cq. 4 ## 70 - 79, Medellín, Antioquia, Colombia"}
-,{"p":"casuposfood","x":"6.1666336","y":"-75.5908208","n":"Casupo's Food","t":"0","c":"97","s":"4.8","d":"0","a":"59,104,104,104","l":"Cl. 40H Sur ##42A 29, Envigado, Antioquia, Colombia"}
+,{"p":"casuposfood","x":"6.1666336","y":"-75.5908208","n":"Casupos Food","t":"0","c":"97","s":"4.8","d":"0","a":"59,104,104,104","l":"Cl. 40H Sur ##42A 29, Envigado, Antioquia, Colombia"}
 ,{"p":"lepanetier","x":"6.2454824","y":"-75.5939154","n":"Le Panetier","t":"0","c":"152","s":"4.4","d":"0","a":"59,104,104,104","l":"Cq. 73b, Medellín, Antioquia, Colombia"}
 ,{"p":"dimariagelateria","x":"6.2467058","y":"-75.5905181","n":"DiMaria Gelateria","t":"1","c":"6","s":"4.7","d":"0","a":"59,104,104,104","l":"Cra. 71, Cq. 4 ##09, Medellín, Antioquia, Colombia"}
 ,{"p":"restaurantesupercaliente","x":"6.16522","y":"-75.59766","n":"Restaurante Super Caliente","t":"1","c":"9","s":"4.7","d":"0","a":"59,104,104,104","l":"Envigado, Antioquia, Colombia"}
