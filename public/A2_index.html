@@ -66,6 +66,10 @@
     </script>
     <script type="text/javascript">$(document).keyup(function(e){if(e.keyCode==27){imatsch();}});
 
+function goToCoinector() {
+    var s = document.getElementById('searchInput').value;
+    window.open("https://coinector.app/#/" + s);
+}
 
     </script>
     <link rel="stylesheet" href="A4_styles.min.css">
@@ -79,6 +83,11 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Menu"><span
             class="navbar-toggler-icon"></span></button>
+
+
+    <form class="form-inline my-2 my-lg-0" onsubmit="goToCoinector()">
+        <input class="form-control mr-sm-2"  style="width:120px;" type="search" placeholder="Search" id="searchInput" aria-label="Search">
+    </form>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item text-white"><a class="nav-link text-white" target="_blank"
