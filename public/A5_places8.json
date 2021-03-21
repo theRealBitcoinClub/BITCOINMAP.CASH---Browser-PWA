@@ -996,7 +996,6 @@
 ,{"p":"misterx","x":"-30.0418219","y":"-51.2213975","n":"Mister X","t":"0","c":"945","s":"4.1","d":"0","a":"59,60,61,104","l":"R. José do Patrocínio, 827 - Cidade Baixa, Porto Alegre - RS, 90050-001, Brasil"}
 ,{"p":"insoniabar","x":"-30.0417259","y":"-51.2211081","n":"IN Sônia Bar","t":"2","c":"275","s":"4.5","d":"0","a":"59,60,61,104","l":"R. José do Patrocínio, 822 - Cidade Baixa, Porto Alegre - RS, 90050-000, Brasil"}
 ,{"p":"madrugasbar","x":"-30.0315877","y":"-51.2242712","n":"Madrugas Bar e Restaurante","t":"0","c":"29","s":"4.6","d":"0","a":"59,60,61,104","l":"Av. Sen. Salgado Filho, 359 - Centro Histórico, Porto Alegre - RS, 90010-490, Brasil"}
-,{"p":"hotelrecantoverde","x":"-13.7773628","y":"-47.2661374","n":"Hotel Recanto Verde - Chapada dos Veadeiros #Hospedagem #Turismo #Business #Aventura","t":"5","c":"109","s":"4.6","d":"0","a":"163,104,104,104","l":"Av. Pedro Álvares Cabral, 311 - Centro, Teresina de Goiás - GO, 73795-000, Brasil"}
 ,{"p":"dashcafebrazil","x":"-29.1647696","y":"-51.176024","n":"DASH Cafe","t":"2","c":"40","s":"4.7","d":"0","a":"29,115,16,6","l":"R. Vinte de Setembro, 1556 - sala 01 - Centro, Caxias do Sul - RS, 95020-450, Brasil"}
 ,{"p":"vouka","x":"40.1000285","y":"23.4355944","n":"Vouka","t":"0","c":"57","s":"4.8","d":"0","a":"15,120,71,108","l":"Afytos 630 77, Greece"}
 ,{"p":"yingbin","x":"51.0191235","y":"4.4823813","n":"Ying bin","t":"0","c":"131","s":"4.4","d":"0","a":"18,15,99,135","l":"Hendrik Consciencestraat 38, 2800 Mechelen, Belgium"}
@@ -1005,3 +1004,4 @@
 ,{"p":"masiavillalonga","x":"40.028066","y":"-0.193033","n":"Masia Villalonga","t":"5","c":"29","s":"4.7","d":"0","a":"163,120,90,27","l":"Poligono 16 CV-21 km 4,3, (Urb el Xarco), 12110 L'Alcora, Castellón, Spain"}
 ,{"p":"subwayhockenheim","x":"49.3284805","y":"8.5384415","n":"Subway Hockenheim","t":"0","c":"427","s":"4.3","d":"0","a":"55,7,8,99","l":"Gleisstraße 1, 68766 Hockenheim, Germany"}
 ,{"p":"decumanihoteldecharme","x":"40.8465767","y":"14.2549314","n":"Decumani Hotel de Charme","t":"5","c":"356","s":"5.0","d":"0","a":"163,120,90,93","l":"Via S. Giovanni Maggiore Pignatelli, 15, 80134 Napoli NA, Italy"}]
+,{"p":"juiceflywine&spirits","x":"34.0035485","y":"-118.3963312","n":"Juicefly Wine & Spirits | Alcohol Delivery","t":"2","c":"10","s":"5.0","d":"0","a":"81,82,83,32","l":"10725 Jefferson Blvd, Culver City, CA 90230, Estados Unidos"}]
