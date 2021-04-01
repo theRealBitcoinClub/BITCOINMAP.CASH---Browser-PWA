@@ -1005,22 +1005,23 @@
 ,{"p":"masiavillalonga","x":"40.028066","y":"-0.193033","n":"Masia Villalonga","t":"5","c":"29","s":"4.7","d":"0","a":"163,120,90,27","l":"Poligono 16 CV-21 km 4,3, (Urb el Xarco), 12110 L'Alcora, Castellón, Spain"}
 ,{"p":"subwayhockenheim","x":"49.3284805","y":"8.5384415","n":"Subway Hockenheim","t":"0","c":"427","s":"4.3","d":"0","a":"55,7,8,99","l":"Gleisstraße 1, 68766 Hockenheim, Germany"}
 ,{"p":"decumanihoteldecharme","x":"40.8465767","y":"14.2549314","n":"Decumani Hotel de Charme","t":"5","c":"356","s":"5.0","d":"0","a":"163,120,90,93","l":"Via S. Giovanni Maggiore Pignatelli, 15, 80134 Napoli NA, Italy"}
-,{"p":"juiceflywine&spirits","x":"34.0035485","y":"-118.3963312","n":"Juicefly Wine & Spirits | Alcohol Delivery","t":"2","c":"10","s":"5.0","d":"0","a":"81,82,83,32","l":"10725 Jefferson Blvd, Culver City, CA 90230, Estados Unidos"}
-,{"p":"seabreeze","x":"13.7846085","y":"100.5354186","n":"Sea Breeze ซีฟู้ด","t":"0","c":"286","s":"4.0","d":"0","a":"135,100,96,97","l":"9 ถนน พระรามที่ 6 Samsen Nai, Phaya Thai, Bangkok 10400, Tailandia"}
-,{"p":"thegibraltar","x":"-34.6183619","y":"-58.3766299","n":"The Gibraltar","t":"0","c":"3758","s":"4.3","d":"0","a":"100,29,32,,7","l":"Perú 895, C1068 AAG, Buenos Aires, Argentina"}
-,{"p":"achrainer-Moosen","x":"47.4514275","y":"12.137493","n":"Achrainer-Moosen","t":"5","c":"7","s":"5.0","d":"0","a":"98,120,71,,14","l":"Grafenweg 36, 6361 Grafenweg, Austria"}
-,{"p":"paralelnípolis","x":"50.1032563","y":"14.450561","n":"Paralelní Polis","t":"2","c":"556","s":"4.5","d":"0","a":"70,76,60,29","l":"43, Dělnická 475, 170 00 Praha 7, Czechia"}
-,{"p":"romarestaurant&hotel","x":"0.4088287","y":"9.4278493","n":"Roma Restaurant & Hotel","t":"0","c":"174","s":"4.3","d":"0","a":"163,82,101,120","l":"Montée de Louis (en face du Consulat du Ghana, Libreville, Gabón"}
-,{"p":"instacrypto","x":"12.9804076","y":"77.5984471","n":"InstaCrypto","t":"999","c":"2","s":"5.0","d":"0","a":"59,60,61,63","l":"9th Main Rd, Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India"}
-,{"p":"btcwine","x":"44.8595165","y":"-0.568495","n":"BTC Wine","t":"2","c":"3","s":"5.0","d":"0","a":"81,8260,10","l":"104 Cours du Médoc, 33300 Bordeaux, Francia"}
-,{"p":"munchiessmokehouseandbar","x":"36.5450858","y":"-4.617584","n":"Munchies Smokehouse and Bar","t":"0","c":"785","s":"4.6","d":"0","a":"7,99,31,8","l":"Paseo Marítimo Rey de España, 43, 29640 Fuengirola, Málaga, Spain"}
-,{"p":"walmartsupercenter","x":"44.895144","y":"-93.0807883","n":"Walmart Supercenter","t":"3","c":"3789","s":"3.5","d":"0","a":"114,95,92,8","l":"1644 S Robert St, St Paul, MN 55118, Estados Unidos"}
-,{"p":"masserialelamie","x":"40.54757","y":"17.4645445","n":"Masseria Le Lamie","t":"0","c":"193","s":"4.6","d":"0","a":"162,163,98,120","l":"Contrada Eredità, 72029 Villa Castelli BR, Italia"}
-,{"p":"ladulceparada","x":"39.4646459","y":"-0.3834662","n":"La Dulce parada","t":"2","c":"20","s":"4.9","d":"0","a":"31,32,81,82","l":"Ramon y Cajal, 17, 46007 Valencia, España"}
-,{"p":"791hotel","x":"-40.8075748","y":"-65.0986974","n":"791 HOTEL","t":"5","c":"237","s":"4.5","d":"0","a":"97,90,120,56","l":"Calle Buyayisky Antonio, Ing. Jacobacci y, R8521 Las Grutas, Río Negro, Argentina"}
-,{"p":"kingofood.com","x":"43.3236581","y":"11.8116856","n":"Kingofood.com","t":"3","c":"1","s":"5.0","d":"0","a":"81,82,119,138","l":"Via Cassia, 52047 Marciano AR, Italia"}
-,{"p":"mesóngaleatorrevieja","x":"38.0005077","y":"-0.7056695","n":"Mesón Galea Torrevieja - Aceptamos Bitcoin","t":"0","c":"50","s":"4.6","d":"0","a":"31,32,120,117","l":"Calle Cerezo, 515, 03184 Torrevieja, Alicante, España"}
-,{"p":"casamonteisabel","x":"10.321351","y":"-84.8249617","n":"Casa Monte Isabel","t":"5","c":"7","s":"5.0","d":"0","a":"90,98,163,56","l":"Calle 8, Provincia de Puntarenas, Monteverde"}
-,{"p":"themissingburro","x":"13.7306761","y":"100.5782813","n":"The Missing Burro","t":"0","c":"480","s":"4.5","d":"0","a":"129,130,135,138","l":"145 Sing Waet Lom Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Tailandia"}
+,{"p":"juiceflywine&spirits","x":"34.0035485","y":"-118.3941425","n":"Juicefly Wine & Spirits | Alcohol Delivery","t":"2","c":"10","s":"5.0","d":"0","a":"81,82,83,32","l":"10725 Jefferson Blvd, Culver City, CA 90230, Estados Unidos"}
+,{"p":"seabreeze","x":"13.7845451","y":"100.5355842","n":"Sea Breeze ซีฟู้ด","t":"0","c":"286","s":"4.0","d":"0","a":"135,100,96,97","l":"9 ถนน พระรามที่ 6 Samsen Nai, Phaya Thai, Bangkok 10400, Tailandia"}
+,{"p":"thegibraltar","x":"-34.6183619","y":"-58.3744412","n":"The Gibraltar","t":"0","c":"3758","s":"4.3","d":"0","a":"100,29,32,7","l":"Perú 895, C1068 AAG, Buenos Aires, Argentina"}
+,{"p":"achrainer-Moosen","x":"47.4514275","y":"12.1396817","n":"Achrainer-Moosen","t":"5","c":"7","s":"5.0","d":"0","a":"98,120,71,14","l":"Grafenweg 36, 6361 Grafenweg, Austria"}
+,{"p":"paralelnípolis","x":"50.1033854","y":"14.4505578","n":"Paralelní Polis","t":"2","c":"556","s":"4.5","d":"0","a":"70,76,60,29","l":"43, Dělnická 475, 170 00 Praha 7, Czechia"}
+,{"p":"romarestaurant&hotel","x":"0.4104582","y":"9.4307524","n":"Roma Restaurant & Hotel","t":"0","c":"174","s":"4.3","d":"0","a":"163,82,101,120","l":"Montée de Louis (en face du Consulat du Ghana, Libreville, Gabón"}
+,{"p":"instacrypto","x":"12.9804076","y":"77.6006358","n":"Instacrypto","t":"999","c":"2","s":"5.0","d":"0","a":"59,60,61,63","l":"9th Main Rd, Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India"}
+,{"p":"btcwine","x":"44.8595165","y":"-0.568495","n":"BTC Wine","t":"2","c":"3","s":"5.0","d":"0","a":"81,82,60,10","l":"104 Cours du Médoc, 33300 Bordeaux, Francia"}
+,{"p":"munchiessmokehouseandbar","x":"36.5451778","y":"-4.6178111","n":"Munchies Smokehouse and Bar","t":"0","c":"788","s":"4.6","d":"0","a":"7,99,31,8","l":"Paseo Marítimo Rey de España, 43, 29640 Fuengirola, Málaga, Spain"}
+,{"p":"walmartsupercenter","x":"44.8971527","y":"-93.0775287","n":"Walmart Supercenter","t":"3","c":"3789","s":"3.5","d":"0","a":"114,95,92,8","l":"1644 S Robert St, St Paul, MN 55118, Estados Unidos"}
+,{"p":"masserialelamie","x":"40.54757","y":"17.4667332","n":"Masseria Le Lamie","t":"0","c":"193","s":"4.6","d":"0","a":"162,163,98,120","l":"Contrada Eredità, 72029 Villa Castelli BR, Italia"}
+,{"p":"ladulceparada","x":"39.4646459","y":"-0.3812775","n":"La Dulce parada","t":"2","c":"20","s":"4.9","d":"0","a":"31,32,81,82","l":"Ramon y Cajal, 17, 46007 Valencia, España"}
+,{"p":"791hotel","x":"-40.8075748","y":"-65.0965087","n":"791 HOTEL","t":"5","c":"237","s":"4.5","d":"0","a":"97,90,120,56","l":"Calle Buyayisky Antonio, Ing. Jacobacci y, R8521 Las Grutas, Río Negro, Argentina"}
+,{"p":"kingofood.com","x":"43.3236542","y":"11.8138743","n":"Kingofood.com","t":"3","c":"1","s":"5.0","d":"0","a":"81,82,119,138","l":"Via Cassia, 52047 Marciano AR, Italia"}
+,{"p":"mesóngaleatorrevieja","x":"38.0005077","y":"-0.7034808","n":"Mesón Galea Torrevieja - Aceptamos Bitcoin","t":"0","c":"50","s":"4.6","d":"0","a":"31,32,120,117","l":"Calle Cerezo, 515, 03184 Torrevieja, Alicante, España"}
+,{"p":"casamonteisabel","x":"10.321351","y":"-84.822773","n":"Casa Monte Isabel","t":"5","c":"7","s":"5.0","d":"0","a":"90,98,163,56","l":"Calle 8, Provincia de Puntarenas, Monteverde"}
+,{"p":"themissingburro","x":"13.7306761","y":"100.58047","n":"The Missing Burro","t":"0","c":"480","s":"4.5","d":"0","a":"129,130,135,138","l":"145 Sing Waet Lom Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Tailandia"}
 ,{"p":"taverna","x":"50.162967","y":"16.2732019","n":"Taverna","t":"0","c":"403","s":"3.8","d":"0","a":"14,15,7,99","l":"Balbínova 254, 516 01 Rychnov nad Kněžnou, Czechia"}
 ,{"p":"complejodoñaolga","x":"-29.4023983","y":"-66.8662542","n":"Complejo Doña Olga","t":"5","c":"195","s":"4.2","d":"0","a":"90,98,163,56","l":"Sta Cruz 589, F5300 La Rioja, Argentina"}]
+,{"p":"پیرایش پونو","x":"35.3185285","y":"46.9902407","n":"پیرایش پونو","t":"999","c":"1","s":"5.0","d":"0","a":"27,93,45,52","l":"Sanandaj, Kurdistan Province, Iran"}]
