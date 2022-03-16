@@ -238,7 +238,7 @@ function loadIcons() {
         }
     };
 
-    xmlhttp.open("GET", "A5_places8.json", true);
+    xmlhttp.open("GET", "AA_places2022.json", true);
     xmlhttp.send();
 }
 
