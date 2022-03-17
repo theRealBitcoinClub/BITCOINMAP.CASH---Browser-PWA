@@ -35,7 +35,7 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    { url: 'A5_places8.json', revision: '383683' },
+    { url: 'AA_places2022.json', revision: '383683' },
     { url: 'A1_jquery-3.3.1.min.js', revision: '383682' },
     { url: 'A1_markerclusterer.min.js', revision: '383682' },
     { url: 'A5_script.min.js', revision: '383684' },
