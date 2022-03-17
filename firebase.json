@@ -77,23 +77,43 @@
         "type": 301
       },
       {
-        "source": "/add",
+        "source": "/en",
         "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdOZO7kOgq6_PTTiuKWlVaNSjRH0TmL7KHC1RMunad0qFe3ag/viewform",
         "type": 301
       },
       {
-        "source": "/enviar",
-        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdoF9GuW10T1VwD89kNYAK6EVOlqRCuDaIJB4RO34QvnzYsog/viewform",
+        "source": "/es",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdzk5QNqaqDboJ8YZ6hTmT4caa54y5DjvsNy06eX3Qvrr8tzQ/viewform",
         "type": 301
       },
       {
-        "source": "/04242190606",
-        "destination": "/bitcoin-bch-dash-qr-code-generator?dash=XyjVDbwhSD5nWrjwNHWG8Aj2qFaCfZQnoo",
+        "source": "/fr",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdUmOsESQ7b4QPZfglsnSgrv1S1c-X9zGSerD4PpKct8g545Q/viewform",
         "type": 301
       },
       {
-        "source": "/04123335448",
-        "destination": "/bitcoin-bch-dash-qr-code-generator?dash=Xuj4jhHyyBen5UsBh3Py41GzMWsVhkhK5S",
+        "source": "/it",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfOBGg2nVJotuN0GSxx_xG6uXpwaxA579BCP6CCQyP7691tBw/viewform",
+        "type": 301
+      },
+      {
+        "source": "/id",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfxYdbQ5OB-skvDFSY8QjCb7aduHowYaNDDYOEGW5fA1NF38A/viewform",
+        "type": 301
+      },
+      {
+        "source": "/jp",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfy3ZzYnAMDo9fcjTjCqsMimb-DbeNWoWDC_OWBc4mzQlA0ZA/viewform",
+        "type": 301
+      },
+      {
+        "source": "/ja",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfy3ZzYnAMDo9fcjTjCqsMimb-DbeNWoWDC_OWBc4mzQlA0ZA/viewform",
+        "type": 301
+      },
+      {
+        "source": "/de",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeFNNUVWZtdvSLRKZWwtn-wD7PAOiO4jXUHXPyVMTDPnca24w/viewform",
         "type": 301
       },
       {
@@ -127,8 +147,13 @@
         "type": 301
       },
       {
+        "source": "/coinmap",
+        "destination": "https://coinmap.cash",
+        "type": 301
+      },
+      {
         "source": "/teaser",
-        "destination": "/coinmap",
+        "destination": "https://coinmap.cash",
         "type": 301
       }
     ]
