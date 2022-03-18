@@ -10,11 +10,11 @@
     "rewrites": [
       {
         "source": "/",
-        "destination": "/A2_index.html"
+        "destination": "/AA_index.html"
       },
       {
         "source": "/index.html",
-        "destination": "/A2_index.html"
+        "destination": "/AA_index.html"
       }
     ],
     "headers": [
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "source": "A2_index.html",
+        "source": "AA_index.html",
         "headers": [
           {
             "key": "Last-Modified",
@@ -154,6 +154,26 @@
       {
         "source": "/teaser",
         "destination": "https://coinmap.cash",
+        "type": 301
+      },
+      {
+        "source": "/dl",
+        "destination": "https://therealbitcoinclub.github.io/",
+        "type": 301
+      },
+      {
+        "source": "/download",
+        "destination": "https://therealbitcoinclub.github.io/",
+        "type": 301
+      },
+      {
+        "source": "/install",
+        "destination": "https://therealbitcoinclub.github.io/",
+        "type": 301
+      },
+      {
+        "source": "/release",
+        "destination": "https://therealbitcoinclub.github.io/",
         "type": 301
       }
     ]
