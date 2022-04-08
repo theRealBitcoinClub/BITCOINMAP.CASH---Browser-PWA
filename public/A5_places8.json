@@ -1004,4 +1004,34 @@
 ,{"p":"lacubanita","x":"20.2094258","y":"-87.4707764","n":"La Cubanita","t":"0","c":"1","s":"5.0","d":"0","a":"5,8,0,143","l":"Av Kukulkan, 77760 Tulum, Q.R., Mexico"}
 ,{"p":"masiavillalonga","x":"40.028066","y":"-0.193033","n":"Masia Villalonga","t":"5","c":"29","s":"4.7","d":"0","a":"163,120,90,27","l":"Poligono 16 CV-21 km 4,3, (Urb el Xarco), 12110 L'Alcora, Castellón, Spain"}
 ,{"p":"subwayhockenheim","x":"49.3284805","y":"8.5384415","n":"Subway Hockenheim","t":"0","c":"427","s":"4.3","d":"0","a":"55,7,8,99","l":"Gleisstraße 1, 68766 Hockenheim, Germany"}
-,{"p":"decumanihoteldecharme","x":"40.8465767","y":"14.2549314","n":"Decumani Hotel de Charme","t":"5","c":"356","s":"5.0","d":"0","a":"163,120,90,93","l":"Via S. Giovanni Maggiore Pignatelli, 15, 80134 Napoli NA, Italy"}]
+,{"p":"decumanihoteldecharme","x":"40.8465767","y":"14.2549314","n":"Decumani Hotel de Charme","t":"5","c":"356","s":"5.0","d":"0","a":"163,120,90,93","l":"Via S. Giovanni Maggiore Pignatelli, 15, 80134 Napoli NA, Italy"}
+,{"p":"juiceflywine&spirits","x":"34.0035485","y":"-118.3941425","n":"Juicefly Wine & Spirits | Alcohol Delivery","t":"2","c":"10","s":"5.0","d":"0","a":"81,82,83,32","l":"10725 Jefferson Blvd, Culver City, CA 90230, Estados Unidos"}
+,{"p":"seabreeze","x":"13.7845451","y":"100.5355842","n":"Sea Breeze ซีฟู้ด","t":"0","c":"286","s":"4.0","d":"0","a":"135,100,96,97","l":"9 ถนน พระรามที่ 6 Samsen Nai, Phaya Thai, Bangkok 10400, Tailandia"}
+,{"p":"thegibraltar","x":"-34.6183619","y":"-58.3744412","n":"The Gibraltar","t":"0","c":"3758","s":"4.3","d":"0","a":"100,29,32,7","l":"Perú 895, C1068 AAG, Buenos Aires, Argentina"}
+,{"p":"achrainer-Moosen","x":"47.4514275","y":"12.1396817","n":"Achrainer-Moosen","t":"5","c":"7","s":"5.0","d":"0","a":"98,120,71,14","l":"Grafenweg 36, 6361 Grafenweg, Austria"}
+,{"p":"paralelnípolis","x":"50.1033854","y":"14.4505578","n":"Paralelní Polis","t":"2","c":"556","s":"4.5","d":"0","a":"70,76,60,29","l":"43, Dělnická 475, 170 00 Praha 7, Czechia"}
+,{"p":"romarestaurant&hotel","x":"0.4104582","y":"9.4307524","n":"Roma Restaurant & Hotel","t":"0","c":"174","s":"4.3","d":"0","a":"163,82,101,120","l":"Montée de Louis (en face du Consulat du Ghana, Libreville, Gabón"}
+,{"p":"instacrypto","x":"12.9804076","y":"77.6006358","n":"Instacrypto","t":"999","c":"2","s":"5.0","d":"0","a":"59,60,61,63","l":"9th Main Rd, Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India"}
+,{"p":"btcwine","x":"44.8595165","y":"-0.568495","n":"BTC Wine","t":"2","c":"3","s":"5.0","d":"0","a":"81,82,60,10","l":"104 Cours du Médoc, 33300 Bordeaux, Francia"}
+,{"p":"munchiessmokehouseandbar","x":"36.5451778","y":"-4.6178111","n":"Munchies Smokehouse and Bar","t":"0","c":"788","s":"4.6","d":"0","a":"7,99,31,8","l":"Paseo Marítimo Rey de España, 43, 29640 Fuengirola, Málaga, Spain"}
+,{"p":"walmartsupercenter","x":"44.8971527","y":"-93.0775287","n":"Walmart Supercenter","t":"3","c":"3789","s":"3.5","d":"0","a":"114,95,92,8","l":"1644 S Robert St, St Paul, MN 55118, Estados Unidos"}
+,{"p":"masserialelamie","x":"40.54757","y":"17.4667332","n":"Masseria Le Lamie","t":"0","c":"193","s":"4.6","d":"0","a":"162,163,98,120","l":"Contrada Eredità, 72029 Villa Castelli BR, Italia"}
+,{"p":"ladulceparada","x":"39.4646459","y":"-0.3812775","n":"La Dulce parada","t":"2","c":"20","s":"4.9","d":"0","a":"31,32,81,82","l":"Ramon y Cajal, 17, 46007 Valencia, España"}
+,{"p":"791hotel","x":"-40.8075748","y":"-65.0965087","n":"791 HOTEL","t":"5","c":"237","s":"4.5","d":"0","a":"97,90,120,56","l":"Calle Buyayisky Antonio, Ing. Jacobacci y, R8521 Las Grutas, Río Negro, Argentina"}
+,{"p":"kingofood.com","x":"43.3236542","y":"11.8138743","n":"Kingofood.com","t":"3","c":"1","s":"5.0","d":"0","a":"81,82,119,138","l":"Via Cassia, 52047 Marciano AR, Italia"}
+,{"p":"mesóngaleatorrevieja","x":"38.0005077","y":"-0.7034808","n":"Mesón Galea Torrevieja - Aceptamos Bitcoin","t":"0","c":"50","s":"4.6","d":"0","a":"31,32,120,117","l":"Calle Cerezo, 515, 03184 Torrevieja, Alicante, España"}
+,{"p":"casamonteisabel","x":"10.321351","y":"-84.822773","n":"Casa Monte Isabel","t":"5","c":"7","s":"5.0","d":"0","a":"90,98,163,56","l":"Calle 8, Provincia de Puntarenas, Monteverde"}
+,{"p":"themissingburro","x":"13.7306761","y":"100.58047","n":"The Missing Burro","t":"0","c":"480","s":"4.5","d":"0","a":"129,130,135,138","l":"145 Sing Waet Lom Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Tailandia"}
+,{"p":"taverna","x":"50.162967","y":"16.2732019","n":"Taverna","t":"0","c":"403","s":"3.8","d":"0","a":"14,15,7,99","l":"Balbínova 254, 516 01 Rychnov nad Kněžnou, Czechia"}
+,{"p":"complejodoñaolga","x":"-29.4023983","y":"-66.8662542","n":"Complejo Doña Olga","t":"5","c":"195","s":"4.2","d":"0","a":"90,98,163,56","l":"Sta Cruz 589, F5300 La Rioja, Argentina"}
+,{"p":"پیرایش پونو","x":"35.3185285","y":"46.9902407","n":"پیرایش پونو","t":"999","c":"1","s":"5.0","d":"0","a":"27,93,45,52","l":"Sanandaj, Kurdistan Province, Iran"}
+,{"p":"nailsbynight","x":"36.1017142","y":"-115.189135","n":"Nails By Night","t":"999","c":"103","s":"4.0","d":"0","a":"45,93,54,52","l":"3720 W Tropicana Ave #8, Las Vegas, NV 89103, United States"}
+,{"p":"verduleriagrandchildren","x":"-32.9435478","y":"-60.6691877","n":"Verduleria Grandchildren","t":"999","c":"20","s":"4.6","d":"0","a":"17,4,19,73","l":"OSD Rosario Santa Fe AR, San Luis 3318, S2000, Argentina"}
+,{"p":"thebreakclub","x":"-34.5724346","y":"-58.4472892","n":"The Brak Club","t":"2","c":"59","s":"4.7","d":"0","a":"55,83,82,57","l":"Moldes 673, C1426 ALA, Buenos Aires, Argentina"}
+,{"p":"karunabienestar","x":"41.3595139","y":"2.0724171","n":"Karuna Bienestar","t":"999","c":"44","s":"4.7","d":"0","a":"6,80,27,93","l":"Carrer de la Costa Brava, 3, 08940 Cornellà de Llobregat, Barcelona, España"}
+,{"p":"massagedeluxebyluk","x":"39.556382","y":"2.685436","n":"Massage Deluxe by Luk","t":"999","c":"30","s":"4.9","d":"0","a":"27,93,45,6","l":"Carrer del Golf de Biscaia, 2, 07007 Palma, Illes Balears, España"}
+,{"p":"hotelpeacelodge","x":"9.8959531","y":"-85.4679763","n":"Hotel Peace & Lodge","t":"5","c":"88","s":"4.8","d":"0","a":"163,90,56,120","l":"Península de Nicoya, Costa Rica"}
+,{"p":"linsasiaküche","x":"47.4173279","y":"9.7398151","n":"Lins Asia Küche","t":"0","c":"202","s":"4.5","d":"0","a":"15,96,5,135","l":"Dr. Anton-Schneider-Straße 2, 6850 Dornbirn, Austria"}
+,{"p":"bilsdalehousebluebellscottage","x":"54.4160312","y":"-1.1233824","n":"Bilsdale House & Bluebells Cottage","t":"5","c":"3","s":"5.0","d":"0","a":"120,90,163,98","l":"Bilsdale House, Urra, Middlesbrough TS9 7HZ, Reino Unido"}
+,{"p":"gasthofpensionkreuzer","x":"47.9027676","y":"13.5166324","n":"Gasthof Pension Kreuzer","t":"5","c":"224","s":"4.4","d":"0","a":"98,15,67,16","l":"Abtsdorf 34, 4864 Attersee am Attersee, Austria"}
+,{"p":"easyromerooms","x":"41.8758941","y":"12.4474691","n":"Easy Rome Rooms","t":"5","c":"1","s":"5.0","d":"0","a":"98,90,163,56","l":"Via Federico Ozanam, 23, 00152 Roma RM, Italia"}]
