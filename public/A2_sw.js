@@ -26,7 +26,7 @@ workbox.routing.registerRoute(
     cacheName: 'image-cache',
     plugins: [
       new workbox.expiration.Plugin({
-        maxEntries: 100,
+        maxEntries: 1000,
         // Cache for a maximum of a month
         maxAgeSeconds: 30 * 24 * 60 * 60,
       })
@@ -35,10 +35,10 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    { url: 'AA_places2022.json', revision: '383683' },
+    { url: 'AA_places2022.json', revision: '383687' },
     { url: 'A1_jquery-3.3.1.min.js', revision: '383682' },
     { url: 'A1_markerclusterer.min.js', revision: '383682' },
-    { url: 'A5_script.min.js', revision: '383684' },
+    { url: 'A5_script.min.js', revision: '383687' },
     { url: 'A1_maptilerlayer.js', revision: '383682' },
     { url: 'A1_popper1.14.3.min.js', revision: '383682' },
     { url: 'A1_noty.min.js', revision: '383682' },

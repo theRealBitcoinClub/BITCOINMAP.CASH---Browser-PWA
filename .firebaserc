@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "bitcoincashmap"
-  }
+    "default": "bitcoincashmap",
+    "staging": "bitcoinmap-testing"
+  },
+  "targets": {}
 }
