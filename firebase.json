@@ -10,20 +10,20 @@
     "rewrites": [
       {
         "source": "/",
-        "destination": "/AA_index.html"
+        "destination": "/AA_1_index.html"
       },
       {
         "source": "/index.html",
-        "destination": "/AA_index.html"
+        "destination": "/AA_1_index.html"
       }
     ],
     "headers": [
       {
-        "source": "A2_sw.js",
+        "source": "AA_1_sw.js",
         "headers": [
           {
             "key": "Last-Modified",
-            "value": "Sun, 05 July 2020 00:03:37 GMT"
+            "value": "Sun, 05 June 2022 00:03:37 GMT"
           },
           {
             "key": "Cache-Control",
@@ -32,11 +32,11 @@
         ]
       },
       {
-        "source": "AA_index.html",
+        "source": "AA_1_index.html",
         "headers": [
           {
             "key": "Last-Modified",
-            "value": "Sun, 05 July 2020 00:03:37 GMT"
+            "value": "Sun, 05 June 2022 00:03:37 GMT"
           },
           {
             "key": "Cache-Control",

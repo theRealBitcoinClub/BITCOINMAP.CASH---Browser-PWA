@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f09799ff-3b94-4de0-90eb-e3f315f4f471" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/A5_script.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/A5_script.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/AA_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/AA_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/AA_places2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/AA_places2022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/A4_styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/A4_styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/embedded.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/embedded.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/embedded.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/embedded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
